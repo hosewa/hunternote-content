@@ -1,0 +1,2806 @@
+{
+  "schemaVersion": 1,
+  "language": "es",
+  "publishedAt": "2026-10-28T18:16:57.570292+00:00",
+  "model": "gemma4:26b",
+  "entries": [
+    {
+      "source": "사냥 팁 | 세력 다툼",
+      "text": "Consejos de caza | 세력 다툼",
+      "unresolvedTerms": [
+        "세력 다툼"
+      ]
+    },
+    {
+      "source": "몬스터들이 영역을 두고 싸우는 세력 다툼 상황을 활용하면 몬스터의 허점을 노려 사냥할 수 있습니다.",
+      "text": "Si aprovechas la situación de 세력 다툼 en la que los monstruos luchan por su territorio, podrás cazar aprovechando sus puntos débiles.",
+      "unresolvedTerms": [
+        "세력 다툼"
+      ]
+    },
+    {
+      "source": "공식 글 본문 텍스트 · 이미지/영상 미분석 · 2026-10-23 확인",
+      "text": "Texto del cuerpo de la publicación oficial · Imagen/Video no analizado · Verificar 2026-10-23",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "무기 소개 | 해머",
+      "text": "Introducción de arma | Martillo",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "모으기 단계가 오를수록 강력해지며, 최대 단계에서 강 모아 상태로 진입하여 새로운 단계를 해방할 수 있습니다.",
+      "text": "Se vuelve más fuerte a medida que aumenta la etapa de acumulación, y en la etapa máxima, puede entrar en el estado 강 모아 para desbloquear una nueva etapa.",
+      "unresolvedTerms": [
+        "강 모아"
+      ]
+    },
+    {
+      "source": "가드는 불가능하지만 모으기 중에도 이동이 가능합니다.",
+      "text": "No es posible realizar guardia, pero es posible moverse incluso durante la acumulación.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "모으기 중에는 회전 공격으로 전환하여 위치를 조정할 수 있습니다.",
+      "text": "Durante la acumulación, puede cambiar a un ataque giratorio para ajustar su posición.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "몬스터의 머리를 노려 기절시키고 공격 기회를 잡으세요.",
+      "text": "Apunta a la cabeza del monstruo para aturdirlo y aprovechar la oportunidad de ataque.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "해머는 기동성과 파괴력을 갖춘 무기로, 가드는 불가능하지만 모으기 중에도 이동할 수 있습니다.",
+      "text": "Martillo es un arma con movilidad y poder destructivo; no permite guardia, pero es posible moverse incluso durante la carga.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "모으기 단계를 높여 더 강력한 공격을 할 수 있으며, 최대 단계에서는 강 모아 상태가 됩니다.",
+      "text": "Es posible realizar ataques más potentes aumentando los niveles de carga, y en el nivel máximo se entra en el estado 강 모아.",
+      "unresolvedTerms": [
+        "강 모아"
+      ]
+    },
+    {
+      "source": "새로운 단계를 해방해 강력한 일격을 날리거나, 모으기 중 회전 공격으로 전환하여 위치를 조정할 수 있습니다.",
+      "text": "Se puede liberar un nuevo nivel para lanzar un golpe poderoso, o cambiar a un ataque giratorio durante la carga para ajustar la posición.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "몬스터의 머리를 노려 기절시킨 뒤 공격하는 것이 특징입니다.",
+      "text": "Su característica es apuntar a la cabeza del 몬스터 para aturdirlo y luego atacar.",
+      "unresolvedTerms": [
+        "몬스터"
+      ]
+    },
+    {
+      "source": "공식 글 본문 및 공식 해머 영상 화면 설명 · 2026.10.23 확인 / 본문 재확인 2026-10-23",
+      "text": "Descripción de la pantalla del texto oficial y del video oficial de Martillo · Confirmar 2026.10.23 / Reconfirmar el texto 2026-10-23",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "몬스터 정보 모음집 ①",
+      "text": "Colección de información de 몬스터 ①",
+      "unresolvedTerms": [
+        "몬스터"
+      ]
+    },
+    {
+      "source": "융광종 도스쟈그라스: 식욕이 크게 증가하여 더 큰 먹이를 삼킬 수 있으며, 이를 빠르게 소화해 체력을 회복합니다.",
+      "text": "융광종 도스쟈그라스: El apetito aumenta considerablemente, permitiendo tragar presas más grandes y digerirlas rápidamente para recuperar salud.",
+      "unresolvedTerms": [
+        "융광종",
+        "도스쟈그라스"
+      ]
+    },
+    {
+      "source": "융광종 푸케푸케: 넓은 범위에 독액을 내뿜을 수 있으며, 꼬리에 저장된 대량의 독액으로 치명적인 공격을 합니다.",
+      "text": "융광종 푸케푸케: Puede escupir veneno en un área amplia y realiza un ataque letal con la gran cantidad de veneno almacenada en la cola.",
+      "unresolvedTerms": [
+        "융광종",
+        "푸케푸케"
+      ]
+    },
+    {
+      "source": "아이솔레시아 섬의 몬스터인 융광종 도스쟈그라스와 융광종 푸케푸케의 정보를 소개합니다.",
+      "text": "Presentamos información sobre los monstruos de la isla Aesolandia, 융광종 도스쟈그라스 y 융광종 푸케푸케.",
+      "unresolvedTerms": [
+        "융광종",
+        "도스쟈그라스",
+        "푸케푸케"
+      ]
+    },
+    {
+      "source": "공식 글과 몬스터 소개 이미지 2장 · 2026.10.22 확인 / 본문 재확인 2026-10-23",
+      "text": "Ver publicación oficial e imagen de presentación de monstruos 2 hojas · 2026.10.22 / Reconfirmación del texto 2026-10-23",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "세계관 소개 | 제작과 글라이더",
+      "text": "Introducción del mundo | Fabricación y planeador",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "제작 소재로 집라인이나 송풍 장치 같은 시설을 설치해 이동할 수 있으며, 발명 레벨을 높여 글라이더의 다양한 능력을 해제하며 탐험할 수 있습니다.",
+      "text": "Es posible desplazarse instalando instalaciones como tirolesas o dispositivos de ventilación como materiales de fabricación, y se puede explorar desbloqueando diversas habilidades del planeador al aumentar 발명 레벨.",
+      "unresolvedTerms": [
+        "발명 레벨"
+      ]
+    },
+    {
+      "source": "세계관 소개 | 건설 시스템",
+      "text": "Introducción del mundo | Sistema de construcción",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "아이솔레시아 섬 탐험을 돕는 건설 시스템을 소개합니다. 집라인, 송풍 장치, 미니 캠프, 자동 채집 시설 등을 설치하여 이동과 자원 채집을 편리하게 할 수 있습니다. 전망대 레벨이 높아지면 보상이 늘어나고 건설 가능한 시설도 추가되며, 시설은 평평한 지반에 배치해야 합니다.",
+      "text": "Presentamos el sistema de construcción que ayuda a explorar la isla Aesolandia. Es posible facilitar el desplazamiento y la recolección de recursos instalando tirolesas, dispositivos de ventilación, mini campamentos, instalaciones de recolección automática, etc. A medida que el nivel del observatorio aumenta, las recompensas crecen y se añaden instalaciones que se pueden construir; las instalaciones deben colocarse en terreno plano.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "세계관 소개 | 식사 시스템",
+      "text": "Introducción del mundo | Sistema de comidas",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "진수성찬 식당에서 주방장 아이루와 루타코들이 조리한 요리를 즐길 수 있는 식사 시스템을 소개합니다. 요리는 식당에서 즉시 섭취하거나 포장할 수 있으며, 사냥 시작 전 요리를 먹어 특별한 효과를 얻을 수 있습니다.",
+      "text": "Presentamos el sistema de comidas en 진수성찬 식당, donde se pueden disfrutar los platos cocinados por el chef Palico y los 루타코. Los platos pueden consumirse inmediatamente en el restaurante o empaquetarse, y se pueden comer antes de comenzar la caza para obtener efectos especiales.",
+      "unresolvedTerms": [
+        "진수성찬 식당",
+        "루타코"
+      ]
+    },
+    {
+      "source": "세계관 소개 | 발명 시스템",
+      "text": "Introducción al mundo | 발명 시스템",
+      "unresolvedTerms": [
+        "발명 시스템"
+      ]
+    },
+    {
+      "source": "서바이벌, 제작, 글라이더, 채집 기능을 포함하는 발명 시스템을 소개합니다. 발명 노드를 활성화하고 레벨을 올려 새로운 시설과 능력을 해제할 수 있으며, 탐험이나 아이루 상회를 통해 발명 경험치를 얻어 레벨을 올릴 수 있습니다.",
+      "text": "Presentamos 발명 시스템, que incluye funciones de supervivencia, fabricación, planeador y recolección. Al activar 발명 노드 y subir de nivel, podrás desbloquear nuevas instalaciones y habilidades, y puedes subir de nivel obteniendo 발명 경험치 a través de la exploración o 아이루 상회.",
+      "unresolvedTerms": [
+        "아이루 상회",
+        "발명 시스템",
+        "발명 경험치",
+        "발명 노드"
+      ]
+    },
+    {
+      "source": "지역 소개 | 거목의 벌판",
+      "text": "Introducción de región | 거목의 벌판",
+      "unresolvedTerms": [
+        "거목의 벌판"
+      ]
+    },
+    {
+      "source": "거대한 나무들이 숲을 이루고 있는 거목의 벌판 지역을 소개합니다. 이곳은 자원이 풍부하고 다양한 생태계가 공존하는 곳이지만, 숲 깊은 곳에는 환경 이변으로 인한 위협이 존재합니다.",
+      "text": "Presentamos la región de 거목의 벌판, donde árboles gigantes forman un bosque. Este es un lugar rico en recursos donde coexisten diversos ecosistemas, pero en lo profundo del bosque existen amenazas causadas por anomalías ambientales.",
+      "unresolvedTerms": [
+        "거목의 벌판"
+      ]
+    },
+    {
+      "source": "모험가 소개 | 아케니아",
+      "text": "Introducción de aventurero | 아케니아",
+      "unresolvedTerms": [
+        "아케니아"
+      ]
+    },
+    {
+      "source": "지원형 포지션의 모험가 아케니아를 소개합니다. 아케니아는 방어력이 높은 랜스를 사용하며, 공격을 통해 투지를 쌓고 기술을 사용해 강력한 일격과 함께 많은 양의 실드를 얻을 수 있습니다.",
+      "text": "Presentamos al aventurero de posición de apoyo 아케니아. 아케니아 utiliza un Lanza con alta defensa, acumula 투지 mediante ataques y puede obtener una gran cantidad de escudos junto con un golpe poderoso al usar su habilidad.",
+      "unresolvedTerms": [
+        "아케니아",
+        "투지"
+      ]
+    },
+    {
+      "source": "모험가 소개 영상 | 아케니아",
+      "text": "Video de introducción de aventurero | 아케니아",
+      "unresolvedTerms": [
+        "아케니아"
+      ]
+    },
+    {
+      "source": "아케니아는 방어력이 높은 랜스를 무기로 사용하며, 공격을 지속하면서 투지를 높이는 특징이 있습니다.",
+      "text": "아케니아 utiliza un Lanza de alta defensa como arma y tiene la característica de aumentar 투지 mientras continúa atacando.",
+      "unresolvedTerms": [
+        "아케니아",
+        "투지"
+      ]
+    },
+    {
+      "source": "일부 기술은 축적된 투지를 전부 사용하여 강력한 공격을 가하는 대신, 많은 양의 실드를 획득합니다.",
+      "text": "Algunas habilidades, en lugar de realizar un ataque poderoso utilizando todo el 투지 acumulado, obtienen una gran cantidad de escudo.",
+      "unresolvedTerms": [
+        "투지"
+      ]
+    },
+    {
+      "source": "지역 소개 | 찬란한 군도",
+      "text": "Introducción de la región | 찬란한 군도",
+      "unresolvedTerms": [
+        "찬란한 군도"
+      ]
+    },
+    {
+      "source": "찬란한 군도는 아이솔레시아 섬 남동쪽 암석 대지에 위치한 지역입니다.",
+      "text": "찬란한 군도 es una región situada en el terreno rocoso al sureste de la isla de Aesolandia.",
+      "unresolvedTerms": [
+        "찬란한 군도"
+      ]
+    },
+    {
+      "source": "다양한 색상의 균류와 조류가 가득하여 독특한 생태계를 보여줍니다.",
+      "text": "Muestra un ecosistema único, lleno de hongos y algas de diversos colores.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "몬스터 소개｜리오레이아 아종",
+      "text": "Introducción de monstruos｜리오레이아 아종",
+      "unresolvedTerms": [
+        "리오레이아 아종",
+        "리오레이아"
+      ]
+    },
+    {
+      "source": "벚꽃빛 갑각을 가진 리오레이아의 아종입니다.",
+      "text": "Es una subespecie de 리오레이아 con un caparazón de color rosa cereza.",
+      "unresolvedTerms": [
+        "리오레이아"
+      ]
+    },
+    {
+      "source": "독이 있는 꼬리를 적극적으로 휘둘러 사냥감을 약화시킨 후 공격하는 특징이 있습니다.",
+      "text": "Tiene la característica de debilitar a su presa agitando activamente su cola venenosa antes de atacar.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "몬스터 소개 | 융광종 쿠루루야크",
+      "text": "Introducción de monstruos | 융광종 쿠루루야크",
+      "unresolvedTerms": [
+        "쿠루루야크",
+        "융광종"
+      ]
+    },
+    {
+      "source": "아이솔레시아 섬에만 서식하는 융광화된 조룡종 개체입니다.",
+      "text": "Es un espécimen de tipo 조룡종 fusionado que solo habita en la isla Aesolandia.",
+      "unresolvedTerms": [
+        "조룡종"
+      ]
+    },
+    {
+      "source": "땅속의 융석을 탐지하고 강화된 앞발로 이를 캐내어 무기로 활용합니다.",
+      "text": "Detecta 융석 bajo tierra y lo excava con sus patas delanteras reforzadas para utilizarlo como arma.",
+      "unresolvedTerms": [
+        "융석"
+      ]
+    },
+    {
+      "source": "모험가 소개 | 엔쇼우",
+      "text": "Presentación del aventurero | 엔쇼우",
+      "unresolvedTerms": [
+        "엔쇼우"
+      ]
+    },
+    {
+      "source": "엔쇼우는 대검을 사용하는 돌격형 포지션의 모험가입니다.",
+      "text": "엔쇼우 es un aventurero de posición de asalto que utiliza Gran espada.",
+      "unresolvedTerms": [
+        "엔쇼우"
+      ]
+    },
+    {
+      "source": "피해를 감수하며 기술을 강화해 높은 폭발적 대미지를 입히는 공격 방식을 가졌습니다.",
+      "text": "Posee un estilo de ataque que consiste en recibir daño para fortalecer sus habilidades y causar un alto daño explosivo.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "몬스터 소개｜네르기간테",
+      "text": "Presentación del monstruo｜네르기간테",
+      "unresolvedTerms": [
+        "네르기간테"
+      ]
+    },
+    {
+      "source": "고룡종이 출현한 장소에는 반드시 나타난다는 소문이 있는 고룡입니다. 파괴의 끝에 도달하기 위해 몸을 사리지 않는 특징이 있어 멸진룡이라는 별명을 가지고 있습니다.",
+      "text": "Es un 고룡 sobre el cual existen rumores de que siempre aparece en los lugares donde surgen 고룡종. Tiene el apodo de 멸진룡 debido a su característica de no escatimar esfuerzos para alcanzar el fin de la destrucción.",
+      "unresolvedTerms": [
+        "고룡",
+        "고룡종",
+        "멸진룡"
+      ]
+    },
+    {
+      "source": "지역 소개｜열사 평원",
+      "text": "Presentación de la región｜열사 평원",
+      "unresolvedTerms": [
+        "열사 평원"
+      ]
+    },
+    {
+      "source": "모래 언덕과 험준한 바위가 있는 혹독한 사막 지역으로, 극심한 기온 차와 모래폭풍이 발생하는 것이 특징입니다. 오아시스를 중심으로 생물들이 영역 다툼을 벌이며 살아갑니다.",
+      "text": "Es una región desértica implacable con dunas de arena y rocas escarpadas, caracterizada por temperaturas extremas y tormentas de arena. Los seres vivos habitan luchando por el territorio centrándose en los oasis.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "몬스터 소개｜루가 에알다",
+      "text": "Introducción de monstruos | Ruger Aidal",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "아이솔레시아 섬에서 발견된 고룡종으로, 전신의 광소를 경질화하여 공격과 방어에 활용하며 주변 광소를 흡수해 강력한 공격을 펼칩니다.",
+      "text": "Una especie de dragón antiguo encontrada en la isla Aesolandia, que endurece su 광소 por todo el cuerpo para usarlo en ataque y defensa, y lanza ataques poderosos absorbiendo el 광소 circundante.",
+      "unresolvedTerms": [
+        "광소"
+      ]
+    },
+    {
+      "source": "무기 소개 | 헤비보우건",
+      "text": "Introducción de arma | Ballesta pesada",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "헤비보우건은 여러 종류의 탄을 유연하게 사용할 수 있는 무기입니다.\n강력탄은 사용 수량에 제한이 있으며, 시간이 지나거나 공격을 명중시키면 회복됩니다.\n몬스터의 공격을 완벽한 타이밍에 회피한 후에는 이동과 카운터 공격 중 하나를 유연하게 선택할 수 있습니다.",
+      "text": "Ballesta pesada es un arma que puede utilizar de manera flexible varios tipos de proyectiles.\n강력탄 tiene un límite en la cantidad de uso, y se recupera con el paso del tiempo o al acertar ataques.\nTras esquivar el ataque de un monstruo en el momento perfecto, se puede elegir flexiblemente entre desplazarse o realizar un contraataque.",
+      "unresolvedTerms": [
+        "강력탄"
+      ]
+    },
+    {
+      "source": "모험가 소개 | 페페",
+      "text": "Introducción de aventurero | 페페",
+      "unresolvedTerms": [
+        "페페"
+      ]
+    },
+    {
+      "source": "헤비보우건을 사용하는 교란형 포지션의 캐릭터로, 공중에서 밀집 탄막을 퍼부어 전장을 제압하는 화력 포인트 역할을 수행합니다.",
+      "text": "Es un personaje de posición de distracción que utiliza Ballesta pesada, desempeñando el papel de punto de potencia de fuego que domina el campo de batalla lanzando una densa cortina de proyectiles desde el aire.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "무기 소개 | 대검",
+      "text": "Introducción de arma | Gran espada",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "대검은 차지를 통해 공격력을 높일 수 있는 가장 강력한 위력의 무기입니다. 공격 속도는 느리지만 회피, 빠른 납도, 가드를 활용해 유연하게 대처할 수 있습니다.",
+      "text": "Gran espada es el arma de mayor potencia que puede aumentar el poder de ataque mediante la carga. Aunque su velocidad de ataque es lenta, se puede responder con flexibilidad utilizando la evasión, el desenfunde rápido y la guardia.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "몬스터 소개 | 크샬다오라",
+      "text": "Introducción de monstruos | 크샬다오라",
+      "unresolvedTerms": [
+        "크샬다오라"
+      ]
+    },
+    {
+      "source": "크샬다오라는 사나운 폭풍으로 주변을 보호하는 고룡입니다. 단단한 금속 비늘로 된 피부를 가지고 있습니다.",
+      "text": "크샬다오라 es un dragón anciano que protege su entorno con una tormenta feroz. Posee una piel compuesta de escamas metálicas resistentes.",
+      "unresolvedTerms": [
+        "크샬다오라"
+      ]
+    },
+    {
+      "source": "모험가 소개 | 미도리",
+      "text": "Introducción de aventureros | 미도리",
+      "unresolvedTerms": [
+        "미도리"
+      ]
+    },
+    {
+      "source": "돌격형 포지션인 미도리는 태도를 사용하는 모험가입니다. 샤미센에 숨겨진 특제 태도로 춤추듯 가벼운 움직임을 선보이며, 연속 공격으로 연기게이지를 쌓아 태도의 기세를 강화합니다.",
+      "text": "미도리, una posición de tipo asalto, es un aventurero que utiliza Espada larga. Con el Espada larga especial oculto en su 샤미센, muestra movimientos ligeros como si bailara, y mediante ataques continuos acumula 연기게이지 para fortalecer el ímpetu de Espada larga.",
+      "unresolvedTerms": [
+        "샤미센",
+        "연기게이지",
+        "미도리"
+      ]
+    },
+    {
+      "source": "무기 소개 | 랜스",
+      "text": "Introducción de armas | Lanza",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "랜스는 가드 성능이 뛰어나며 빈틈이 적은 찌르기 공격에 특화된 무기입니다. 다양한 가드 방식과 카운터를 구사할 수 있으며, 공격을 막아낸 뒤 강력한 카운터 기술로 연결할 수 있습니다.",
+      "text": "Lanza es un arma con un excelente rendimiento de guardia y especializada en ataques de estocada con pocos puntos ciegos. Se pueden emplear diversos métodos de guardia y contraataques, y es posible conectar una poderosa técnica de contraataque tras bloquear un ataque.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "모험가 소개｜폴리오",
+      "text": "Introducción de aventureros｜폴리오",
+      "unresolvedTerms": [
+        "폴리오"
+      ]
+    },
+    {
+      "source": "돌격형 포지션인 폴리오는 랜스를 사용하는 모험가입니다. 민첩한 발 놀림과 방패를 활용해 공수 양면으로 활동하며, 공격으로 예기 레벨을 채운 뒤 강력한 한 번의 찌르기로 큰 피해를 줍니다.",
+      "text": "폴리오, una posición de asalto, es un aventurero que utiliza Lanza. Actúa tanto en ataque como en defensa utilizando movimientos de pies ágiles y un escudo, y tras llenar 예기 레벨 con sus ataques, inflige un gran daño con una poderosa estocada única.",
+      "unresolvedTerms": [
+        "폴리오",
+        "예기 레벨"
+      ]
+    },
+    {
+      "source": "몬스터 소개 | 융광종 리오레이아 & 안쟈나프",
+      "text": "Introducción de monstruos | 융광종 리오레이아 & 안쟈나프",
+      "unresolvedTerms": [
+        "리오레이아",
+        "안쟈나프",
+        "융광종"
+      ]
+    },
+    {
+      "source": "환경의 영향을 받아 변이한 몬스터인 융광종 리오레이아와 안쟈나프를 소개합니다.",
+      "text": "Presentamos a 융광종 리오레이아 y 안쟈나프, monstruos que han mutado debido a la influencia del entorno.",
+      "unresolvedTerms": [
+        "리오레이아",
+        "안쟈나프",
+        "융광종"
+      ]
+    },
+    {
+      "source": "무기 소개 | 활",
+      "text": "Introducción de armas | Arco",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "활은 모으기 기능을 통해 다양한 사격 기술을 구사하는 무기입니다. 차지를 활용하여 화살의 수량과 위력을 높일 수 있습니다.",
+      "text": "Arco es un arma que emplea diversas técnicas de disparo mediante una función de recolección. Se puede aumentar la cantidad y la potencia de las flechas utilizando la carga.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "모험가 소개 | 매들린",
+      "text": "Introducción de aventureros | 매들린",
+      "unresolvedTerms": [
+        "매들린"
+      ]
+    },
+    {
+      "source": "지원형 포지션인 매들린은 활을 사용하는 모험가입니다. 독과 포자를 결합해 전장을 교란하며, 포자를 부착시킨 뒤 폭발시켜 적에게 피해를 주고 자신과 아군에게 강화 효과를 제공합니다.",
+      "text": "매들린, una posición de apoyo, es un aventurero que utiliza Arco. Perturba el campo de batalla combinando veneno y esporas, y tras adherir las esporas, las hace explotar para infligir daño a los enemigos y proporcionar efectos de mejora a sí mismo y a sus aliados.",
+      "unresolvedTerms": [
+        "매들린"
+      ]
+    },
+    {
+      "source": "몬스터 소개 | 융광종 리오레우스 & 디아블로스",
+      "text": "Introducción de monstruos | 융광종 리오레우스 & 디아블로스",
+      "unresolvedTerms": [
+        "리오레우스",
+        "디아블로스",
+        "융광종"
+      ]
+    },
+    {
+      "source": "아이솔레시아 섬에는 환경의 영향으로 변화한 융광종 몬스터들이 존재합니다. 이들은 공격 욕구와 능력이 강화되어 사냥 중 흉포 상태에 빠지기도 합니다.",
+      "text": "En la isla Aesolandia, existen monstruos 융광종 que han cambiado debido a la influencia del entorno. Estos tienen un deseo de ataque y habilidades reforzadas, por lo que incluso pueden caer en 흉포 상태 durante la caza.",
+      "unresolvedTerms": [
+        "융광종",
+        "흉포 상태"
+      ]
+    },
+    {
+      "source": "무기 소개 | 쌍검",
+      "text": "Introducción de arma | Espadas dobles",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "쌍검은 빠른 동작과 파도처럼 이어지는 연속 공격이 특징인 무기입니다. 귀인화 시 공격이 강화되며, 귀인 강화 상태에서는 더욱 강력한 액션을 사용할 수 있습니다.",
+      "text": "Espadas dobles es un arma que se caracteriza por movimientos rápidos y ataques continuos que fluyen como las olas. El ataque se refuerza durante 귀인화, y en el estado 귀인 강화, se pueden utilizar acciones aún más poderosas.",
+      "unresolvedTerms": [
+        "귀인화",
+        "귀인 강화"
+      ]
+    },
+    {
+      "source": "모험가 소개 | 라야",
+      "text": "Introducción de aventurero | 라야",
+      "unresolvedTerms": [
+        "라야"
+      ]
+    },
+    {
+      "source": "교란형 포지션인 라야는 쌍검을 사용하는 캐릭터입니다. 유연한 움직임으로 공격을 피하며 공세를 펼치고, 스태미나를 사용해 귀인게이지를 채워 귀인화를 발동할 수 있습니다.",
+      "text": "라야, una posición de tipo distracción, es un personaje que utiliza Espadas dobles. Esquiva ataques con movimientos flexibles mientras lanza ofensivas, y puede usar estamina para llenar 귀인게이지 y así activar 귀인화.",
+      "unresolvedTerms": [
+        "라야",
+        "귀인게이지",
+        "귀인화"
+      ]
+    },
+    {
+      "source": "무기 소개 | 태도",
+      "text": "Introducción de arma | Espada larga",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "태도는 부드러운 움직임과 연속 공격 능력이 특징인 무기입니다. 몬스터의 공격을 간파한 뒤 카운터를 시도할 수 있습니다. 일부 공격 명중 시 연기게이지 단계가 상승하며, 연기게이지가 빨간색으로 변하면 일부 액션이 강화됩니다.",
+      "text": "Espada larga es un arma que se caracteriza por movimientos suaves y la capacidad de realizar ataques continuos. Tras prever el ataque de un monstruo, se puede intentar un contraataque. Al acertar algunos ataques, el nivel de 연기게이지 aumenta, y cuando 연기게이지 cambia a rojo, algunas acciones se ven reforzadas.",
+      "unresolvedTerms": [
+        "연기게이지"
+      ]
+    },
+    {
+      "source": "동반자 소개 | 아이루, 메들리, 루타코",
+      "text": "Introducción de compañero | Palico, Trillan, Rutaco",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "아이루를 비롯해 새롭게 등장한 메들리와 루타코가 동반자로 소개되었습니다. 이들은 모험가와 함께 사냥을 진행할 수 있습니다.",
+      "text": "Se han presentado como compañeros los nuevos Trillan y Rutaco, incluyendo a Palico. Ellos pueden realizar cacerías junto al aventurero.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "[아웃랜더스] 같은 무기인데 전투는 딴판? '몬스터헌터 아웃랜더스' 모험가 시스템",
+      "text": "¿Misma arma pero el combate es totalmente distinto? El sistema de aventureros 'Monster Hunter Outlanders' en [아웃랜더스]",
+      "unresolvedTerms": [
+        "아웃랜더스"
+      ]
+    },
+    {
+      "source": "자막 요청 제한 · 다음 갱신 대기",
+      "text": "Límite de solicitud de subtítulos · Esperando próxima actualización",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "몬스터 헌터 아웃랜더스｜휴대폰으로 몬헌?! 4인 사냥·모험가 역할 살펴보기",
+      "text": "Monster Hunter Outlanders｜¡¿Monster Hunter en el móvil?! Explorando los roles de caza y aventurero con 4",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "뿡댕아 내가 다 잡아준다니까?? 【몬스터헌터 아웃랜더스】",
+      "text": "¡¡Pungdaeng-ah, te dije que yo atraparé a todos!! 【Monster Hunter Outlanders】",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "또 뿡댕이 못 살게 굴고",
+      "text": "Y volver a molestar a 뿡댕이",
+      "unresolvedTerms": [
+        "뿡댕이"
+      ]
+    },
+    {
+      "source": "제공 자막 · ko",
+      "text": "Subtítulos proporcionados · ko",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "【MHO】 인기 순위 1위 달성!🎉",
+      "text": "【MHO】 ¡Alcanzamos el puesto 1 en el ranking de popularidad!🎉",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "몬스터헌터 아웃랜더스가 한국을 포함한 여러 지역의 App Store 인기 순위 1위를 기록했습니다.",
+      "text": "Monster Hunter Outlanders ha registrado el puesto 1 en el ranking de popularidad de la App Store en varias regiones, incluyendo Corea.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "감사의 의미로 사전예약 보상 외에 특별 모집권 5개를 추가로 지급합니다.",
+      "text": "Como muestra de agradecimiento, además de las recompensas de la reserva previa, se entregarán 5 tickets de reclutamiento especiales adicionales.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "보상은 정식 오픈 후 우편함 이용이 가능할 때 수령할 수 있으며, 사전예약 달성 선물과 함께 지급될 예정입니다.",
+      "text": "Las recompensas podrán ser reclamadas una vez que el buzón esté disponible tras el lanzamiento oficial, y se entregarán junto con los regalos por alcanzar los objetivos de la reserva previa.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "【MHO】 사냥 팁 | 지형 함정",
+      "text": "【MHO】 Consejos de caza | Trampas de terreno",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "【MHO】 정식 오픈 기념 모험단 '사냥의 유대' 이벤트 예고 안내",
+      "text": "【MHO】 Anuncio del evento de la hermandad de aventureros '사냥의 유대' en celebración del lanzamiento oficial",
+      "unresolvedTerms": [
+        "사냥의 유대"
+      ]
+    },
+    {
+      "source": "정식 오픈 기념으로 전 지역 서버 모험단 레벨 합계가 목표에 도달하면 보상을 지급하는 이벤트를 예고했습니다.",
+      "text": "Para celebrar el lanzamiento oficial, se ha anunciado un evento que otorgará recompensas si la suma de los niveles de 모험단 de los servidores de todas las regiones alcanza un objetivo determinado.",
+      "unresolvedTerms": [
+        "모험단"
+      ]
+    },
+    {
+      "source": "참여 기간은 정식 오픈 후부터 11월 30일(월) 23:59(UTC+9)까지입니다.",
+      "text": "El periodo de participación es desde el lanzamiento oficial hasta el 11 de 30 (lunes) 23:59 (UTC+9).",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "보상은 한정 스탬프와 한정 명예 칭호 등입니다.",
+      "text": "Las recompensas incluyen sellos limitados y títulos de honor limitados, entre otros.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "상세 내용은 정식 서비스 시작 후 게임 내 이벤트 센터에서 확인할 수 있으며, 커뮤니티 캠페인 내용은 공식 SNS를 통해 안내될 예정입니다.",
+      "text": "Los detalles se podrán consultar en el Centro de Eventos dentro del juego tras el inicio del servicio oficial, y la información sobre la campaña de la comunidad se anunciará a través de las redes sociales oficiales.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "【MHO】 모험단 정보 회의 특별 방송 하이라이트",
+      "text": "【MHO】 Highlights de la transmisión especial de la reunión de información de 모험단",
+      "unresolvedTerms": [
+        "모험단"
+      ]
+    },
+    {
+      "source": "몬스터헌터 아웃랜더스 런칭 기념 모험단 정보 회의 방송 내용을 정리하여 안내했습니다.",
+      "text": "Se ha presentado un resumen del contenido de la transmisión de la reunión de información de 모험단 para celebrar el lanzamiento de Monster Hunter Outlanders.",
+      "unresolvedTerms": [
+        "모험단"
+      ]
+    },
+    {
+      "source": "모험가들은 10월 29일 아이솔레시아 섬에서 만날 수 있습니다.",
+      "text": "Los aventureros podrán encontrarse en la isla Aesolandia el 29 de 10.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "【MHO】 정식 출시까지 D-1!",
+      "text": "【MHO】 ¡Faltan D-1 para el lanzamiento oficial!",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "몬스터헌터 아웃랜더스의 오리지널 고룡인 '루가 에알다'가 등장합니다. 동료들과 협력하여 '두 개의 태양'에 숨겨진 수수께끼를 밝혀내야 합니다. 10월 29일(목)부터 아이솔레시아 섬에서 사냥과 탐험을 시작할 수 있습니다.",
+      "text": "El dragón antiguo original de Monster Hunter Outlanders, 'Ruger Aidal', hace su aparición. Deberás colaborar con tus compañeros para resolver el misterio oculto en 'dos soles'. Podrás comenzar la caza y la exploración en la isla Aesolandia desde el 10 de 29 (jueves).",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "【MHO】 특별 모집 | 미도리",
+      "text": "【MHO】 Reclutamiento especial | 미도리",
+      "unresolvedTerms": [
+        "미도리"
+      ]
+    },
+    {
+      "source": "정식 오픈 후 특별 모집 '단풍의 선율' - 미도리 모집이 진행됩니다. 모집 기간은 정식 오픈 후부터 11월 27일(금) 11:59(UTC+9)까지이며, 해당 기간 동안 돌격형 SSR 모험가 '미도리'의 등장 확률이 상승합니다.",
+      "text": "Tras el lanzamiento oficial, se llevará a cabo el reclutamiento especial '단풍의 선율' - 미도리. El periodo de reclutamiento será desde el lanzamiento oficial hasta el 11 de 27 (viernes) 11:59 (UTC+9), y durante dicho periodo, la probabilidad de aparición de la aventurera SSR de tipo asalto '미도리' aumentará.",
+      "unresolvedTerms": [
+        "단풍의 선율",
+        "미도리"
+      ]
+    },
+    {
+      "source": "【MHO】 모험가 소개 영상 | 미도리 PV 인용 이벤트",
+      "text": "【MHO】 Vídeo de presentación de aventurero | Evento de cita del PV de 미도리",
+      "unresolvedTerms": [
+        "미도리"
+      ]
+    },
+    {
+      "source": "【MHO】 모험가 소개 영상 | 미도리",
+      "text": "【MHO】 Vídeo de presentación de aventurero | 미도리",
+      "unresolvedTerms": [
+        "미도리"
+      ]
+    },
+    {
+      "source": "정식 출시 관련 FAQ",
+      "text": "Preguntas frecuentes (FAQ) sobre el lanzamiento oficial",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "【몬스터헌터 아웃랜더스】는 2026년 10월 29일(목) 오전 07:00(UTC+9)에 안드로이드 및 iOS 플랫폼으로 정식 출시됩니다.",
+      "text": "【Monster Hunter Outlanders】 se lanzará oficialmente para las plataformas Android e iOS el 29 de 10 de 2026 (jueves) a las 07:00 (UTC+9).",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "사전 다운로드는 2026년 10월 28일(수) 낮 12:00(UTC+9)부터 가능합니다.",
+      "text": "La descarga previa estará disponible desde el miércoles 28 de 10 de 2026 a las 12:00 (UTC+9).",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "서버는 대한민국, 아시아·태평양, 라틴아메리카, 중동·아프리카 총 4개로 운영되며, 지역별 서버 간 데이터 공유나 캐릭터 이전은 불가능합니다.",
+      "text": "Los servidores operan en un total de 4 regiones: Corea, Asia-Pacífico, Latinoamérica y Medio Oriente-África, y no es posible compartir datos ni transferir personajes entre los servidores de cada región.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "지원 언어는 한국어, 일본어, 영어, 중국어(간체/번체), 프랑스어, 독일어, 스페인어, 포르투갈어입니다.",
+      "text": "Los idiomas compatibles son coreano, japonés, inglés, chino (simplificado/tradicional), francés, alemán, español y portugués.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "최소 사양은 Android 9/iOS 15(RAM 4GB/3GB), 권장 사양은 Android 12/iOS 17(RAM 8GB/6GB) 이상입니다.",
+      "text": "Los requisitos mínimos son Android 9/iOS 15 (RAM 4GB/3GB), y los requisitos recomendados son Android 12/iOS 17 (RAM 8GB/6GB) o superiores.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "계정 연동은 Google, Facebook, Garena, Apple 등을 지원하며, 게스트 계정은 정보 복구가 어려우므로 연동을 권장합니다.",
+      "text": "La vinculación de cuentas admite Google, Facebook, Garena, Apple, etc., y se recomienda la vinculación ya que es difícil recuperar la información de una cuenta de invitado.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "서로 다른 서버의 이용자와는 파티 구성이나 친구 추가가 제한되므로 함께 플레이하려면 같은 서버에서 캐릭터를 생성해야 합니다.",
+      "text": "Dado que la formación de grupos o la adición de amigos con usuarios de diferentes servidores está limitada, para jugar juntos se debe crear un personaje en el mismo servidor.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "사전예약 선물은 정식 오픈 후 게임 내 우편함을 통해 지급됩니다.",
+      "text": "Los regalos de la reserva previa se entregarán a través del buzón dentro del juego tras el lanzamiento oficial.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "【MHO】 정식 오픈 FAQ",
+      "text": "【MHO】 FAQ de apertura oficial",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "2026년 10월 29일(목) 오전 07:00:00(UTC+9)에 안드로이드 및 iOS 플랫폼으로 정식 오픈하며, 대한민국/아시아 태평양/라틴아메리카/중동·아프리카 총 4개 서버가 운영됩니다. 사전 다운로드는 2026년 10월 28일(수) 낮 12:00(UTC+9)부터 가능합니다. 서버 간 데이터 이전이나 파티 구성은 지원되지 않으며, 계정은 Google, Facebook, Garena, Apple 등을 통해 연동할 수 있습니다. 사전예약 보상은 정식 오픈 후 우편함을 통해 지급됩니다.",
+      "text": "El lanzamiento oficial en las plataformas Android e iOS será el 2026 de 10 de 29 (jueves) a las 07:00:00 (UTC+9), y se operarán un total de 4 servidores en Corea, Asia-Pacífico, Latinoamérica y Medio Oriente/África. La descarga previa estará disponible desde el 2026 de 10 de 28 (miércoles) a las 12:00 (UTC+9). No se admite la transferencia de datos entre servidores ni la formación de grupos, y las cuentas pueden vincularse a través de Google, Facebook, Garena, Apple, etc. Las recompensas de la reserva previa se entregarán a través del buzón tras el lanzamiento oficial.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "【MHO】 고객센터 및 전용 창구 이용 안내",
+      "text": "【MHO】 Guía de uso del centro de atención al cliente y ventanilla exclusiva",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "정식 오픈 이후 문의 유형에 따라 오류 및 버그 제보, 건의 사항 접수, 번역 오류 제보, 그 외 문의(결제 및 계정 등)를 위한 전용 창구를 안내합니다. 고객센터 운영 시간은 평일 10:00 ~ 19:00(UTC+9)이며, 1:1 문의는 24시간 접수 가능합니다. 주말 및 공휴일에는 운영하지 않으며, 운영 시간 외 접수 건은 다음 영업일부터 순차적으로 답변합니다.",
+      "text": "Tras el lanzamiento oficial, se informará sobre las ventanillas exclusivas para reportar errores y bugs, recibir sugerencias, reportar errores de traducción y otras consultas (pagos, cuentas, etc.) según el tipo de consulta. El horario de atención del centro de atención al cliente es de 10:00 a 19:00 (UTC+9) en días laborables, y las consultas de 1:1 pueden recibirse durante 24 horas. No se opera durante los fines de semana ni los días festivos, y las consultas recibidas fuera del horario de atención se responderán secuencialmente a partir del siguiente día hábil.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "【MHO】 사전 다운로드 오픈",
+      "text": "【MHO】 Pre-descarga abierta",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "2026년 10월 29일(목) 07:00:00(UTC+9)에 정식 출시될 예정이며, Android(약 16GB)와 iOS(약 20GB) 플랫폼을 지원합니다. 정식 출시 전 로그인 화면에서 리소스를 미리 다운로드할 수 있습니다. 서버는 대한민국, 아시아 태평양, 중동·아프리카, 라틴아메리카로 운영되며 각 서버 데이터는 독립적입니다. 원활한 플레이를 위해 권장 사양 충족을 권장하며, 기기 발열 시 설정을 낮추는 것이 좋습니다.",
+      "text": "Está previsto el lanzamiento oficial el 2026 de 10 de 29 (jueves) a las 07:00:00 (UTC+9), y es compatible con las plataformas Android (aprox. 16 GB) e iOS (aprox. 20 GB). Antes del lanzamiento oficial, se pueden descargar los recursos de antemano en la pantalla de inicio de sesión. Los servidores se operarán en Corea, Asia-Pacífico, Medio Oriente/África y Latinoamérica, y los datos de cada servidor son independientes. Se recomienda cumplir con las especificaciones recomendadas para un juego fluido, y es aconsejable bajar los ajustes si el dispositivo se calienta.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "【MHO】 📢 모험단 정보 회의 특별 방송 안내 (10/28(수) 16:58 내용 수정)",
+      "text": "【MHO】 📢 Anuncio de la transmisión especial de la reunión de información de la hermandad (10/28(miércoles) 16:58 modificación de contenido)",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "정식 출시 전 모험단 정보 회의 특별 방송이 2026년 10월 28일(수) 19:30(UTC+9)에 공식 유튜브 채널에서 진행됩니다. 방송에서는 아이솔레시아 섬의 모험, 무기 종류, 모험가, 사냥 콘텐츠 등의 정보를 소개할 예정입니다. 시청자를 위한 게임 내 아이템 교환 코드 선물도 제공됩니다.",
+      "text": "Antes del lanzamiento oficial, se llevará a cabo una transmisión especial de la reunión de información de la 모험단 el 2026 de 10 de 28 (miércoles) 19:30 (UTC+9) en el canal oficial de YouTube. En la transmisión, se presentará información sobre la aventura en la isla de Aesolandia, los tipos de armas, los 모험가, el contenido de 사냥, entre otros. También se proporcionarán códigos de canje de objetos dentro del juego para los espectadores.",
+      "unresolvedTerms": [
+        "모험단",
+        "모험가",
+        "사냥"
+      ]
+    },
+    {
+      "source": "【MHO】 🎉사전예약 1,500만 달성!🎉",
+      "text": "【MHO】 🎉¡Pre-registro de 1,500만 alcanzado!🎉",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "몬스터헌터 아웃랜더스의 전 세계 사전예약이 1,500만 명을 돌파했습니다.",
+      "text": "El pre-registro mundial de Monster Hunter Outlanders ha superado los 1,500만 personas.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "사전예약 수치는 글로벌, 중국 지역을 포함하며 공식 홈페이지와 각 마켓의 수치를 합산한 결과입니다.",
+      "text": "Las cifras de pre-registro incluyen las regiones global y China, y son el resultado de la suma de las cifras de la página oficial y de cada tienda.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "보상: 상시 모집권 5개와 프라임 베리 20개가 정식 출시 시 지급됩니다.",
+      "text": "Recompensa: Se entregarán 5 상시 모집권 y 20 프라임 베리 en el lanzamiento oficial.",
+      "unresolvedTerms": [
+        "상시 모집권",
+        "프라임 베리"
+      ]
+    },
+    {
+      "source": "【MHO】 몬스터 소개｜디아블로스 아종",
+      "text": "【MHO】 Introducción de monstruos | Subespecie de 디아블로스",
+      "unresolvedTerms": [
+        "디아블로스"
+      ]
+    },
+    {
+      "source": "【MHO】 정식 출시까지 D-2!",
+      "text": "【MHO】 ¡Faltan D-2 para el lanzamiento oficial!",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "10월 29일 목요일, 아이솔레시아 섬에서 사냥과 탐험이 시작됩니다.",
+      "text": "El jueves 29 de 10, la caza y la exploración comenzarán en la isla Aesolandia.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "압도적인 존재감을 가진 고룡의 습격에 대비하여 토벌에 도전할 수 있습니다.",
+      "text": "Se puede desafiar la subyugación para prepararse ante el ataque de un dragón antiguo con una presencia abrumadora.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "【MHO】 정식 출시까지 D-3!",
+      "text": "【MHO】 ¡D-3 para el lanzamiento oficial!",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "모험가들이 비행선을 타고 아이솔레시아 섬에 도착하여 동료들과 파티를 꾸려 사냥을 떠나는 게임입니다. 10월 29일(목)부터 아이솔레시아 섬에서 사냥과 탐험을 시작할 수 있습니다.",
+      "text": "Es un juego en el que los aventureros llegan a la isla Aesolandia en un dirigible y forman grupos con sus compañeros para ir de caza. Desde el jueves 29 de 10, se podrá comenzar la caza y la exploración en la isla Aesolandia.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "【MHO】 정식 출시까지 D-4!",
+      "text": "【MHO】 ¡D-4 para el lanzamiento oficial!",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "10월 29일(목) 아이솔레시아 섬에서 사냥과 탐험이 시작됩니다.",
+      "text": "El jueves 29 de 10, la caza y la exploración comenzarán en la isla Aesolandia.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "아이솔레시아 섬에는 특수한 환경의 영향을 받은 '융광종 몬스터'가 출현하였으니 필드 탐색 시 주의가 필요합니다.",
+      "text": "En la isla Aesolandia han aparecido 'monstruos 융광종' afectados por un entorno especial, por lo que se requiere precaución al explorar el campo.",
+      "unresolvedTerms": [
+        "융광종"
+      ]
+    },
+    {
+      "source": "【MHO】 정식 출시까지 D-5!",
+      "text": "【MHO】 ¡D-5 para el lanzamiento oficial!",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "10월 29일(목) 아이솔레시아 섬에서 사냥과 탐색의 여정이 시작됩니다.\n기존의 '동반자 아이루'와 이번 작품의 오리지널 동반자인 '동반자 루타코', '동반자 메들리'가 등장하여 사냥을 함께할 수 있습니다.",
+      "text": "El viaje de caza y exploración comenzará el 29 de 10 (jueves) en la isla Aesolandia.\nLos 'Compañeros Palico' existentes y los compañeros originales de esta obra, 'Compañero Rutaco' y 'Compañero Trillan', aparecerán para cazar juntos.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "【MHO】  사냥 팁 | 몬스터 약점",
+      "text": "【MHO】 Consejos de caza | Debilidad de los monstruos",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "【MHO】 정식 출시까지 D-6!",
+      "text": "【MHO】 ¡Faltan D-6 para el lanzamiento oficial!",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "10월 29일(목) 아이솔레시아 섬에서 정식 출시를 앞두고 있습니다.",
+      "text": "El lanzamiento oficial está previsto para el 29 de 10 (jueves) en la isla Aesolandia.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "최대 4인 파티 사냥과 필드 탐색 등 다양한 콘텐츠를 즐길 수 있습니다.",
+      "text": "Se podrán disfrutar diversos contenidos, como la caza en grupo de hasta 4 personas y la exploración de campo.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "【MHO】 커뮤니티 이벤트 규약",
+      "text": "【MHO】 Normas de los eventos de la comunidad",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "공식 커뮤니티 이벤트의 참가 자격, 부정행위 방지, 당첨 안내, 콘텐츠 규정 및 개인정보 처리 방침을 안내합니다.",
+      "text": "Se informan los requisitos de participación, la prevención de trampas, el aviso de ganadores, las normas de contenido y la política de privacidad de los eventos de la comunidad oficial.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "실물 경품은 해당 지역 내로만 배송되며, AI 활용 콘텐츠는 응모가 불가합니다.",
+      "text": "Los premios físicos se enviarán únicamente dentro de la región correspondiente, y no se podrán presentar solicitudes para contenidos que utilicen IA.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "【MHO】 정식 출시까지 D-7!",
+      "text": "【MHO】 ¡Faltan D-7 para el lanzamiento oficial!",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "10월 29일(목) 아이솔레시아 섬에서 정식 출시될 예정입니다.",
+      "text": "Está previsto que se lance oficialmente en la isla Aesolandia el 10 de 29 (jueves).",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "【MHO】 수렵단 원정대 결성! 사전예약 인증 투표 이벤트",
+      "text": "【MHO】 ¡Formación de la expedición de 수렵단! Evento de votación de verificación de reserva previa",
+      "unresolvedTerms": [
+        "수렵단"
+      ]
+    },
+    {
+      "source": "참여 기간: 2026년 10월 22일(목) ~ 2026년 10월 28일(수) 23:59까지 (UTC+9)",
+      "text": "Periodo de participación: desde el 2026 de 10 de 22 (jueves) hasta el 2026 de 10 de 28 (miércoles) a las 23:59 (UTC+9)",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "참여 방법: 사전예약을 완료한 후, 이벤트 게시글의 투표에서 완료 여부를 체크하고 댓글을 작성해야 합니다.",
+      "text": "Método de participación: tras completar la reserva previa, debe marcar la opción de finalización en la votación de la publicación del evento y escribir un comentario.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "보상 및 인원: 특별 제작 굿즈 (추첨 20명)",
+      "text": "Recompensas y participantes: Productos especiales fabricados (20 personas por sorteo)",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "발표일 및 수령 절차: 2026년 11월 4일(수) 발표되며, 당첨자에게는 영업일 기준 7일 이내에 게임사 메시지로 정보 수집 안내가 전달됩니다.",
+      "text": "Fecha de anuncio y procedimiento de recepción: se anunciará el 2026 de 11 de 4 (miércoles), y se enviará una guía de recopilación de información mediante un mensaje de la empresa del juego a los ganadores en un plazo de 7 días hábiles.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "주요 제외 조건: 계정당 1회 참여 가능하며, 투표와 댓글을 모두 작성해야 합니다. 발표 전 댓글 삭제나 라운지 탈퇴 시 제외될 수 있고, 안내된 기간 내 정보를 제출하지 않으면 당첨이 취소될 수 있습니다.",
+      "text": "Principales condiciones de exclusión: se puede participar 1 vez por cuenta, y se deben realizar tanto la votación como el comentario. Si se elimina el comentario o se abandona el lounge antes del anuncio, se puede quedar excluido, y si no se presenta la información dentro del periodo indicado, la victoria puede ser cancelada.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "【MHO】 모험가의 기대일지! 이벤트",
+      "text": "【MHO】 ¡El diario de expectativas del aventurero! Evento",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "참여 기간: 2026년 10월 22일(목) ~ 10월 28일(수) 23:59까지 (UTC+9)",
+      "text": "Periodo de participación: 2026 año 10 mes 22 día (jue) ~ 10 mes 28 día (mié) hasta las 23:59 (UTC+9)",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "참여 방법: 아이솔레시아 섬에서 가장 기대되는 모험을 주제로 이벤트 게시글에 댓글을 작성합니다.",
+      "text": "Método de participación: Escriba un comentario en la publicación del evento sobre la aventura que más le entusiasme en la isla Aesolandia.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "발표일 및 수령 절차: 2026년 11월 6일(금) 발표되며, 당첨자에게는 영업일 기준 7일 이내에 게임사 메시지로 정보 수집 안내가 전달됩니다.",
+      "text": "Fecha de anuncio y procedimiento de recepción: Se anunciará el 2026 año 11 mes 6 día (vie), y se enviará una guía de recopilación de información mediante un mensaje de la empresa del juego a los ganadores dentro de 7 días hábiles.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "주요 제외 조건: 계정당 1회 참여 가능하며, 조건에 맞는 댓글을 작성해야 합니다. 발표 전 댓글 삭제나 라운지 탈퇴 시 제외될 수 있고, 안내된 기간 내 정보를 제출하지 않으면 당첨이 취소될 수 있습니다.",
+      "text": "Principales condiciones de exclusión: Se puede participar 1 veces por cuenta, y se debe escribir un comentario que cumpla con las condiciones. Si se eliminan los comentarios o se abandona el Lounge antes del anuncio, se puede quedar fuera, y si no se envía la información dentro del periodo indicado, el premio puede ser cancelado.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "【MHO】 정식 오픈일 공개 게시물 재게시 이벤트 당첨자 안내",
+      "text": "【MHO】 Anuncio de los ganadores del evento de republicación de la publicación de la fecha de apertura oficial",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "이벤트 당첨자 안내: 정식 오픈일 공개 게시물 재게시 이벤트의 당첨자를 발표합니다.",
+      "text": "Anuncio de ganadores del evento: Se anuncian los ganadores del evento de republicación de la publicación de la fecha de apertura oficial.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "보상 및 인원: 구글 기프트카드 1만 원권 (총 30명 추첨)",
+      "text": "Recompensa y cantidad de personas: Tarjeta de regalo de Google de 1만 wones (un total de 30 personas mediante sorteo)",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "수령 절차: 당첨자에게는 영업일 기준 7일 이내에 X(구 트위터) 개별 DM으로 코드가 전달되며, KPC 카카오 통합 교환소에서 교환할 수 있습니다.",
+      "text": "Procedimiento de recepción: El código se enviará a los ganadores mediante un mensaje directo (DM) individual en X (anteriormente Twitter) en un plazo de 7 días hábiles, y podrá canjearse en el KPC 카카오 통합 교환소.",
+      "unresolvedTerms": [
+        "KPC 카카오 통합 교환소"
+      ]
+    },
+    {
+      "source": "【MHO】 사냥 팁 | 세력 다툼",
+      "text": "【MHO】 Consejos de caza | 세력 다툼",
+      "unresolvedTerms": [
+        "세력 다툼"
+      ]
+    },
+    {
+      "source": "【MHO】 사전예약 선물 변경 안내",
+      "text": "【MHO】 Aviso de cambio de los regalos de reserva previa",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "사전예약 1,500만 달성 보상인 '그레이트 성장제'가 '프라임 베리'로 명칭과 아이콘이 변경되었습니다.",
+      "text": "El '그레이트 성장제', que es la recompensa por alcanzar la reserva previa de 1,500만, ha cambiado su nombre e icono a '프라임 베리'.",
+      "unresolvedTerms": [
+        "그레이트 성장제",
+        "프라임 베리"
+      ]
+    },
+    {
+      "source": "아이템 효과는 기존과 동일하며, 모든 사전예약 선물은 정식 출시 후 지급될 예정입니다.",
+      "text": "El efecto del objeto es el mismo que antes, y todos los regalos de reserva previa se entregarán tras el lanzamiento oficial.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "【MHO】 세계관 소개 | 제작과 글라이더",
+      "text": "【MHO】 Introducción al mundo | 제작과 글라이더",
+      "unresolvedTerms": [
+        "제작과 글라이더"
+      ]
+    },
+    {
+      "source": "【MHO】 몬스터 정보 모음집 ①",
+      "text": "【MHO】 Colección de información de monstruos ①",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "【MHO】 🎉사전예약 1,300만 달성!🎉",
+      "text": "【MHO】 🎉¡Reserva previa de 1,300만 alcanzada!🎉",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "전 세계 사전예약 수가 1,300만 명을 달성했습니다.",
+      "text": "El número de pre-registros en todo el mundo ha alcanzado los 1,300만 personas.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "1,000만 달성 보상인 쌍검 모험가 '라야'는 정식 출시 시 지급됩니다.",
+      "text": "La recompensa por alcanzar 1,000만, el aventurero '라야' de Espadas dobles, se entregará en el lanzamiento oficial.",
+      "unresolvedTerms": [
+        "라야"
+      ]
+    },
+    {
+      "source": "【MHO】 도심 속 몬스터의 흔적을 찾아라! 🐾",
+      "text": "【MHO】 ¡Busca los rastros de los 몬스터 en la ciudad! 🐾",
+      "unresolvedTerms": [
+        "몬스터"
+      ]
+    },
+    {
+      "source": "참여 기간: 2026년 10월 16일(금) ~ 11월 1일(일) 23:59까지 (UTC+9)",
+      "text": "Periodo de participación: desde el 2026 de 10 de 16(vie) hasta el 11 de 1(dom) a las 23:59 (UTC+9)",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "참여 방법: 공식 X에서 진행되는 옥외광고 인증샷 이벤트로, 광고를 촬영하여 필수 해시태그와 함께 X에 전체 공개로 게시해야 합니다.",
+      "text": "Método de participación: Es un evento de fotos de verificación de publicidad exterior que se llevará a cabo en el X oficial; se debe tomar una foto del anuncio y publicarla en X de forma pública junto con los hashtags obligatorios.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "보상 및 인원: 구글 플레이 기프트 코드 30,000원권 (10명 추첨)",
+      "text": "Recompensa y cantidad: Tarjeta de regalo de Google Play de 30,000 wones (10 personas mediante sorteo)",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "발표일 및 수령 절차: 11월 5일(목) 발표되며, 당첨자에게는 영업일 기준 7일 이내에 X 개별 DM으로 경품이 지급됩니다.",
+      "text": "Fecha de anuncio y procedimiento de recepción: Se anunciará el 11 de 5(jue), y los premios se entregarán a los ganadores mediante DM individual en X dentro de 7 días hábiles.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "주요 제외 조건: 계정당 1회 참여 가능하며, 필수 해시태그 포함 및 전체 공개 상태여야 합니다. 도용, 조작, 타인의 권리 침해 게시물은 제외되며, DM 수신 불가 시 또는 발표 전 게시글 삭제/비공개 시 제외될 수 있습니다.",
+      "text": "Principales condiciones de exclusión: Se puede participar 1 vez por cuenta, y la publicación debe incluir los hashtags obligatorios y estar en modo público. Se excluirán las publicaciones que impliquen robo, manipulación o infracción de los derechos de terceros, y se puede excluir en caso de no poder recibir DM o si la publicación se elimina o se pone en privado antes del anuncio.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "【MHO】 세계관 소개 | 건설 시스템",
+      "text": "【MHO】 Introducción al mundo | Sistema de construcción",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "【MHO】 세계관 소개 | 식사 시스템",
+      "text": "【MHO】 Introducción al mundo | Sistema de comida",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "【MHO】 지역 소개 | 거목의 벌판",
+      "text": "【MHO】 Introducción de región | 거목의 벌판",
+      "unresolvedTerms": [
+        "거목의 벌판"
+      ]
+    },
+    {
+      "source": "【MHO】 세계관 소개 | 발명 시스템",
+      "text": "【MHO】 Introducción al mundo | 발명 시스템",
+      "unresolvedTerms": [
+        "발명 시스템"
+      ]
+    },
+    {
+      "source": "【MHO】 모험가 소개 | 아케니아",
+      "text": "【MHO】 Introducción de aventurero | 아케니아",
+      "unresolvedTerms": [
+        "아케니아"
+      ]
+    },
+    {
+      "source": "【MHO】 모험가 소개 영상 | 아케니아",
+      "text": "【MHO】 Vídeo de introducción de aventurero | 아케니아",
+      "unresolvedTerms": [
+        "아케니아"
+      ]
+    },
+    {
+      "source": "【MHO】 정식 오픈일 공개 게시물 재게시 이벤트",
+      "text": "【MHO】 Evento de republicación de la publicación de la fecha de apertura oficial",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "참여 기간: 2026년 09월 29일(화) ~ 10월 16일(금) 23:59까지 (UTC+9)",
+      "text": "Periodo de participación: 2026 año 09 mes 29 día (mar) ~ 10 mes 16 día (vie) hasta las 23:59 (UTC+9)",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "참여 방법: 공식 X 계정을 팔로우한 뒤, 정식 오픈일 공개 게시물을 재게시해야 합니다.",
+      "text": "Cómo participar: Debe seguir la cuenta oficial de X y republicar la publicación que anuncia la fecha de apertura oficial.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "발표일 및 수령 절차: 2026년 10월 21일(수) 발표되며, 당첨자에게는 X DM을 통해 보상이 지급됩니다.",
+      "text": "Fecha de anuncio y procedimiento de recepción: Se anunciará el 2026 de 10 de 21 (miércoles), y la recompensa se entregará a los ganadores a través de DM de X.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "주요 제외 조건: 계정당 1회 참여 가능하며, 발표 전 계정 비공개 시 제외될 수 있습니다. 또한 DM 수신이 불가능한 경우에도 당첨에서 제외됩니다.",
+      "text": "Principales condiciones de exclusión: Se puede participar 1 vez por cuenta, y si la cuenta se pone en privado antes del anuncio, podría ser excluida. Además, también se será excluido de la selección si no es posible recibir DM.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "【MHO】 정식 오픈일 공개!",
+      "text": "【MHO】 ¡Fecha de apertura oficial revelada!",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "몬스터헌터 아웃랜더스의 정식 오픈일이 2026년 10월 29일로 확정되었습니다.",
+      "text": "La fecha de apertura oficial de Monster Hunter Outlanders se ha confirmado para el 29 de 10 de 2026.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "양사 프로듀서의 축하 메시지가 공개되었습니다.",
+      "text": "Se han publicado mensajes de felicitación de los productores de ambas empresas.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "【MHO】 무기 소개 | 해머",
+      "text": "【MHO】 Introducción de armas | Martillo",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "【MHO】 TGS 2026(도쿄 게임쇼 2026) 트레일러 공개!",
+      "text": "【MHO】 ¡Tráiler de TGS 2026 (2026) revelado!",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "도쿄 게임쇼 2026 트레일러를 통해 모바일로 즐기는 사냥과 탐색 모험을 소개합니다.",
+      "text": "Presentamos la caza y la aventura de exploración para disfrutar en móviles a través del tráiler de Tokyo Game Show 2026.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "【MHO】 #AppleEvent 무대의 주인공으로 등장! 🎉",
+      "text": "【MHO】 ¡Apareciendo como el protagonista del escenario #AppleEvent! 🎉",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "몬스터 헌터 아웃랜더스가 iPhone 18 Pro 및 Pro Max의 성능을 활용할 수 있음을 알렸습니다. 쾌적한 사냥을 위한 최적화 작업이 진행 중이며, 현재 App Store에서 사전 주문을 진행하고 있습니다.",
+      "text": "Se ha anunciado que 몬스터 헌터 아웃랜더스 puede aprovechar el rendimiento del iPhone 18 Pro y Pro Max. Se están realizando trabajos de optimización para una caza cómoda, y actualmente se está llevando a cabo la preventa en la App Store.",
+      "unresolvedTerms": [
+        "몬스터 헌터 아웃랜더스"
+      ]
+    },
+    {
+      "source": "【MHO】 지역 소개 | 찬란한 군도",
+      "text": "【MHO】 Introducción de la región | 찬란한 군도",
+      "unresolvedTerms": [
+        "찬란한 군도"
+      ]
+    },
+    {
+      "source": "【MHO】 수렵단 모집 신호탄을 쏴라! PV 인용 이벤트 당첨자 안내",
+      "text": "【MHO】 ¡Dispara la bengala de reclutamiento del grupo de caza! Anuncio de los ganadores del evento de citas de PV",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "이벤트 당첨자 안내: PV 인용 이벤트의 당첨자를 발표합니다.",
+      "text": "Anuncio de ganadores del evento: Se anuncian los ganadores del evento de cita de PV.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "보상 및 인원: 구글 기프트카드 3만원권 (추첨 20명)",
+      "text": "Recompensas y cantidad: Tarjeta de regalo de Google de 3만 wones (sorteo de 20 personas)",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "수령 절차: 당첨자에게는 영업일 기준 7일 이내에 X 개별 DM으로 경품이 전달됩니다. 원활한 수령을 위해 X 계정의 '쪽지 요청 허용' 상태를 유지해야 합니다.",
+      "text": "Procedimiento de recepción: Los premios se entregarán a los ganadores mediante DM individual en un plazo de 7 días hábiles. Para una recepción sin problemas, se debe mantener el estado de 'Permitir solicitudes de mensajes' en la cuenta X.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "【MHO】 몬스터 소개｜리오레이아 아종",
+      "text": "【MHO】 Introducción de monstruos｜리오레이아 아종",
+      "unresolvedTerms": [
+        "리오레이아 아종",
+        "리오레이아"
+      ]
+    },
+    {
+      "source": "【MHO】 몬스터 소개 | 융광종 쿠루루야크",
+      "text": "【MHO】 Introducción de monstruos | 융광종 쿠루루야크",
+      "unresolvedTerms": [
+        "쿠루루야크",
+        "융광종"
+      ]
+    },
+    {
+      "source": "【MHO】 모험가 소개 | 엔쇼우",
+      "text": "【MHO】 Introducción de aventureros | 엔쇼우",
+      "unresolvedTerms": [
+        "엔쇼우"
+      ]
+    },
+    {
+      "source": "【MHO】 몬스터 소개｜네르기간테",
+      "text": "【MHO】 Introducción de monstruos｜네르기간테",
+      "unresolvedTerms": [
+        "네르기간테"
+      ]
+    },
+    {
+      "source": "【MHO】 지역 소개｜열사 평원",
+      "text": "【MHO】 Introducción de región｜열사 평원",
+      "unresolvedTerms": [
+        "열사 평원"
+      ]
+    },
+    {
+      "source": "【MHO】 몬스터 소개｜루가 에알다",
+      "text": "【MHO】 Introducción de monstruos｜Ruger Aidal",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "【MHO】 수렵단 모집 신호탄을 쏴라! PV 인용 이벤트",
+      "text": "【MHO】 ¡Dispara la bengala de reclutamiento del grupo de caza! Evento de cita de PV",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "참여 기간: 2026년 08월 26일(수) ~ 09월 09일(수) 23:59까지 (UTC+9)",
+      "text": "Periodo de participación: 2026 año 08 mes 26 día (miércoles) ~ 09 mes 09 día (miércoles) hasta las 23:59 (UTC+9)",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "참여 방법: 공식 X 계정을 팔로우하고, 필수 해시태그를 포함하여 신규 몬스터 PV 게시물을 인용한 뒤 그 링크를 이벤트 공지 댓글로 남겨야 합니다.",
+      "text": "Cómo participar: Siga la cuenta oficial de X, cite la publicación del PV del nuevo 몬스터 incluyendo los hashtags obligatorios y deje el enlace en los comentarios del anuncio del evento.",
+      "unresolvedTerms": [
+        "몬스터"
+      ]
+    },
+    {
+      "source": "발표일 및 수령 절차: 2026년 09월 11일(금) 발표되며, 당첨자에게는 게임사 메시지를 통해 보상이 지급됩니다.",
+      "text": "Fecha de anuncio y procedimiento de recepción: Se anunciará el 2026 de 09 de 11 (viernes), y la recompensa se entregará a los ganadores a través de un mensaje de la empresa del juego.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "주요 제외 조건: 계정당 1회 참여 가능하며, 인용 게시글은 전체 공개 상태여야 하고 필수 해시태그가 포함되어야 합니다. 발표 전 게시물 삭제나 계정 비공개 시 제외되며, 타인의 링크 도용 시에도 제외됩니다.",
+      "text": "Principales condiciones de exclusión: Se puede participar 1 veces por cuenta, la publicación citada debe estar en modo público e incluir los hashtags obligatorios. Se excluirá en caso de eliminar la publicación o poner la cuenta en privado antes del anuncio, así como en caso de robo de enlaces de terceros.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "【MHO】 오리지널 신규 몬스터 \"루가 에알다\" PV 공개!",
+      "text": "【MHO】 ¡Revelación del PV del nuevo 몬스터 original \"Ruger Aidal\"!",
+      "unresolvedTerms": [
+        "몬스터"
+      ]
+    },
+    {
+      "source": "앱스토어와 구글 플레이 스토어의 사전예약이 시작되었습니다. 목표 달성 시 상시 모집권 20장, 모험가 '라야' 및 다양한 보상을 제공합니다. 또한 거대한 날개를 가진 신규 고룡종 '루가 에알다'의 PV를 공개했습니다.",
+      "text": "El pre-registro en App Store y Google Play Store ha comenzado. Al alcanzar los objetivos, se proporcionarán 20 상시 모집권, el aventurero '라야' y diversas recompensas. Además, se ha revelado el PV de la nueva especie de 고룡종 'Ruger Aidal' con alas gigantes.",
+      "unresolvedTerms": [
+        "상시 모집권",
+        "고룡종",
+        "라야"
+      ]
+    },
+    {
+      "source": "【MHO】 구글/앱스토어 사전예약 안내",
+      "text": "【MHO】 Guía de pre-registro en Google/App Store",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "8월 26일부터 구글 플레이 스토어와 앱스토어에서 사전예약을 진행합니다. 사전예약은 정식 오픈 시까지 이어지며, SNS 팔로워 수와 사전예약 달성 인원수에 따라 상시 모집권, 제니, 모험가 '라야', 그레이트 성장제, 하늘색 이슬 등의 보상이 단계별로 지급됩니다. 선물은 정식 오픈 이후 지급될 예정입니다.",
+      "text": "El pre-registro se llevará a cabo en Google Play Store y App Store desde el 26 de 8. El pre-registro continuará hasta la apertura oficial, y según el número de seguidores en SNS y el número de personas que logren el pre-registro, se entregarán por etapas recompensas como 상시 모집권, 제니, el aventurero '라야', 그레이트 성장제, 하늘색 이슬, entre otras. Los regalos se entregarán después de la apertura oficial.",
+      "unresolvedTerms": [
+        "상시 모집권",
+        "제니",
+        "그레이트 성장제",
+        "하늘색 이슬",
+        "라야"
+      ]
+    },
+    {
+      "source": "【MHO】 무기 소개 | 헤비보우건",
+      "text": "【MHO】 Introducción de arma | Ballesta pesada",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "8월 26일 Gamescom Opening Night Live를 통해 새로운 정보가 공개될 예정임을 예고했습니다.",
+      "text": "Se ha anunciado que se revelará nueva información a través de Gamescom Opening Night Live el 8 de 26.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "【MHO】 모험가 소개 | 페페",
+      "text": "【MHO】 Presentación de aventureros | 페페",
+      "unresolvedTerms": [
+        "페페"
+      ]
+    },
+    {
+      "source": "【MHO】 공식 라운지 알리기 이벤트 당첨자 안내",
+      "text": "【MHO】 Anuncio de los ganadores del evento de promoción del Lounge oficial",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "이벤트 당첨자 안내: 공식 라운지 알리기 이벤트의 당첨자를 발표합니다.",
+      "text": "Anuncio de los ganadores del evento: Se anuncian los ganadores del evento de promoción del Lounge oficial.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "보상 및 인원: 특별 제작 굿즈 아크릴 스탠드 6종 중 1종 랜덤 발송",
+      "text": "Recompensas y cantidad: Se enviará de forma aleatoria 1 tipos de entre 6 tipos de soportes de acrílico de mercancía fabricada especialmente",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "수령 절차: 당첨자에게는 발표 후 7일 이내에 네이버 라운지 게임사 메시지로 개별 안내가 전달되며, 기한 내에 배송지 정보를 입력해야 합니다.",
+      "text": "Procedimiento de recepción: Los ganadores recibirán una notificación individual a través del mensaje de la empresa de juegos en el Naver Lounge dentro de 7 días tras el anuncio, y deberán ingresar la información de envío dentro del plazo establecido.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "【MHO】 사전예약 오픈! 게시글 리트윗 이벤트 당첨자 안내",
+      "text": "【MHO】 ¡Pre-registro abierto! Anuncio de los ganadores del evento de retweet de la publicación",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "사전예약 오픈 기념 리트윗 이벤트의 당첨자를 발표했습니다.",
+      "text": "Se han anunciado los ganadores del evento de retweet conmemorativo de la apertura del pre-registro.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "이벤트 선물은 아크릴 스탠드 6종 중 1종이 랜덤으로 발송되는 특별 제작 굿즈입니다.",
+      "text": "El regalo del evento es un producto especial fabricado que consiste en el envío aleatorio de 1 tipos de un total de 6 tipos de soportes de acrílico.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "당첨자에게는 경품 지급을 위한 배송지 정보 수집 안내가 X(구 트위터) 개별 DM으로 전달될 예정입니다.",
+      "text": "A los ganadores se les enviará una notificación por DM individual en X (anteriormente Twitter) para la recopilación de la información de envío para la entrega de los premios.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "원활한 안내를 위해 X 계정의 쪽지 요청 허용 상태를 유지해야 합니다.",
+      "text": "Para una comunicación fluida, se debe mantener habilitada la opción de permitir solicitudes de mensajes directos en la cuenta de X.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "당첨자가 게시글을 삭제하거나 계정을 비공개로 전환한 경우, 또는 개인정보 수집에 동의하지 않는 경우 당첨에서 제외될 수 있습니다.",
+      "text": "En caso de que el ganador elimine la publicación, cambie su cuenta a modo privado o no consienta la recopilación de información personal, podría ser excluido de la selección.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "정보 오기재 등 당첨자의 실수로 발생한 문제에 대해서는 도움을 드릴 수 없습니다.",
+      "text": "No podemos brindar ayuda con respecto a problemas causados por errores del ganador, como el registro incorrecto de la información.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "【MHO】 무기 소개 | 대검",
+      "text": "【MHO】 Introducción de armas | Gran espada",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "【MHO】 8월 26일 Gamescom coming soon",
+      "text": "【MHO】 Gamescom coming soon el 26 de 8",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "8월 26일 Gamescom Opening Night Live를 통해 새로운 정보가 공개될 예정입니다.",
+      "text": "Se revelará nueva información a través de Gamescom Opening Night Live el 26 de 8.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "【MHO】 몬스터 소개 | 크샬다오라",
+      "text": "【MHO】 Introducción de monstruos | 크샬다오라",
+      "unresolvedTerms": [
+        "크샬다오라"
+      ]
+    },
+    {
+      "source": "【MHO】 모험가 소개 | 미도리",
+      "text": "【MHO】 Introducción de aventureros | 미도리",
+      "unresolvedTerms": [
+        "미도리"
+      ]
+    },
+    {
+      "source": "【MHO】 무기 소개 | 랜스",
+      "text": "【MHO】 Introducción de armas | Lanza",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "【MHO】 모험가 소개｜폴리오",
+      "text": "【MHO】 Introducción de aventureros｜폴리오",
+      "unresolvedTerms": [
+        "폴리오"
+      ]
+    },
+    {
+      "source": "【MHO】 몬스터 소개 | 융광종 리오레이아 & 안쟈나프",
+      "text": "【MHO】 Introducción de monstruos | 융광종 리오레이아 & 안쟈나프",
+      "unresolvedTerms": [
+        "융광종",
+        "리오레이아",
+        "안쟈나프"
+      ]
+    },
+    {
+      "source": "【MHO】 무기 소개 | 활",
+      "text": "【MHO】 Introducción de armas | Arco",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "【MHO】 모험가 소개 | 매들린",
+      "text": "【MHO】 Introducción de aventureros | 매들린",
+      "unresolvedTerms": [
+        "매들린"
+      ]
+    },
+    {
+      "source": "【MHO】 몬스터 소개 | 융광종 리오레우스 & 디아블로스",
+      "text": "【MHO】 Introducción de monstruos | 융광종 리오레우스 & 디아블로스",
+      "unresolvedTerms": [
+        "융광종",
+        "리오레우스",
+        "디아블로스"
+      ]
+    },
+    {
+      "source": "【MHO】 무기 소개 | 쌍검",
+      "text": "【MHO】 Introducción de armas | Espadas dobles",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "【MHO】 모험가 소개 | 라야",
+      "text": "【MHO】 Introducción de aventureros | 라야",
+      "unresolvedTerms": [
+        "라야"
+      ]
+    },
+    {
+      "source": "【MHO】 무기 소개 | 태도",
+      "text": "【MHO】 Introducción de armas | Espada larga",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "【MHO】 동반자 소개 | 아이루, 메들리, 루타코",
+      "text": "【MHO】 Introducción de compañeros | Palico, Trillan, Rutaco",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "【MHO】 사전예약 오픈! 게시글 리트윗 이벤트",
+      "text": "【MHO】 ¡Pre-registro abierto! Evento de retweet de la publicación",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "몬스터헌터 아웃랜더스 한국 서비스 사전예약을 기념하여 진행되는 리트윗 이벤트입니다.",
+      "text": "Este es un evento de retweet realizado para conmemorar el pre-registro del servicio coreano de Monster Hunter Outlanders.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "참여 기간은 2026년 07월 24일(금)부터 08월 14일(목) 23:59(UTC+9)까지입니다.",
+      "text": "El periodo de participación es desde el 2026 año 07 mes 24 día (viernes) hasta el 08 mes 14 día (jueves) 23:59 (UTC+9).",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "참여 방법은 공식 X 계정을 팔로우한 뒤, 사전예약 오픈 포스팅을 재게시하는 것입니다.",
+      "text": "El método de participación es seguir la cuenta oficial de X y luego republicar la publicación de apertura del pre-registro.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "이벤트 선물은 특별 제작 굿즈이며, 추첨을 통해 총 25명에게 증정합니다.",
+      "text": "El regalo del evento es un producto oficial fabricado especialmente, y se entregará a un total de 25 personas mediante sorteo.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "당첨자 발표는 2026년 08월 21일(금)에 진행됩니다.",
+      "text": "El anuncio de los ganadores se realizará el 2026 de 08 de 21 (viernes).",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "당첨자에게는 X 개별 쪽지를 통해 배송지 정보 수집이 요청될 예정입니다.",
+      "text": "Se solicitará la información de envío a los ganadores a través de X mensajes individuales.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "당첨 발표 전 게시물을 삭제하거나 계정을 비공개로 전환하면 당첨에서 제외될 수 있습니다.",
+      "text": "Si se elimina la publicación o se cambia la cuenta a modo privado antes del anuncio de los ganadores, se podrá quedar fuera del sorteo.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "【MHO】 공식 라운지 알리기 이벤트!",
+      "text": "【MHO】 ¡Evento para promocionar el Lounge oficial!",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "몬스터헌터 아웃랜더스 공식 라운지 오픈을 기념하여 진행되는 홍보 이벤트입니다.",
+      "text": "Este es un evento promocional realizado para conmemorar la apertura del Lounge oficial de Monster Hunter Outlanders.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "참여 기간은 2026년 07월 24일(금)부터 08월 14일(금) 23:59(UTC+9)까지입니다.",
+      "text": "El periodo de participación es desde el 2026 de 07 de 24 (viernes) hasta el 08 de 14 (viernes) 23:59 (UTC+9).",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "참여 방법은 공식 라운지 링크를 복사하여 자신의 블로그나 SNS(X, 인스타그램, 페이스북 등)에 링크와 기대평을 전체 공개로 게시한 후, 해당 게시글의 URL을 이벤트 공지 댓글로 남기는 것입니다.",
+      "text": "El método de participación consiste en copiar el enlace del Lounge oficial y publicar el enlace junto con un comentario de expectativas de forma pública en su propio blog o redes sociales (X, Instagram, Facebook, etc.), y luego dejar la URL de dicha publicación en los comentarios del anuncio del evento.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "당첨자에게는 게임사 메시지를 통해 배송지 정보 제공이 요청될 예정입니다.",
+      "text": "A los ganadores se les solicitará la información de envío a través de un mensaje de la empresa del juego.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "계정당 1회만 참여할 수 있으며, 게시물을 삭제하거나 비공개로 전환하면 당첨에서 제외될 수 있습니다.",
+      "text": "Solo se puede participar 1 vez por cuenta, y si se elimina la publicación o se cambia a privada, se podrá quedar excluido de la selección de ganadores.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "【MHO】 정식 오픈 사전예약 안내!",
+      "text": "【MHO】 ¡Anuncio de la reserva previa al lanzamiento oficial!",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "【MHO】 사전예약 FAQ",
+      "text": "【MHO】 FAQ de la reserva previa",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "사전예약과 관련하여 2026년 연내 출시 목표이나 정확한 날짜는 미정이며, PC 버전 출시 여부도 결정된 바 없음을 안내합니다. 사전예약 취소는 이메일 문의를 통해 가능하며, 공식 홈페이지 예약 시 번호 오입력은 재신청이 필요합니다. 타 사이트 예약자는 가레나 공식 홈페이지에서 다시 신청해야 하며, 스팸 차단 설정 시 문자를 받지 못할 수 있으니 주의가 필요합니다.",
+      "text": "En relación con la reserva previa, informamos que el objetivo es el lanzamiento dentro de 2026 año, pero la fecha exacta aún no se ha decidido, y tampoco se ha determinado si se lanzará la versión de PC. La cancelación de la reserva previa es posible mediante consulta por correo electrónico, y en caso de haber ingresado mal el número al reservar en la página web oficial, será necesario volver a solicitarlo. Quienes hayan reservado en otros sitios deberán solicitarlo de nuevo en la página web oficial de Garena, y se debe tener cuidado ya que si se tiene configurado el bloqueo de spam, es posible que no se reciban los mensajes de texto.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "【MHO】 공식 라운지 오픈 안내",
+      "text": "【MHO】 Anuncio de la apertura del Lounge oficial",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "몬스터헌터 아웃랜더스 공식 라운지 오픈을 안내하며 운영 목적과 게시판 구성을 소개합니다. 라운지는 공식 공지, 이벤트, 게임 정보, 커뮤니티 게시판 등으로 운영되며, 공식 유튜브와 X, 디스코드 등 다양한 SNS 채널을 통해서도 소식을 전달할 예정입니다.",
+      "text": "Anunciamos la apertura del Lounge oficial de Monster Hunter Outlanders e introducimos el propósito de su gestión y la composición de sus tableros. El Lounge funcionará con anuncios oficiales, eventos, información del juego, tableros de la comunidad, etc., y también se planea transmitir noticias a través de diversos canales de redes sociales como el YouTube oficial, X y Discord.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "【MHO】 공식 라운지 운영정책",
+      "text": "【MHO】 Política de operación del lounge oficial",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "몬스터헌터 아웃랜더스 공식 라운지의 목적과 이용 규칙을 안내하는 운영정책입니다.",
+      "text": "Esta es la política de operación que guía el propósito y las reglas de uso del lounge oficial de Monster Hunter Outlanders.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "관리자는 정책 위반 게시물에 대해 경고 없이 편집, 이동, 삭제할 수 있으며 이용을 제한할 수 있습니다.",
+      "text": "Los administradores pueden editar, mover o eliminar publicaciones que infrinjan la política sin previo aviso, y pueden restringir el uso.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "타인의 저작권 및 초상권을 침해하거나 허위 사실 유포, 불법 프로그램 공유, 고객 간 분쟁 조장 행위는 금지됩니다.",
+      "text": "Se prohíbe infringir los derechos de autor y los derechos de imagen de terceros, difundir hechos falsos, compartir programas ilegales o fomentar disputas entre clientes.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "선정적 닉네임, 사칭, 광고성 닉네임 등 규정에 어긋나는 닉네임 사용 시 이용이 정지될 수 있습니다.",
+      "text": "El uso de apodos que infrinjan las normas, como apodos sexualmente explícitos, suplantación de identidad o apodos publicitarios, puede resultar en la suspensión del uso.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "위반 항목의 수위에 따라 게시물 삭제부터 라운지 영구 이용 정지, 나아가 게임 서비스 이용 제한까지 조치될 수 있습니다.",
+      "text": "Dependiendo de la gravedad de la infracción, se pueden tomar medidas que van desde la eliminación de la publicación hasta la suspensión permanente del uso del lounge y, además, la restricción del uso del servicio del juego.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "본 운영정책은 2026년 07월 24일부터 시행됩니다.",
+      "text": "Esta política de operación entra en vigor a partir del 2026 de 07 de 24.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "콘텐츠 크리에이터 가이드라인",
+      "text": "Directrices para creadores de contenido",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "몬스터헌터 아웃랜더스 콘텐츠 크리에이터 가이드라인은 개인 및 법인 사용자 모두에게 적용됩니다.",
+      "text": "Las directrices para creadores de contenido de Monster Hunter Outlanders se aplican tanto a usuarios individuales como a personas jurídicas.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "YouTube, Twitch 등 영상 플랫폼에서 게임 공략, 해설, 소개 등 창작적 가치가 포함된 영상 게시가 가능합니다.",
+      "text": "Es posible publicar vídeos que incluyan valor creativo, como guías de juego, comentarios o presentaciones, en plataformas de vídeo como YouTube y Twitch.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "단, 게임 컷신이나 공식 영상을 편집 없이 그대로 올리거나, 음악/비주얼 등 게임 소재를 단독으로 추출하여 배포하는 행위는 금지됩니다.",
+      "text": "Sin embargo, está prohibido subir escenas de corte del juego o vídeos oficiales tal cual sin editar, así como extraer y distribuir por separado elementos del juego como música o visuales.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "개인 크리에이터는 영상이 무료로 공개되는 조건 하에 플랫폼 광고 수익 및 자발적 후원을 받을 수 있습니다.",
+      "text": "Los creadores individuales pueden recibir ingresos publicitarios de la plataforma y donaciones voluntarias, siempre que el vídeo se publique de forma gratuita.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "법인 또는 소속사가 있는 개인은 반드시 사전 허가를 받아야만 상업적 이용이 가능합니다.",
+      "text": "Las personas jurídicas o los individuos con una agencia deben obtener permiso previo para poder realizar un uso comercial.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "공식 출시 전 미승인 콘텐츠 공개, 해킹/치트 프로그램 사용, 차별 및 비방 등 부적절한 표현이 포함된 콘텐츠 제작은 엄격히 금지됩니다.",
+      "text": "Está estrictamente prohibida la creación de contenidos que incluyan la publicación de contenido no autorizado antes del lanzamiento oficial, el uso de programas de hacking/trampas, o expresiones inapropiadas como la discriminación y la difamación.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "스포일러가 포함된 영상은 반드시 명확하게 표기해야 하며, 타인의 플레이 경험을 해치는 행위는 제한될 수 있습니다.",
+      "text": "Los vídeos que contengan spoilers deben indicarse claramente, y las acciones que perjudiquen la experiencia de juego de otros pueden estar restringidas.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "제3자의 저작권이 포함된 음악 사용 시 별도의 권리자 허가가 필요하며, 가이드라인 위반 시 영상이 삭제될 수 있습니다.",
+      "text": "Al utilizar música que incluya los derechos de autor de un 3 tercero, se requiere el permiso por separado del titular de los derechos, y el video puede ser eliminado en caso de violación de las directrices.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "결제 항목 수에 대한 의문",
+      "text": "Dudas sobre el número de artículos de pago",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "게임 내 결제 가능한 항목이 44개 이상으로 매우 많다는 내용입니다.",
+      "text": "Indica que hay una gran cantidad de artículos disponibles para compra dentro del juego, con 44 o más.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "과도한 과금 유도에 대해 우려하거나 부정적인 반응을 보이는 의견이 있습니다.",
+      "text": "Hay opiniones que expresan preocupación o reacciones negativas ante la inducción excesiva al gasto.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "특정 확장팩의 할인 정보를 공유하는 의견이 있습니다.",
+      "text": "Hay opiniones que comparten información sobre descuentos de una expansión específica.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "서버 선택 화면에 대한 우려",
+      "text": "Preocupación sobre la pantalla de selección de servidor",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "서버를 선택해야 하는 게임 방식에 대해 부정적인 인상을 받았다는 의견입니다.",
+      "text": "Es una opinión que expresa una impresión negativa sobre el estilo de juego que requiere seleccionar un servidor.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "MMORPG 장르에서 서버 혼잡도 표시가 필요한지에 대한 의문이 있습니다.",
+      "text": "Existe la duda de si es necesario mostrar la congestión del servidor en el género MMORPG.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "서버 통합 가능성에 대해 언급하며, 멀티 서버 환경이 게임 흥망성쇠에 따라 장단점이 될 수 있다는 의견이 있습니다.",
+      "text": "Se menciona la posibilidad de una integración de servidores, con la opinión de que el entorno de múltiples servidores puede ser una ventaja o desventaja según el auge o caída del juego.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "아웃랜 엔드 콘텐츠 보상 및 캐릭터 성능 관련",
+      "text": "Relacionado con las recompensas de contenido de fin de juego de 아웃랜 y el rendimiento de los personajes",
+      "unresolvedTerms": [
+        "아웃랜"
+      ]
+    },
+    {
+      "source": "엔드 콘텐츠 보상은 재화와 칭호 위주이며, 칭호 꾸미기 요소가 상위 유저를 위한 보상이라는 주장이 제기되었습니다. 또한 기본 주인공 캐릭터의 공격력이 가챠 캐릭터보다 높을 수 있다는 의견이 포함되었습니다.",
+      "text": "Se ha planteado la afirmación de que las recompensas de contenido de fin de juego se centran en divisas y títulos, y que los elementos de personalización de títulos son recompensas para los usuarios de alto nivel. Además, se incluyó la opinión de que el ataque del personaje protagonista básico podría ser mayor que el de los personajes de gacha.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "가챠 캐릭터의 성능에 의문을 표하거나, 주인공 캐릭터를 포함한 파티 구성의 효율성을 고민해야 한다는 의견이 있습니다.",
+      "text": "Existen opiniones que cuestionan el rendimiento de los personajes de gacha o que sugieren que se debe considerar la eficiencia de la composición del grupo, incluyendo al personaje protagonista.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "한국 서버 단독 운영에 대한 불만",
+      "text": "Insatisfacción con la gestión exclusiva del servidor de Corea",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "한국 서버가 별도로 분리되어 운영되는 방식에 대해 부정적인 의견이 제기되었습니다.",
+      "text": "Se han planteado opiniones negativas sobre el método de gestión en el que el servidor de Corea opera de forma separada.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "매칭 문제 등을 이유로 일본 서버로의 이전을 고려해야 한다는 주장이 있습니다.",
+      "text": "Existen argumentos que sostienen que se debería considerar la migración al servidor de Japón debido a problemas de emparejamiento, entre otros.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "아시아 서버 이용을 제안하거나, 일본 서버 또한 단독으로 운영된다는 의견이 있습니다.",
+      "text": "Hay opiniones que sugieren el uso del servidor de Asia, o que el servidor de Japón también se gestiona de forma exclusiva.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "특정 모바일 기기에서 플레이스토어 이용이 원활하지 않은 현상에 대해 질문함.",
+      "text": "Preguntas sobre el fenómeno de que el uso de Play Store no es fluido en ciertos dispositivos móviles.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "구글 계정의 국가 설정 문제나 앱 업데이트 오류일 가능성이 제기됨.",
+      "text": "Se ha planteado la posibilidad de que sea un problema de la configuración de país de la cuenta de Google o un error de actualización de la aplicación.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "애플리케이션 데이터 삭제 후 재설치나 업데이트를 통해 해결했다는 의견이 있음.",
+      "text": "Hay opiniones de que se solucionó mediante la reinstalación tras borrar los datos de la aplicación o mediante una actualización.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "모바일 기기 발열 및 성능 우려",
+      "text": "Preocupación por el sobrecalentamiento y el rendimiento de los dispositivos móviles",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "본문 주장: 게임의 그래픽 수준이 높아 모바일 기기에 무리가 갈 수 있으므로 PC 클라이언트 출시가 필요해 보임.",
+      "text": "Argumento del texto: Debido a que el nivel gráfico del juego es alto, podría sobrecargar los dispositivos móviles, por lo que parece necesaria la 출시 de un cliente de PC.",
+      "unresolvedTerms": [
+        "출시"
+      ]
+    },
+    {
+      "source": "서버 독립 운영 관련",
+      "text": "Relacionado con la operación independiente de los servidores",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "서버가 독립적으로 운영된다는 내용입니다.",
+      "text": "Contiene información sobre que los servidores se operan de forma independiente.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "본문 정보 부족으로 상세 내용을 파악할 수 없습니다.",
+      "text": "No es posible conocer los detalles debido a la falta de información en el texto.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "서버 간 데이터 이동이 불가능한 것은 당연하며, 향후 이용자가 적은 서버는 통합될 가능성이 있다는 의견이 있습니다.",
+      "text": "Es natural que la transferencia de datos entre servidores sea imposible, y existe la opinión de que los servidores con pocos usuarios podrían integrarse en el futuro.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "아웃랜더스 현수막 홍보 관련",
+      "text": "Relacionado con la promoción de pancartas de 아웃랜더스",
+      "unresolvedTerms": [
+        "아웃랜더스"
+      ]
+    },
+    {
+      "source": "시립대에서 진행 중인 아웃랜더스 현수막 홍보를 언급하며, 몬스터 헌터 시리즈를 즐겨 하는 입장에서 해당 콘텐츠의 재미 여부를 질문함.",
+      "text": "Menciona la promoción con pancartas de 아웃랜더스 que se está llevando a cabo en la Universidad de la Ciudad, y desde la perspectiva de alguien que disfruta de la serie 몬스터 헌터, pregunta si dicho contenido será divertido.",
+      "unresolvedTerms": [
+        "아웃랜더스",
+        "몬스터 헌터"
+      ]
+    },
+    {
+      "source": "몬스터 헌터 관련 현수막 홍보는 생소하다는 반응과 함께 다른 게임을 연상시킨다는 의견이 있음.",
+      "text": "Hay reacciones que indican que la promoción con pancartas relacionada con 몬스터 헌터 es inusual, junto con opiniones de que recuerda a otros juegos.",
+      "unresolvedTerms": [
+        "몬스터 헌터"
+      ]
+    },
+    {
+      "source": "과금 모델 및 콘텐츠 구성에 대한 우려",
+      "text": "Preocupaciones sobre el modelo de monetización y la composición de contenidos",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "속성별 캐릭터와 전용 장비 가챠, 랭킹 시스템 등의 구조로 인해 과금 부담이 높을 것으로 예상된다는 의견입니다. 랭킹 경쟁에 집중하지 않고 주인공 캐릭터 위주로 가볍게 플레이하는 방식이 정신 건강에 이로울 수 있다고 주장합니다.",
+      "text": "Existen opiniones de que la carga económica será alta debido a la estructura de gacha de personajes por atributo y equipo exclusivo, el sistema de ranking, entre otros. Se sostiene que jugar de forma ligera centrándose en el personaje protagonista, sin enfocarse en la competencia de ranking, podría ser beneficioso para la salud mental.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "라이트 유저를 위한 즐길 거리가 부족해 보인다는 우려와 함께, 랭킹 경쟁에 참여하지 않고 무과금으로 즐기는 것이 최선이라는 의견이 있습니다. 또한 특정 가챠 요소가 제외될 가능성이나 과금 구조에 대한 부정적 전망, 게임을 가볍게 즐기다 그만두면 된다는 반응이 존재합니다.",
+      "text": "Junto a la preocupación de que parece haber poco contenido para jugadores casuales, hay opiniones de que lo mejor es disfrutar del juego sin realizar microtransacciones y sin participar en la competencia de ranking. Además, existen reacciones sobre la posibilidad de que se excluyan ciertos elementos de gacha, perspectivas negativas sobre la estructura de monetización y la idea de que basta con jugar de forma ligera y luego dejarlo.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "PC 버전 출시 계획 부재",
+      "text": "Ausencia de planes para el lanzamiento de la versión de PC",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "현재 국내에서는 PC 버전 출시 계획이 없으며, 추후 계획이 수립될 경우 공식적으로 안내될 예정입니다. 구글 플레이 게임즈를 통한 실행도 어려울 것으로 보입니다.",
+      "text": "Actualmente no hay planes para el lanzamiento de una versión de PC en Corea, y se anunciará oficialmente si se establece un plan en el futuro. También parece que será difícil ejecutarlo a través de Google Play Games.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "출시 계획이 있음에도 정보 공개가 제한된 상황일 수 있다는 의견이 있습니다.",
+      "text": "Hay opiniones de que, incluso si existen planes de lanzamiento, la divulgación de información podría estar limitada.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "신규 서버 오픈 관련 논의",
+      "text": "Discusión sobre la apertura de nuevos servidores",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "16시에 오픈 예정인 서버에 접속해 보자는 내용입니다.",
+      "text": "Contenido que sugiere conectarse al servidor que está programado para abrirse en 16.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "오픈되는 서버가 라틴아메리카 서버라는 의견과 접속 문제에 대한 언급이 있습니다.",
+      "text": "Hay opiniones de que el servidor que se abrirá es el servidor de Latinoamérica y menciones sobre problemas de conexión.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "서버 오픈 시간 계산 방식(UTC 등)에 대해 서로 다른 의견이 오가고 있습니다.",
+      "text": "Se están intercambiando opiniones divergentes sobre el método de cálculo del tiempo de apertura del servidor (UTC, etc.).",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "몬스터 헌터 게임 내 과금에 대한 견해",
+      "text": "Opiniones sobre las microtransacciones dentro de 몬스터 헌터",
+      "unresolvedTerms": [
+        "몬스터 헌터"
+      ]
+    },
+    {
+      "source": "경쟁적인 순위 경쟁을 목표로 하지 않는다면 리세마라 계정을 활용해 여유롭게 플레이해도 무방하다는 의견입니다.",
+      "text": "Hay opiniones de que, si no se tiene como objetivo una competencia de clasificación competitiva, no hay problema en jugar tranquilamente utilizando cuentas de 리세마라.",
+      "unresolvedTerms": [
+        "리세마라"
+      ]
+    },
+    {
+      "source": "게임 내 시간 제한이나 캐릭터 제한 요소가 있다면 과금의 필요성이 달라질 수 있다는 의견이 있습니다.",
+      "text": "Hay opiniones de que la necesidad de realizar microtransacciones podría variar si existen elementos de limitación de tiempo o de personajes dentro del juego.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "특정 게임(나우)의 무기 범용성 및 속성 중요도에 따른 플레이 경험을 언급하며 게임 탈출을 긍정적으로 평가하는 의견이 있습니다.",
+      "text": "Hay opiniones que evalúan positivamente el abandonar el juego, mencionando la experiencia de juego según la versatilidad de las armas y la importancia de los atributos en un juego específico (나우).",
+      "unresolvedTerms": [
+        "나우"
+      ]
+    },
+    {
+      "source": "리세마라 계정의 구매처나 나눔에 관한 질문과 답변이 있었습니다.",
+      "text": "Hubo preguntas y respuestas sobre los lugares de compra o la distribución de cuentas de 리세마라.",
+      "unresolvedTerms": [
+        "리세마라"
+      ]
+    },
+    {
+      "source": "게임용 신규 스마트폰 구매",
+      "text": "Compra de un nuevo smartphone para juegos",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "게임을 목적으로 아이폰 18 프로를 새로 주문했다는 내용입니다.",
+      "text": "Contenido sobre que se ha pedido un nuevo iPhone 18 Pro con el propósito de jugar al juego.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "스마트폰보다는 화면이 큰 아이패드를 추천하거나, 휴대폰으로 게임을 하기에는 화면 크기나 자세 유지 측면에서 불편하다는 의견이 있습니다.",
+      "text": "Hay opiniones que recomiendan un iPad con una pantalla más grande en lugar de un smartphone, o que jugar en un teléfono móvil resulta incómodo en términos de tamaño de pantalla o mantenimiento de la postura.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "게임 계정 생성 서비스 예고",
+      "text": "Anuncio del servicio de creación de cuentas de juego",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "특정 캐릭터의 성급과 돌파 수치를 높인 게임 계정을 제작하여 제공하겠다는 내용입니다.",
+      "text": "Se trata del contenido sobre la creación y provisión de cuentas de juego con niveles de estrella y valores de ruptura de personajes específicos aumentados.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "서비스 제공을 요청하거나 기대하는 반응이 있습니다.",
+      "text": "Hay reacciones que solicitan o esperan la provisión del servicio.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "게임 내 특정 장비의 출처 의문",
+      "text": "Dudas sobre el origen de ciertos equipos dentro del juego",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "기존 몬스터의 장비가 변경된 것인지 혹은 이벤트용 장비인지에 대한 의문이 제기되었습니다.",
+      "text": "Se han planteado dudas sobre si el equipo de los 몬스터 existentes ha sido cambiado o si se trata de equipo para eventos.",
+      "unresolvedTerms": [
+        "몬스터"
+      ]
+    },
+    {
+      "source": "해당 장비는 이벤트용 아이템일 것이라는 의견이 있습니다.",
+      "text": "Hay opiniones de que dicho equipo será un objeto para eventos.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "게임 오픈 시간 문의",
+      "text": "Consulta sobre la hora de apertura del juego",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "게임의 정확한 오픈 시간을 묻는 내용입니다.",
+      "text": "Contenido que pregunta por la hora exacta de apertura del juego.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "오후 7시에 오픈한다는 의견이 있습니다.",
+      "text": "Hay opiniones de que se abrirá a las 7 de la tarde.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "한국 서버 출시 요청",
+      "text": "Solicitud de lanzamiento del servidor de Corea",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "한국 서버가 존재하지 않는 상황에 대해 의문을 제기하며 출시를 희망하고 있습니다.",
+      "text": "Se cuestiona la situación de que no exista un servidor coreano y se expresa el deseo de su lanzamiento.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "일본 서버만 단독으로 운영되는 상황에 대해 다양한 추측과 반응이 나타나고 있습니다.",
+      "text": "Están surgiendo diversas especulaciones y reacciones sobre la situación de que solo se opere el servidor japonés de forma exclusiva.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "기기 종류에 따른 설치 가능 여부를 궁금해하는 의견이 있습니다.",
+      "text": "Hay opiniones que preguntan sobre la posibilidad de instalación según el tipo de dispositivo.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "게임 오픈 시간 확인 오류",
+      "text": "Error al verificar la hora de apertura del juego",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "작성자는 게임 오픈 시간이 22시로 표시되는 현상에 대해 의문을 제기했습니다.",
+      "text": "El autor cuestionó el fenómeno en el que la hora de apertura del juego se muestra como 22.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "표시된 시간이 UTC 기준이므로 시차를 고려해야 한다는 의견과 실제 오픈 시간을 확인하며 혼선을 겪는 반응들이 있었습니다.",
+      "text": "Hubo opiniones que indicaban que se debe considerar la diferencia horaria ya que la hora mostrada es en UTC, y reacciones de confusión al intentar verificar la hora de apertura real.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "오픈 시간 안내",
+      "text": "Información sobre la hora de apertura",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "본문 정보 부족",
+      "text": "Falta de información en el texto",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "리세마라 필요성 여부",
+      "text": "Necesidad de 리세마라",
+      "unresolvedTerms": [
+        "리세마라"
+      ]
+    },
+    {
+      "source": "최근 출시되는 중국 게임들은 캐릭터 성능 변화가 빨라 리세마라의 효율이 낮다는 의견이 있습니다.",
+      "text": "Hay opiniones de que la eficiencia del reroll es baja en los juegos chinos lanzados recientemente debido a que los cambios en el rendimiento de los personajes son rápidos.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "서버 선택 및 화질 설정 관련 질문",
+      "text": "Preguntas relacionadas con la selección de servidor y la configuración de calidad gráfica",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "사용자가 게임 서버 선택 기준과 특정 기기에서의 화질 설정 가능 여부에 대해 질문함.",
+      "text": "El usuario pregunta sobre los criterios de selección de servidor de juego y si es posible configurar la calidad gráfica en dispositivos específicos.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "한국 서버를 이용하겠다는 의견이 있음.",
+      "text": "Hay opiniones de que se utilizará el servidor de 한국.",
+      "unresolvedTerms": [
+        "한국"
+      ]
+    },
+    {
+      "source": "모험가 무기 장착에 따른 속성 강화 가능성",
+      "text": "Posibilidad de fortalecimiento de atributo según el equipamiento del arma del 모험가",
+      "unresolvedTerms": [
+        "모험가"
+      ]
+    },
+    {
+      "source": "특정 모험가가 특정 속성 무기를 장착할 경우 데미지 증가 및 공격력의 속성 변환 효과가 발생할 수 있다는 분석이 제기되었습니다.",
+      "text": "Se ha planteado el análisis de que, si un 모험가 específico equipa un arma de un atributo determinado, puede producirse un aumento de daño y un efecto de conversión de atributo del poder de ataque.",
+      "unresolvedTerms": [
+        "모험가"
+      ]
+    },
+    {
+      "source": "속성 메타가 형성될 가능성이 있으며, 약점 속성이 아니더라도 속성 수치에 따라 효율적인 전투가 가능할 것으로 추측됩니다.",
+      "text": "Existe la posibilidad de que se forme un meta de atributos, y se especula que será posible realizar combates eficientes según los valores de atributo, incluso si no es un atributo de debilidad.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "캐릭터 등급에 따른 속성 강화 수치 차이가 게임 밸런스에 미칠 영향에 대한 의견이 있습니다.",
+      "text": "Hay opiniones sobre el impacto que tendrá en el equilibrio del juego la diferencia en los valores de fortalecimiento de atributo según la clase del personaje.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "특정 몬스터를 상대할 때 속성 일치가 중요하므로 기본 캐릭터의 범용성이 높을 것이라는 견해가 있습니다.",
+      "text": "Existe la opinión de que la versatilidad de los personajes básicos será alta, ya que la coincidencia de atributos es importante al enfrentarse a ciertos 몬스터.",
+      "unresolvedTerms": [
+        "몬스터"
+      ]
+    },
+    {
+      "source": "출시를 앞두고 게임 정보가 부족하여 추가적인 정보 공유를 요청하는 목소리가 있습니다.",
+      "text": "Debido a la falta de información sobre el juego antes de su lanzamiento, hay voces que solicitan el intercambio de información adicional.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "중국 개발사 게임의 운영 기대치",
+      "text": "Expectativas de gestión de juegos de desarrolladores chinos",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "중국 개발사가 제작하는 게임의 운영 수준이 기대에 미치지 못할 것이라는 우려가 제기되었습니다.",
+      "text": "Se ha planteado la preocupación de que el nivel de gestión de los juegos producidos por desarrolladores chinos no cumpla con las expectativas.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "특정 게임의 오프라인 버전을 요청하거나, 양산형 게임이 될 가능성을 언급하는 의견이 있습니다.",
+      "text": "Existen opiniones que solicitan una versión offline de un juego específico o que mencionan la posibilidad de que se convierta en un juego de producción masiva.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "개발사와 서비스 주체 간의 역량 차이에 대해 의구심을 표하는 반응이 있습니다.",
+      "text": "Hay reacciones que expresan dudas sobre la diferencia de capacidades entre el desarrollador y la entidad responsable del servicio.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "몬스터 헌터 모바일 출시 기대감",
+      "text": "Expectativa por el lanzamiento de 몬스터 헌터 모바일",
+      "unresolvedTerms": [
+        "몬스터 헌터 모바일"
+      ]
+    },
+    {
+      "source": "모바일 기반의 무료 서비스 특성상 역대 시리즈 중 캐릭터 사망 횟수가 가장 많을 것으로 예상된다는 의견이 있습니다.",
+      "text": "Debido a la naturaleza del servicio gratuito basado en móviles, existe la opinión de que se espera que el número de muertes de personajes sea el más alto de toda la serie.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "출시를 기다리며 기대하고 있다는 반응이 있습니다.",
+      "text": "Hay reacciones que indican que se está esperando con expectación el lanzamiento.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "주인공 캐릭터의 성능 관련 의견",
+      "text": "Opiniones sobre el rendimiento del personaje protagonista",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "주인공 캐릭터의 기본 능력치가 가챠 캐릭터보다 높게 느껴지며, 장비 추가에 따라 지속적인 활용이 가능할 것이라는 의견입니다.",
+      "text": "Es la opinión de que las estadísticas básicas del personaje protagonista se sienten más altas que las de los personajes de 가챠, y que será posible su uso continuo dependiendo de la adición de equipo.",
+      "unresolvedTerms": [
+        "가챠"
+      ]
+    },
+    {
+      "source": "영상 자료를 근거로 주인공 캐릭터가 최상위권 성능을 보여준다는 의견이 있습니다.",
+      "text": "Basándose en el material de video, existe la opinión de que el personaje protagonista muestra un rendimiento de nivel superior.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "한국 서버 미표시 현상",
+      "text": "Fenómeno de no visualización del servidor de 한국",
+      "unresolvedTerms": [
+        "한국"
+      ]
+    },
+    {
+      "source": "사용자의 접속 지역이나 계정 설정 문제로 인해 한국 서버가 목록에 나타나지 않는 상황에 대해 의문을 제기하고 있습니다.",
+      "text": "Se plantean dudas sobre la situación en la que el servidor de Corea no aparece en la lista debido a la región de conexión del usuario o a problemas con la configuración de la cuenta.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "거주 지역이나 스토어 계정 설정이 북미로 되어 있어 발생하는 현상이라는 의견이 있습니다.",
+      "text": "Hay opiniones que sugieren que esto ocurre porque la región de residencia o la configuración de la cuenta de la tienda está establecida en Norteamérica.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "한국 스토어 계정을 이용해 설치해 볼 것을 권장하는 의견이 있습니다.",
+      "text": "Hay opiniones que recomiendan intentar la instalación utilizando una cuenta de la tienda de Corea.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "모바일 몬스터 헌터 플레이 관련",
+      "text": "Relacionado con el juego de 몬스터 헌터 en móviles",
+      "unresolvedTerms": [
+        "몬스터 헌터"
+      ]
+    },
+    {
+      "source": "본문 내용에 게임 관련 정보가 부족합니다.",
+      "text": "El contenido del texto carece de información relacionada con el juego.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "컨트롤러 지원 여부에 대한 의견이 있습니다.",
+      "text": "Hay opiniones sobre si se admite el uso de controladores.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "미도리 캐릭터 상시 포함 여부",
+      "text": "Si el personaje 미도리 estará incluido de forma permanente",
+      "unresolvedTerms": [
+        "미도리"
+      ]
+    },
+    {
+      "source": "인기 캐릭터인 미도리가 기간 한정 종료 후 상시 뽑기 목록에 추가되지 않는 점에 대해 언급함",
+      "text": "Se menciona el hecho de que 미도리, un personaje popular, no se añade a la lista de 뽑기 permanente tras finalizar su periodo limitado.",
+      "unresolvedTerms": [
+        "뽑기",
+        "미도리"
+      ]
+    },
+    {
+      "source": "현재의 비즈니스 모델이 지속 가능할지에 대해 우려하는 의견이 있음",
+      "text": "Hay opiniones que expresan preocupación sobre si el modelo de negocio actual será sostenible",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "캐릭터 획득 방식에 대한 불만",
+      "text": "Insatisfacción con el método de obtención de personajes",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "캐릭터를 모두 뽑기로 얻어야 하는 게임 방식에 대해 부정적인 의견을 보이며 게임을 그만두겠다는 의사를 밝혔습니다.",
+      "text": "Se han expresado opiniones negativas sobre el estilo de juego en el que todos los personajes deben obtenerse mediante 뽑기, manifestando la intención de dejar el juego.",
+      "unresolvedTerms": [
+        "뽑기"
+      ]
+    },
+    {
+      "source": "이탈에 대한 우려와 함께 무과금으로 가볍게 플레이해 보겠다는 의견이 있습니다.",
+      "text": "Junto con la preocupación por la deserción, hay opiniones de que se probará el juego de forma ligera sin realizar microtransacciones",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "모바일 기기 사양과 실행 여부",
+      "text": "Especificaciones de dispositivos móviles y ejecución",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "PC 환경에서 게임 실행이 되지 않는다는 내용이 포함되어 있습니다.",
+      "text": "Incluye contenido sobre que el juego no se ejecuta en el entorno de PC.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "앱 플레이어를 이용해 실행에 성공했다는 의견이 있습니다.",
+      "text": "Hay opiniones de que se logró la ejecución utilizando un 앱 플레이어",
+      "unresolvedTerms": [
+        "앱 플레이어"
+      ]
+    },
+    {
+      "source": "게스트 계정 시작 여부 문의",
+      "text": "Consulta sobre si es posible iniciar con una cuenta de invitado",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "리세마라를 위해 게스트 계정으로 시작하는 것이 일반적인 방법인지 묻는 내용입니다.",
+      "text": "Pregunta si es un método común comenzar con una cuenta de invitado para realizar 리세마라.",
+      "unresolvedTerms": [
+        "리세마라"
+      ]
+    },
+    {
+      "source": "남성 캐릭터 배포 및 리세마라 관련 의견",
+      "text": "Opiniones sobre la distribución de personajes masculinos y 리세마라",
+      "unresolvedTerms": [
+        "리세마라"
+      ]
+    },
+    {
+      "source": "남성 캐릭터 배포 소식과 함께 효율적인 리세마라 방법 및 시즌패스 과금 가치에 대한 개인적인 견해를 공유함.",
+      "text": "Comparte opiniones personales sobre la noticia de la distribución de personajes masculinos, métodos eficientes de 리세마라 y el valor de pago del 시즌패스.",
+      "unresolvedTerms": [
+        "리세마라",
+        "시즌패스"
+      ]
+    },
+    {
+      "source": "특정 캐릭터의 성능이나 동반자 시스템의 변경 사항에 대한 의견이 있음.",
+      "text": "Hay opiniones sobre el rendimiento de ciertos personajes o los cambios en el 동반자 시스템.",
+      "unresolvedTerms": [
+        "동반자 시스템"
+      ]
+    },
+    {
+      "source": "캐릭터 외형에 대한 개인적인 감상을 언급함.",
+      "text": "Menciona impresiones personales sobre la apariencia de los personajes.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "초반 캐릭터 뽑기 진행 여부",
+      "text": "Si realizar la 뽑기 de personajes al principio",
+      "unresolvedTerms": [
+        "뽑기"
+      ]
+    },
+    {
+      "source": "특정 직업군의 SSR 캐릭터를 확보하기 위해 초반 뽑기를 진행해야 하는지 질문함.",
+      "text": "Pregunta si se debe realizar tiradas al inicio para asegurar personajes SSR de ciertas clases.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "SR 등급 캐릭터로도 충분히 진행이 가능하다는 의견과 특정 캐릭터 획득 여부에 대한 의견이 있음.",
+      "text": "Existen opiniones de que es posible progresar suficientemente incluso con personajes de grado SR, así como opiniones sobre la obtención de 특정 캐릭터.",
+      "unresolvedTerms": [
+        "특정 캐릭터"
+      ]
+    },
+    {
+      "source": "초반 캐릭터 획득은 선택 사항이며 낮은 등급으로도 게임 진행이 가능하다는 의견이 있음.",
+      "text": "Hay opiniones de que la obtención de personajes al principio es opcional y que es posible progresar en el juego incluso con rangos bajos.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "PC 클라이언트 출시 기대",
+      "text": "Expectativa por el lanzamiento del cliente de PC",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "오픈월드 게임 특성상 모바일 환경에만 국한되지 않고 PC 버전이 출시될 가능성이 있다고 주장함.",
+      "text": "Se afirma que, debido a las características de un juego de mundo abierto, existe la posibilidad de que se lance una versión de PC y no se limite únicamente al entorno móvil.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "중국 서버는 개발 중이라는 소문이 있으며, 키보드와 마우스를 사용하는 인터페이스 정보가 유출된 적이 있다는 의견이 있음.",
+      "text": "Existen rumores de que el servidor de 중국 es desarrollado, y hay opiniones de que se ha filtrado información sobre una interfaz que utiliza teclado y ratón.",
+      "unresolvedTerms": [
+        "중국"
+      ]
+    },
+    {
+      "source": "서버 오픈 시간 관련 질문",
+      "text": "Pregunta relacionada con la hora de apertura del servidor",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "한국 시간 오전 7시를 기준으로 가장 먼저 서버가 열리는 국가가 어디인지 묻는 내용입니다.",
+      "text": "Pregunta qué país abrirá el servidor primero tomando como referencia las 7 horas de la mañana, hora de Corea.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "서버가 전 세계 동시 오픈된다는 의견이 있습니다.",
+      "text": "Hay opiniones de que los servidores se abrirán simultáneamente en todo el mundo.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "모바일 게임 그래픽 수준에 대한 의견",
+      "text": "Opiniones sobre el nivel de los gráficos del juego móvil",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "작성자는 해당 게임의 그래픽이 PC 게임과 유사할 정도로 모바일 환경에서 매우 뛰어난 수준이라고 평가했습니다.",
+      "text": "El autor evaluó que los gráficos de dicho juego son de un nivel muy alto en el entorno móvil, hasta el punto de ser similares a los de un juego de PC.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "높은 그래픽 사양으로 인해 기기 발열과 최적화 문제에 대한 우려를 나타냈습니다.",
+      "text": "Debido a las altas especificaciones gráficas, se expresó preocupación por el sobrecalentamiento de los dispositivos y los problemas de optimización.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "게임 운영 및 과금 모델에 대한 우려",
+      "text": "Preocupación sobre la gestión del juego y el modelo de monetización",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "작성자는 게임의 운영이 원활하게 이루어지기를 희망하고 있습니다.",
+      "text": "El autor espera que la gestión del juego se lleve a cabo sin contratiempos.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "특정 캐릭터나 동료 시스템이 유료 과금 요소로 포함될 가능성에 대해 우려하는 의견이 있습니다.",
+      "text": "Existen opiniones que expresan preocupación sobre la posibilidad de que ciertos personajes o el sistema de compañeros se incluyan como elementos de pago.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "과금 모델이 지나치게 과도해질 것을 경계하는 목소리가 있습니다.",
+      "text": "Hay voces que advierten sobre el riesgo de que el modelo de monetización se vuelva excesivo.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "사전 다운로드 관련 반응",
+      "text": "Reacciones relacionadas con la descarga previa",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "게임의 완성도와 과금 체계에 따라 이용 여부를 결정하겠다는 의견입니다.",
+      "text": "Es la opinión de que se decidirá si jugar o no dependiendo de la perfección del juego y del sistema de monetización.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "로그인 없이도 다운로드가 가능한지, 게스트 로그인 지원 여부에 대해 논의하고 있습니다.",
+      "text": "Se está debatiendo si es posible realizar la descarga sin iniciar sesión y si se admite el inicio de sesión como invitado.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "한정 캐릭터 획득을 위한 리세마라 필요성",
+      "text": "La necesidad de 리세마라 para obtener personajes limitados",
+      "unresolvedTerms": [
+        "리세마라"
+      ]
+    },
+    {
+      "source": "한정 캐릭터인 '태도'를 얻기 위해 게스트 계정으로 리세마라를 진행해야 하는지 질문함.",
+      "text": "Pregunta si debe realizar reroll con una cuenta de invitado para obtener el personaje limitado 'Espada larga'.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "상시 캐릭터는 획득이 쉬우니 한정 캐릭터를 노리는 것이 좋겠다는 의견이 있음.",
+      "text": "Hay opiniones de que es mejor apuntar al personaje limitado, ya que los personajes permanentes son fáciles de obtener.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "초기 재화만으로는 한정 캐릭터를 뽑기 어려울 수 있다는 우려가 있음.",
+      "text": "Existe la preocupación de que puede ser difícil obtener al personaje limitado solo con los recursos iniciales.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "높은 과금 금액에 대한 우려",
+      "text": "Preocupación por el alto monto de gasto.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "특정 금액이 높게 책정되어 과금 부담이 클 것으로 예상된다는 의견입니다.",
+      "text": "Es la opinión de que se espera una gran carga de gasto debido a que se han fijado montos específicos elevados.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "주인공 캐릭터 중심의 플레이 가능 여부",
+      "text": "Posibilidad de jugar centrándose en el personaje protagonista.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "모험가 동료 가챠 시스템에 대한 부담감과 함께 주인공 캐릭터만으로 게임 진행이 가능한지 질문함",
+      "text": "Pregunta si es posible progresar en el juego solo con el personaje protagonista, junto con la presión que supone el sistema de gacha de compañeros aventureros.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "멀티 플레이 위주라면 주인공과 소수의 캐릭터만 육성해도 충분하다는 의견이 있음",
+      "text": "Hay opiniones de que, si el juego se centra en el multijugador, es suficiente con desarrollar al protagonista y a unos pocos personajes.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "솔로 플레이 시에는 다양한 캐릭터를 육성하여 교체하며 사용하는 것이 필요하다는 의견이 있음",
+      "text": "Existe la opinión de que, al jugar en solitario, es necesario cultivar y alternar entre diversos personajes",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "베타 테스트 정보에 따르면 기본 캐릭터의 공격력이 가챠 캐릭터보다 높을 수 있다는 언급이 있음",
+      "text": "Según la información de la beta test, se menciona que el ataque de los personajes básicos podría ser mayor que el de los personajes de gacha",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "한정 캐릭터 획득 관련 논의",
+      "text": "Discusión relacionada con la obtención de personajes limitados",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "작성자는 특정 캐릭터를 제외한 나머지 캐릭터들이 상시 캐릭터와 겹치는 상황에 대해 언급하며, 한정 캐릭터를 얻기 위한 리세마라 필요성을 제기했습니다.",
+      "text": "El autor mencionó la situación en la que los personajes restantes, excluyendo a ciertos personajes, se solapan con los personajes permanentes, y planteó la necesidad de realizar reroll para obtener personajes limitados.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "한정 티켓의 부재로 인해 특정 캐릭터를 리세마라로 획득하기 어려울 수 있다는 의견이 있습니다.",
+      "text": "Existe la opinión de que, debido a la ausencia de tickets limitados, podría ser difícil obtener ciertos personajes mediante reroll.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "출시 3일 전 커뮤니티 분위기",
+      "text": "Ambiente de la comunidad 3 días antes del lanzamiento",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "게임 출시를 앞두고 기대감을 나타내고 있습니다.",
+      "text": "Se está mostrando expectativa ante el próximo lanzamiento del juego.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "출시 이후 이용자들의 활동 양상을 보고 커뮤니티 거점을 결정할 것이라는 의견이 있습니다.",
+      "text": "Hay opiniones de que se decidirá el punto de encuentro de la comunidad observando los patrones de actividad de los usuarios tras el lanzamiento.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "멀티플레이와 가챠 요소가 포함되어 있어 출시 후 특정 유형의 게시글이 많아질 것이라는 예측이 있습니다.",
+      "text": "Existe la predicción de que, debido a la inclusión de elementos de multijugador y gacha, habrá un aumento de publicaciones de un tipo específico tras el lanzamiento.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "모바일 구동 여부 문의",
+      "text": "Consulta sobre la ejecución en dispositivos móviles",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "모바일 기기에서의 게임 실행 가능 여부에 대해 의문을 제기하고 있습니다.",
+      "text": "Se está cuestionando la posibilidad de ejecutar el juego en dispositivos móviles.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "모바일 게임이므로 일일 퀘스트 수행 정도의 가벼운 플레이는 가능할 것이라는 의견이 있습니다.",
+      "text": "Existe la opinión de que, al ser un juego móvil, será posible realizar un juego ligero, como cumplir con las misiones diarias.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "몬스터 헌터 시리즈의 수익 구조와 투자 방향",
+      "text": "Estructura de ingresos y dirección de inversión de la serie 몬스터 헌터",
+      "unresolvedTerms": [
+        "몬스터 헌터"
+      ]
+    },
+    {
+      "source": "수익 창출을 통해 메인 시리즈의 품질을 높이는 방향이 긍정적일 수 있으며, 과거에도 다양한 장르적 시도가 있었음을 언급함.",
+      "text": "Se menciona que la dirección de mejorar la calidad de la serie principal mediante la generación de ingresos puede ser positiva, y que en el pasado también hubo diversos intentos de diferentes géneros.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "수익을 게임 내 재화나 아이템 관련 요소에 사용할 것이라는 의견이 있음.",
+      "text": "Hay opiniones de que los ingresos se utilizarán en elementos relacionados con objetos o moneda dentro del juego.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "아이폰 16 기기 성능에 대한 우려",
+      "text": "Preocupación por el rendimiento del dispositivo iPhone 16",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "작성자는 과금 여부와 별개로 현재 사용 중인 아이폰 16 기기로 게임이 원활하게 구동될지 의문을 제기했습니다.",
+      "text": "Independientemente de si se realizan pagos o no, el autor planteó la duda de si el juego funcionará fluidamente en el dispositivo iPhone 16 que está utilizando actualmente.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "차기 모델인 아이폰 17을 기다려야 한다는 의견과 기기 내구성 및 액정 파손에 관한 대화가 오갔습니다.",
+      "text": "Se intercambiaron opiniones sobre la necesidad de esperar al próximo modelo, el iPhone 17, y conversaciones sobre la durabilidad del dispositivo y la rotura de la pantalla.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "게임 과금 수준 예상",
+      "text": "Previsión del nivel de pagos en el juego",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "캐릭터 전용 스킬의 성능에 따라 과금 규모가 결정될 것으로 보이며, 과금 상품의 종류가 많아 부담이 될 수 있다는 의견입니다.",
+      "text": "Parece que la escala de los pagos se decidirá según el rendimiento de las habilidades exclusivas de los personajes, y hay opiniones de que la gran variedad de productos de pago podría resultar una carga.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "월 수십만 원 정도의 지출이 필요할 것이라는 예측과 함께, 과금 수준에 따라 타 플랫폼 게임으로 넘어갈 것이라는 의견이 있습니다.",
+      "text": "Junto con la predicción de que se requerirá un gasto de unos cientos de miles de wones al mes, hay opiniones de que, dependiendo del nivel de los pagos, se cambiará a juegos de otras plataformas.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "기존에 즐기던 게임의 과금 사례를 언급하거나, 이미 확인된 뽑기 시스템을 근거로 부정적인 전망을 내놓는 의견도 존재합니다.",
+      "text": "Existen opiniones que mencionan casos de monetización de juegos que ya se jugaban o que ofrecen perspectivas negativas basándose en sistemas de gacha ya confirmados.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "향후 과금 모델 예상",
+      "text": "Previsión del futuro modelo de monetización",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "작성자는 게임사가 손실을 보전하기 위해 초반에는 유저를 모은 뒤, 점차 랭킹 경쟁이나 수집 요소, 스킨 등을 활용해 과금 유도를 강화할 것이라고 예측했습니다.",
+      "text": "El autor predijo que la empresa del juego, para compensar las pérdidas, atraerá a los usuarios al principio y, gradualmente, reforzará la inducción al pago utilizando la competencia de rankings, elementos de colección, skins, etc.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "댓글에서는 과도한 과금 유도가 게임의 수명을 단축시킬 수 있다는 우려와 함께, 초반 수익 창출 후 서비스를 종료할 가능성을 언급했습니다.",
+      "text": "En los comentarios, junto con la preocupación de que una inducción excesiva al pago pueda acortar la vida útil del juego, se mencionó la posibilidad de que el servicio finalice tras generar ingresos iniciales.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "과도한 과금 모델은 게임의 몰락을 초래할 수 있다는 의견과 초반 수익 확보 후 서비스를 방치할 것에 대한 부정적인 전망이 있습니다.",
+      "text": "Existen opiniones de que un modelo de monetización excesivo puede provocar la caída del juego, así como perspectivas negativas sobre el abandono del servicio tras asegurar ingresos iniciales.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "픽업 캐릭터 성별 구성에 대한 불만",
+      "text": "Insatisfacción con la composición de género de los personajes de 픽업",
+      "unresolvedTerms": [
+        "픽업"
+      ]
+    },
+    {
+      "source": "픽업 캐릭터 중 남성 캐릭터의 비중이 높아 뽑기 과정에서 아쉬움을 느낀다는 의견입니다.",
+      "text": "Es la opinión de que se siente decepción en el proceso de gacha debido a la alta proporción de personajes masculinos entre los personajes de 픽업.",
+      "unresolvedTerms": [
+        "픽업"
+      ]
+    },
+    {
+      "source": "본문 내용이 부족하여 구체적인 내용을 파악할 수 없음.",
+      "text": "No es posible identificar el contenido específico debido a la falta de información en el texto.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "기기 발열 문제로 인해 성능 유지가 어려울 것이라는 우려가 있음.",
+      "text": "Existe la preocupación de que será difícil mantener el rendimiento debido a problemas de sobrecalentamiento del dispositivo.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "리세마라 캐릭터 추천 질문",
+      "text": "Pregunta sobre recomendaciones de personajes para 리세마라",
+      "unresolvedTerms": [
+        "리세마라"
+      ]
+    },
+    {
+      "source": "무과금으로 시작할 예정이라 출시 직후 집중적으로 리세마라를 하려는데, 뽑기권 20개로 어떤 캐릭터를 뽑는 것이 가장 좋을지 질문하고 있습니다.",
+      "text": "Como planea empezar sin realizar microtransacciones, tiene la intención de realizar un reroll intensivo justo después del lanzamiento, y pregunta qué personaje sería mejor obtener con 20 tickets de invocación.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "섬광 효과가 있는 남성 활 캐릭터나 외형이 예쁜 여성 태도 캐릭터 중 고민 중이라는 의견입니다.",
+      "text": "La opinión es que está indeciso entre un personaje Arco masculino con efectos de destello o un personaje Espada larga femenino con una apariencia bonita.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "자유게시판",
+      "text": "Tablón de anuncios libre",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "PC 플레이 선호",
+      "text": "Preferencia por jugar en PC",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "PC로 게임을 플레이하겠다는 의견입니다.",
+      "text": "Es la opinión de que jugará al juego en PC.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "서버 선택 관련 질문",
+      "text": "Pregunta relacionada con la selección de servidor",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "대한민국 서버와 아시아태평양 서버 중 어디에 사람이 더 많을지 질문하고 있습니다.",
+      "text": "Pregunta en qué servidor habrá más gente, si en el servidor de Corea o en el servidor de Asia-Pacífico.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "파티 플레이 매칭을 고려했을 때 아시아태평양 서버가 더 원활할지 궁금해하는 의견입니다.",
+      "text": "Es la opinión de que tiene curiosidad por saber si el servidor de Asia-Pacífico será más fluido al considerar el emparejamiento para el juego en grupo.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "오픈채팅방 공유",
+      "text": "Compartir sala de chat abierto",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "모바일 몬스터헌터 오픈런을 위한 오픈채팅방 링크를 공유하고 있습니다.",
+      "text": "Se están compartiendo enlaces de salas de chat abiertas para el open run de 모바일 몬스터헌터.",
+      "unresolvedTerms": [
+        "모바일 몬스터헌터"
+      ]
+    },
+    {
+      "source": "글 작성 관련",
+      "text": "Relacionado con la escritura de publicaciones",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "글을 쓰고 싶어 하느냐는 짧은 의견입니다.",
+      "text": "Es una opinión breve sobre si se desea escribir una publicación.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "내용 확인 대기",
+      "text": "Esperando la confirmación del contenido",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "질문&답변",
+      "text": "Preguntas y respuestas",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "사전예약 확인 질문",
+      "text": "Pregunta para confirmar el pre-registro",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "아이폰으로 사전예약이 정상적으로 완료되었는지 질문하고 있습니다.",
+      "text": "Se pregunta si el pre-registro se completó correctamente con un iPhone.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "사전예약 완료",
+      "text": "Pre-registro completado",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "사전예약을 완료했다는 후기입니다.",
+      "text": "Es una reseña indicando que se ha completado el pre-registro.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "게임 제작사 관련 질문",
+      "text": "Pregunta relacionada con el desarrollador del juego",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "이 게임이 중국 게임인지 질문하고 있습니다.",
+      "text": "Pregunta si este juego es un juego chino.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "사전예약 관련",
+      "text": "Relacionado con el pre-registro",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "이미 오래전에 사전예약을 마쳤는데 왜 지금 메일이 오는지 궁금해하며 게임 출시를 기다리고 있습니다.",
+      "text": "Se pregunta por qué llega este correo ahora, ya que completó el pre-registro hace mucho tiempo, y está esperando el lanzamiento del juego.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "몬헌 DLC 무기",
+      "text": "Armas de DLC de 몬헌",
+      "unresolvedTerms": [
+        "몬헌"
+      ]
+    },
+    {
+      "source": "아웃랜더스를 기다리며 몬스터 헌터 DLC의 슬래시액스 무기 디자인이 멋지다는 후기를 남겼습니다.",
+      "text": "Mientras espera a 아웃랜더스, dejó una reseña diciendo que el diseño del arma 슬래시액스 del DLC de 몬스터 헌터 es genial.",
+      "unresolvedTerms": [
+        "아웃랜더스",
+        "슬래시액스",
+        "몬스터 헌터"
+      ]
+    },
+    {
+      "source": "굿즈 수령",
+      "text": "Recepción de mercancía",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "굿즈로 페페를 받았다는 후기입니다.",
+      "text": "Es una reseña sobre haber recibido 페페 como mercancía.",
+      "unresolvedTerms": [
+        "페페"
+      ]
+    },
+    {
+      "source": "이벤트 선물 후기",
+      "text": "Reseña de regalo de evento",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "매들린 아크릴 스탠드를 선물로 받았으며, 디자인이 예쁘다는 후기와 함께 다른 사람들은 무엇을 받았는지 궁금해하고 있습니다.",
+      "text": "Se recibió un soporte de acrílico de 매들린 como regalo, y junto con la reseña de que el diseño es bonito, se pregunta qué han recibido otras personas.",
+      "unresolvedTerms": [
+        "매들린"
+      ]
+    },
+    {
+      "source": "사전 예약 인증번호 관련 문의",
+      "text": "Consulta relacionada con el número de verificación de la reserva previa",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "사전 예약 시 인증번호 요청 횟수 제한 초과 메시지가 뜨며 인증번호가 오지 않는데, 며칠째 해결되지 않는 상황에서 예약할 방법이 있는지 질문하고 있습니다.",
+      "text": "Al realizar la reserva previa, aparece un mensaje de que se ha excedido el límite de solicitudes de número de verificación y el número no llega; pregunta si hay alguna forma de reservar en una situación que no se ha resuelto desde hace varios días.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "패드 플레이 가능 여부 문의",
+      "text": "Consulta sobre la posibilidad de jugar con mando",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "게임에서 패드 플레이가 가능한지 궁금해하며, 가능하다면 매우 좋은 게임이라고 의견을 남겼습니다.",
+      "text": "Pregunta si es posible jugar con mando en el juego y, de ser así, dejó su opinión de que sería un juego muy bueno.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "본문 텍스트가 없는 게시글",
+      "text": "Publicación sin texto en el cuerpo",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "사전 예약 페이지 관련 문의",
+      "text": "Consulta relacionada con la página de reserva previa",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "사전 예약 페이지에서 번호 입력창 등 예약 진행 화면을 찾을 수 없다는 의견입니다. 소개 영상만 보이고 예약하기 버튼을 찾지 못하겠다는 질문을 남겼습니다.",
+      "text": "Es una opinión indicando que no se puede encontrar la pantalla de proceso de reserva, como el campo de entrada de número, en la página de reserva previa. Se ha dejado una pregunta diciendo que solo se ve el video de presentación y que no logran encontrar el botón de reservar.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "클로즈 베타 테스트 관련 문의",
+      "text": "Consulta relacionada con el 클로즈 베타 테스트",
+      "unresolvedTerms": [
+        "클로즈 베타 테스트"
+      ]
+    },
+    {
+      "source": "타 국가에서 진행 중인 베타 테스트를 국내에서도 참여할 수 있을지 궁금해하는 의견입니다.",
+      "text": "Es una opinión que expresa curiosidad sobre si será posible participar en el 베타 테스트 que se está llevando a cabo en otros países también en el país.",
+      "unresolvedTerms": [
+        "베타 테스트"
+      ]
+    },
+    {
+      "source": "출시일 관련 문의",
+      "text": "Consulta relacionada con la fecha de lanzamiento",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "게임의 출시일을 찾을 수 없다는 질문입니다.",
+      "text": "Es una pregunta sobre que no se puede encontrar la fecha de lanzamiento del juego.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "사전예약 인증번호 수신 문제",
+      "text": "Problema con la recepción del número de verificación de la reserva previa",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "스팸 차단 해제와 기기 확인을 진행했음에도 사전예약 인증번호가 오지 않아 어려움을 겪고 있으며, 인증번호를 받은 사례가 있는지 질문하고 있습니다.",
+      "text": "A pesar de haber desactivado el bloqueo de spam y verificado el dispositivo, están teniendo dificultades porque no llega el número de verificación de la reserva previa, y preguntan si existen casos en los que se haya recibido dicho número.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "사전예약을 마쳤으며 빠른 출시를 기대한다는 의견입니다.",
+      "text": "Es una opinión que indica haber completado el pre-registro y que espera un lanzamiento rápido.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "기대감",
+      "text": "Expectativa",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "기다리던 작품이라며 빠른 플레이를 희망하는 후기입니다.",
+      "text": "Es una reseña que menciona que es una obra muy esperada y desea poder jugar pronto.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "사전예약을 완료했으며 조속한 오픈을 바라는 의견입니다.",
+      "text": "Es una opinión que indica haber completado el pre-registro y que desea una apertura pronta.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "게임이 잘 만들어져서 출시되기를 바라는 마음을 전했습니다.",
+      "text": "Expresó el deseo de que el juego sea lanzado tras haber sido bien desarrollado.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "커뮤니티 이벤트 규약",
+      "text": "Reglamento de eventos de la comunidad",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "최근 3일 유튜브 요약",
+      "text": "Resumen de YouTube de los últimos 3 días",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "자막을 확인한 영상의 요약이 준비되면 표시됩니다.",
+      "text": "Se mostrará cuando esté listo el resumen del video tras verificar los subtítulos.",
+      "unresolvedTerms": []
+    }
+  ]
+}
