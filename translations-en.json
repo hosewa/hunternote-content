@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "language": "en",
-  "publishedAt": "2026-10-30T02:33:17.194711+00:00",
+  "publishedAt": "2026-10-30T12:38:20.692097+00:00",
   "model": "gemma4:26b",
   "entries": [
     {
@@ -529,35 +529,150 @@
       "unresolvedTerms": []
     },
     {
-      "source": "몬스터헌터 아웃랜더스 1일차 가이드",
-      "text": "Monster Hunter Outlanders 1 Day Guide",
+      "source": "몬스터헌터 아웃랜더스 첫 플레이!",
+      "text": "Monster Hunter Outlanders First Play!",
       "unresolvedTerms": []
     },
     {
-      "source": "몬스터 아웃랜더스 정식 오픈 후 주인공은 모든 무기군 사용이 가능하며 속성 무기 장착 시 특화 효과가 발동하지만, 상태 이상 무기 장착 시에는 발동하지 않습니다.",
-      "text": "After the official launch of 몬스터 아웃랜더스, the protagonist can use all weapon types, and specialized effects will trigger when equipping elemental weapons, but they will not trigger when equipping status ailment weapons.",
+      "source": "아웃랜더스는 PC 클라이언트가 없어 에뮬레이터를 사용해야 하며 모바일 환경의 최적화가 더 뛰어납니다.",
+      "text": "Since 아웃랜더스 does not have a PC client, you must use an emulator, and the optimization for mobile environments is superior.",
       "unresolvedTerms": [
-        "몬스터 아웃랜더스"
+        "아웃랜더스"
       ]
     },
     {
-      "source": "SSR 모험가들은 상태 이상 특화를 가질 수 있게 되었으며, SR 모험가의 특화 수치는 기존보다 10% 하향 조정되었습니다.",
-      "text": "SSR adventurers can now possess status ailment specialization, and the specialization values for SR adventurers have been adjusted downward by 10% compared to before.",
+      "source": "조작 모드와 그래픽 설정 및 부위 선택 팔레트 등 다양한 편의 시스템을 제공합니다.",
+      "text": "It provides various convenience systems such as control modes, graphic settings, and part selection palettes.",
       "unresolvedTerms": []
     },
     {
-      "source": "주인공은 깨달음 포인트를 통해 돌파하며, 상점의 깨달음 티켓을 사용하여 모험가를 성장시킬 수 있습니다.",
-      "text": "The protagonist breakthroughs through 깨달음 points, and adventurers can be grown using 깨달음 tickets from the shop.",
+      "source": "무기별로 조작 난이도가 다르며 차액이 가장 높고 태도와 차액의 주요 모션이 존재합니다.",
+      "text": "The control difficulty varies by weapon, with the highest difference existing between Long Sword and the main motions of the difference.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "아웃랜더스는 PC 버전 클라이언트가 없어 블루스택이나 LD 플레이어 같은 에뮬레이터를 사용해야 합니다.",
+      "text": "Since 아웃랜더스 does not have a PC version client, you must use an emulator such as BlueStacks or LD Player.",
       "unresolvedTerms": [
-        "깨달음"
+        "아웃랜더스"
       ]
     },
     {
-      "source": "모험가 랭크를 올리기 위해서는 둥지 사냥, 루타 항목 클리어, 에너지 소모를 통한 경험치 수급 등의 방법이 있습니다.",
-      "text": "To raise adventurer rank, there are methods such as 둥지 사냥, clearing 루타 items, and obtaining experience through energy consumption.",
+      "source": "에뮬레이터 사용 시 그래픽이나 색상이 깨지는 현상이 발생할 수 있어 불안정할 수 있습니다.",
+      "text": "When using an emulator, it may be unstable as phenomena such as graphics or colors breaking may occur.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "모바일 환경은 최적화가 매우 잘 되어 있으며 프레임 드랍이 거의 느껴지지 않을 정도로 좋습니다.",
+      "text": "The mobile environment is very well optimized and is so good that frame drops are hardly felt.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "모바일 플레이 시 해상도와 그래픽이 더 깔끔하고 좋다는 개인적인 의견입니다.",
+      "text": "It is my personal opinion that the resolution and graphics are cleaner and better when playing on mobile.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "패드는 부분적으로 지원하며 완벽한 호환은 아닌 것으로 보입니다.",
+      "text": "Controllers are partially supported and do not appear to be fully compatible.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "조작 모드에는 자동 연기 어시스트와 클래식 모드가 있습니다.",
+      "text": "Control modes include Auto Smoke Assist and Classic Mode.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "그래픽 설정에서 고프레임 모드를 통해 60프레임으로 플레이할 수 있습니다.",
+      "text": "In the graphics settings, you can play at 60 frames through High Frame Mode.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "몬스터의 체력 표시 여부를 선택할 수 있어 입문자의 장벽을 낮출 수 있습니다.",
+      "text": "You can choose whether to display monster health, which can lower the barrier for beginners.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "조사 노트에서 육질, 내성, 몬스터 정보를 확인할 수 있습니다.",
+      "text": "In the Investigation Note, you can check meat quality, resistance, and monster information.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "부위 선택 팔레트 메뉴를 통해 특정 부위를 정확히 노리는 것이 가능합니다.",
+      "text": "It is possible to accurately target specific parts through the Part Selection Palette menu.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "조작 난이도는 해보 1, 활 2, 쌍검 2, 대검 3, 랜스 3, 해머 3, 차액 5 순으로 나타납니다.",
+      "text": "Control difficulty is presented in the order of 1 Bow, 2 Dual Blades, 2 Great Sword, 3 Lance, 3 Hammer, 3, and a difference of 5.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "차액은 조작 난이도가 5로 가장 높게 표시되어 있습니다.",
+      "text": "The difference is displayed with the control difficulty being highest at 5.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "태도 무기는 일반 공격, 긴 배기, 간파 배기, 특납, 찌르기 등의 모션이 있습니다.",
+      "text": "Long Sword weapons have motions such as normal attacks, long slashes, 간파 배기, 특납, and 찌르기.",
       "unresolvedTerms": [
-        "둥지 사냥",
-        "루타"
+        "간파 배기",
+        "특납",
+        "찌르기"
+      ]
+    },
+    {
+      "source": "차액 무기는 가드 시 도끼 변형이 가능하며 저스트 가드와 초고 출력 모션이 존재합니다.",
+      "text": "차액 weapons can transform into axes when guarding, and they feature 저스트 가드 and 초고 출력 motions.",
+      "unresolvedTerms": [
+        "차액",
+        "저스트 가드",
+        "초고 출력"
+      ]
+    },
+    {
+      "source": "신대륙에 도착하는 듯한 스토리와 오픈월드 느낌의 맵을 제공합니다.",
+      "text": "It provides a story that feels like arriving in a new continent and a map with an open-world feel.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "글라이더를 이용한 이동이 가능하며 필드 내 이동 기구를 만들 수 있습니다.",
+      "text": "Movement using a glider is possible, and you can craft movement devices within the field.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "약초 채집, 환경생물 조사, 나무 채집 등 다양한 상호작용이 가능합니다.",
+      "text": "Various interactions are possible, such as herb gathering, environmental creature investigation, and wood gathering.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "온라인 게임처럼 다른 플레이어들이 월드 내에 보이는 것을 확인할 수 있습니다.",
+      "text": "You can confirm that other players are visible within the world, similar to an online game.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "회피 시 교란형 모험가가 나타나 도움을 주는 시스템이 있습니다.",
+      "text": "There is a system where a 교란형 adventurer appears to provide help upon evasion.",
+      "unresolvedTerms": [
+        "교란형"
+      ]
+    },
+    {
+      "source": "무기 생산 시 초반에는 철제 무기를 주로 사용합니다.",
+      "text": "When producing weapons, iron weapons are mainly used in the early stages.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "방어구 생산 시 세트를 한 번에 만들거나 부위별로 따로 입을 수 있습니다.",
+      "text": "When producing armor, you can make a set all at once or wear pieces separately.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "장비 옵션에는 회심을 올려주는 통찰이나 귀인화 중 데미지를 증가시키는 효과 등이 있습니다.",
+      "text": "Equipment options include things like 통찰, which increases critical hits, or effects that increase damage among 귀인화 and others.",
+      "unresolvedTerms": [
+        "통찰",
+        "귀인화"
       ]
     },
     {
@@ -571,28 +686,841 @@
       "unresolvedTerms": []
     },
     {
+      "source": "게임 플랫폼 및 최적화 정보",
+      "text": "Game Platform and Optimization Information",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "게임 시스템 및 설정",
+      "text": "Game System and Settings",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "무기 및 조작 난이도",
+      "text": "Weapon and Control Difficulty",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "월드 및 콘텐츠 특징",
+      "text": "World and Content Features",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "장비 및 제작",
+      "text": "Equipment and Crafting",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "【몬스터헌터 아웃랜더스】 무기 소개｜차지액스",
+      "text": "【Monster Hunter Outlanders】 Weapon Introduction｜Charge Blade",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "제공 자막 없음",
+      "text": "No provided subtitles",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "【몬스터헌터 아웃랜더스】 옥외 광고 현장 공개",
+      "text": "【Monster Hunter Outlanders】 Outdoor advertisement site revealed",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "[MHO] 몬스터헌터 아웃랜더스 2일차!",
+      "text": "[MHO] Monster Hunter Outlanders 2 days!",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "몬스터의 패턴에 맞춘 기술 사용과 회피 타이밍이 중요한 컨트롤 중심의 전투 시스템을 갖추고 있습니다.",
+      "text": "It features a control-oriented combat system where using skills in accordance with monster patterns and dodge timing are important.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "캐릭터의 속성과 장비 세트 효과를 고려한 전략적인 장비 세팅 및 소재 파밍이 필요합니다.",
+      "text": "Strategic equipment setting and material farming considering the character's attributes and equipment set effects are required.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "과도한 경쟁보다는 느긋하게 즐기는 것을 추천하며 외형 아이템 구매 위주의 소과금 운영이 가능합니다.",
+      "text": "Rather than excessive competition, a relaxed playstyle is recommended, and low-spending management focused on purchasing cosmetic items is possible.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "전투 방식은 몬스터 헌터와 거의 유사합니다.",
+      "text": "The combat style is almost similar to 몬스터 헌터.",
+      "unresolvedTerms": [
+        "몬스터 헌터"
+      ]
+    },
+    {
+      "source": "캐릭터의 기술을 익히고 몬스터 패턴에 맞춰 기술을 사용하는 컨트롤 게임입니다.",
+      "text": "It is a control game where you learn character skills and use them in accordance with monster patterns.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "스텝 관리와 회피 타이밍이 중요하며, 몬스터의 공격에 따라 옆으로 피하거나 두 번 연속으로 피해야 할 때가 있습니다.",
+      "text": "Stamina management and dodge timing are important, and depending on the monster's attack, you may need to dodge to the side or dodge twice in a row.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "원거리 무기는 에임이 자동으로 잡아주는 기능이 있어 편리합니다.",
+      "text": "Ranged weapons are convenient because they have a feature that automatically assists with aiming.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "활 사용 시 차지 스텝으로 회피하는 것이 편하지만, 별도의 회피 버튼을 눌러야 하는 점은 다소 불편할 수 있다는 개인적인 의견이 있습니다.",
+      "text": "When using Bow, it is convenient to evade using a charge step, but there is a personal opinion that having to press a separate evasion button can be somewhat inconvenient.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "태도 사용 시 턴 동작 없이 바로 간파가 가능합니다.",
+      "text": "When using Long Sword, 간파 is possible immediately without a turn motion.",
+      "unresolvedTerms": [
+        "간파"
+      ]
+    },
+    {
+      "source": "메인 캐릭터는 모든 종류의 무기를 사용할 수 있지만, 뽑기로 획득한 캐릭터는 무기 종류가 한정되어 있습니다.",
+      "text": "The main character can use all types of weapons, but characters obtained through gacha have limited weapon types.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "주인공 캐릭터는 SSR 등급입니다.",
+      "text": "The protagonist character is SSR grade.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "류노스케는 SR 등급이며 태도를 독특하게 사용하는 캐릭터입니다.",
+      "text": "류노스케 is SR grade and is a character who uses Long Sword uniquely.",
+      "unresolvedTerms": [
+        "류노스케"
+      ]
+    },
+    {
+      "source": "루카는 번개 속성 활을 사용하는 캐릭터로 보입니다.",
+      "text": "루카 appears to be a character who uses lightning attribute Bow.",
+      "unresolvedTerms": [
+        "루카"
+      ]
+    },
+    {
+      "source": "케레스는 방어구가 예쁘다는 의견이 있습니다.",
+      "text": "There is an opinion that 케레스's armor is pretty.",
+      "unresolvedTerms": [
+        "케레스"
+      ]
+    },
+    {
+      "source": "애매한 SSR보다는 강화가 많이 되는 SR이 더 나을 수 있다는 개인적인 의견이 있습니다.",
+      "text": "There is a personal opinion that an SR that can be enhanced frequently might be better than an ambiguous SSR.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "캐릭터의 속성에 맞는 무기를 장착하면 속성 데미지가 올라가며, 다른 속성 무기 사용 시에는 페널티가 적용됩니다.",
+      "text": "Equipping a weapon that matches the character's attribute increases attribute damage, and a penalty is applied when using a different attribute weapon.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "장비 세팅 시 몬스터를 잡아서 얻는 사파를 장착하며, 사파의 능력치는 랜덤하게 설정됩니다.",
+      "text": "When setting up equipment, you equip 사파 obtained by defeating monsters, and the stats of 사파 are set randomly.",
+      "unresolvedTerms": [
+        "사파"
+      ]
+    },
+    {
+      "source": "사파 세트 장착 시 4개면 불속성 데미지가 증가하고, 2세트 장착 시 제압 부여와 멤버 전원의 데미지 2.2% 증가 효과가 있습니다.",
+      "text": "When equipping 4 pieces of the 사파 set, fire attribute damage increases, and when equipping the 2 set, there is an effect of granting suppression and increasing the damage of all members by 2.2%.",
+      "unresolvedTerms": [
+        "사파"
+      ]
+    },
+    {
+      "source": "장비에는 코스트 개념이 존재합니다.",
+      "text": "A concept of cost exists for equipment.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "무기는 거래하는 것이 아니라 몬스터를 잡고 소재를 파밍하여 만드는 방식입니다.",
+      "text": "Weapons are not traded, but are made by defeating monsters and farming materials.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "용 속성 무기는 나중에 고룡을 잡을 때 좋을 것으로 보입니다.",
+      "text": "Dragon attribute weapons seem like they will be good when defeating 고룡 later.",
+      "unresolvedTerms": [
+        "고룡"
+      ]
+    },
+    {
+      "source": "망대 레벨을 5까지 올리는 것이 필요합니다.",
+      "text": "It is necessary to raise the 망대 level to 5.",
+      "unresolvedTerms": [
+        "망대"
+      ]
+    },
+    {
+      "source": "깨달음 포인트는 퀘스트를 통해 얻을 수 있으며, 나머지는 뽑기를 통해 얻는 것으로 보입니다.",
+      "text": "깨달음 points can be obtained through quests, and the rest appear to be obtained through gacha.",
+      "unresolvedTerms": [
+        "깨달음"
+      ]
+    },
+    {
+      "source": "레벨업을 위해 100만 경험치를 모아야 하는 구간이 있습니다.",
+      "text": "There are sections where you must collect 100만 experience to level up.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "처음 잡는 몬스터는 한 번 잡을 때 경험치를 300씩 줍니다.",
+      "text": "The first monster you catch gives 300 experience per kill.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "16레벨까지는 뚫을 수 있을 것 같으나 17레벨 도달이 관건이며, 25레벨이나 26레벨 구간에서 막히는 체감이 강하게 느껴질 수 있습니다.",
+      "text": "It seems possible to reach 16 level, but reaching 17 level is the key, and you may strongly feel stuck at the 25 level or 26 level sections.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "캐릭터의 레벨뿐만 아니라 기술을 모두 익히는 것이 중요합니다.",
+      "text": "It is important to learn all skills, not just the character's level.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "필드에서 대형 몬스터를 사냥해야 하는 미션이 있습니다.",
+      "text": "There are missions where you must hunt large monsters in the field.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "특정 항목을 해금하기 위해서는 30번을 수행해야 하는 조건이 있습니다.",
+      "text": "To unlock certain items, there is a condition that you must perform it 30 times.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "루가알다 콘텐츠는 11월 7일 새벽 5시쯤 오픈될 예정입니다.",
+      "text": "The 루가알다 content is scheduled to open around 5 AM on 7 11 month.",
+      "unresolvedTerms": [
+        "루가알다"
+      ]
+    },
+    {
+      "source": "현재 몬스터가 39마리 정도 구현되어 있으며, 앞으로 업데이트를 통해 추가될 예정입니다.",
+      "text": "Currently, about 39 monsters are implemented, and more are scheduled to be added through future updates.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "사진을 찍는 퀘스트 형태의 미션이 있는 것으로 보입니다.",
+      "text": "There appear to be missions in the form of quests that involve taking photos.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "특정 랭크인 27랭크에 도달하면 장비 파밍을 위한 필드 사냥이나 경험치 파밍을 진행합니다.",
+      "text": "Once you reach a specific rank, 27 rank, you proceed with field hunting for equipment farming or experience farming.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "현질을 크게 하지 않거나 아예 안 해도 게임을 즐기는 데 문제가 없을 것 같다는 개인적인 의견이 있습니다.",
+      "text": "There is a personal opinion that there should be no problem enjoying the game even if you do not spend much money or do not spend any at all.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "7,100원 정도의 상품이나 한 달 패스 상품은 가성비가 나쁘지 않다는 개인적인 의견이 있습니다.",
+      "text": "There is a personal opinion that products around 7,100 won or a one-month pass product do not have bad cost-effectiveness.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "리니지라이크처럼 경쟁을 위해 무리하게 돈을 쓰는 것보다는 느긋하게 즐기는 것을 추천한다는 개인적인 의견이 있습니다.",
+      "text": "There is a personal opinion that it is recommended to enjoy the game leisurely rather than spending excessive money for competition like a lineage-like game.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "과금은 굳이 필수는 아니며, 외형 아이템을 사고 싶을 때 하는 것이 좋다는 의견이 있습니다.",
+      "text": "There is an opinion that spending is not strictly necessary, and it is better to do so when you want to buy cosmetic items.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "아이템을 잘 주면 갓겜이고 안 주면 쓰레기 게임이라는 개인적인 의견이 있습니다.",
+      "text": "There is a personal opinion that if the items drop well, it is a god-tier game, and if they do not, it is a trash game.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "전투 및 조작 시스템",
+      "text": "Combat and Control System",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "캐릭터 및 무기 정보",
+      "text": "Character and Weapon Information",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "장비 및 속성 시스템",
+      "text": "Equipment and Attribute System",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "성장 및 육성 요소",
+      "text": "Growth and Nurturing Elements",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "미션 및 콘텐츠",
+      "text": "Missions and Content",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "과금 및 서비스 관련 의견",
+      "text": "Opinions Regarding Monetization and Service",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "몬스터헌터 아웃랜더스 1일차 가이드",
+      "text": "Monster Hunter Outlanders 1 Day Guide",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "무기 속성 특화 시스템과 모험가별 돌파 방식 및 성장 구조를 설명합니다.",
+      "text": "Explains the weapon attribute specialization system, the breakthrough methods for each adventurer, and the growth structure.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "실험 원정 파밍 효율과 모험가 랭크를 올리기 위한 다양한 경험치 수급처를 안내합니다.",
+      "text": "We provide guidance on the farming efficiency of 실험 원정 and various experience sources to raise Adventurer Rank.",
+      "unresolvedTerms": [
+        "실험 원정"
+      ]
+    },
+    {
+      "source": "주인공은 모든 무기군 사용이 가능하며 불, 물, 번개, 얼음, 명속성 무기를 들었을 때 특화 효과가 발동합니다.",
+      "text": "The protagonist can use all weapon types, and specialized effects are activated when holding Fire, Water, Lightning, Ice, or Light attribute weapons.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "상태 이상 무기를 들었을 때는 특화 효과가 발동하지 않습니다.",
+      "text": "Specialized effects do not activate when holding status ailment weapons.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "정식 오픈 이후 SSR 모험가들은 상태 이상 특화를 가질 수 있게 되어, 미도리의 경우 불속성 대신 마비, 폭파, 동무기를 들어 데미지 감소 없이 전투가 가능해졌습니다.",
+      "text": "After the official launch, SSR adventurers can possess status ailment specialization; in the case of 미도리, it has become possible to fight without damage reduction by holding Paralysis, Explosion, or Freeze weapons instead of Fire attribute weapons.",
+      "unresolvedTerms": [
+        "미도리"
+      ]
+    },
+    {
+      "source": "작성자의 의견으로는 상태 이상 특화가 다른 모험가에게 분산된 것은 주인공의 범용성 측면에서 간접 너프라고 생각됩니다.",
+      "text": "In the author's opinion, the fact that status ailment specialization has been distributed to other adventurers is considered an indirect nerf in terms of the protagonist's versatility.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "윤광종은 한 가지 약점 속성이 존재하며 해당 속성에 두 배 이상의 데미지를 받으므로 반드시 속성을 맞춰야 합니다.",
+      "text": "윤광종 has one specific weakness attribute and receives more than double damage from that attribute, so you must match the attribute.",
+      "unresolvedTerms": [
+        "윤광종"
+      ]
+    },
+    {
+      "source": "SR 모험가의 특화 수치는 3자 베타와 달리 SSR과 10% 차이가 나도록 하향 조정되었습니다.",
+      "text": "The specialization values of SR adventurers have been adjusted downward to have a 10% difference from SSR, unlike the 3 beta.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "SR 모험가는 목기에서 잘 나오는 편이며, 작성자의 경험상 2만 원 과금으로 브릭스 4돌파를 달성했습니다.",
+      "text": "SR adventurers tend to drop frequently from 목기, and based on the author's experience, 2만 won spending achieved 4 breakthrough for 브릭스.",
+      "unresolvedTerms": [
+        "목기",
+        "브릭스"
+      ]
+    },
+    {
+      "source": "주인공은 깨달음 포인트 30개가 모이면 깨달음 하나가 해금되며 이를 1돌파 상태라고 부릅니다.",
+      "text": "When the protagonist accumulates 30 깨달음 points, one 깨달음 is unlocked, which is called the 1 breakthrough state.",
+      "unresolvedTerms": [
+        "깨달음"
+      ]
+    },
+    {
+      "source": "주인공의 깨달음 포인트는 20층 완료 시 25포인트이며, 이 추세라면 3일차에 1돌파, 13일차에 2돌파가 될 것으로 보입니다.",
+      "text": "The protagonist's 깨달음 points are 25 points upon completing 20 floors; if this trend continues, it is expected to reach 1 breakthrough on day 3 and 2 breakthrough on day 13.",
+      "unresolvedTerms": [
+        "깨달음"
+      ]
+    },
+    {
+      "source": "주인공을 제외한 다른 모험가는 중복 뽑기를 통해 돌파를 해금합니다.",
+      "text": "Adventurers other than the protagonist unlock breakthroughs through duplicate pulls.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "상점의 깨달음 교환을 통해 매일 깨달음 1포인트를 부여할 수 있으며, 이를 활용하면 무과금으로도 풀돌이 가능합니다.",
+      "text": "Through the shop's 깨달음 exchange, 1 깨달음 points can be granted every day, and by utilizing this, full breakthrough is possible even without spending money.",
+      "unresolvedTerms": [
+        "깨달음"
+      ]
+    },
+    {
+      "source": "깨달음 티켓의 유통 기한은 30일입니다.",
+      "text": "The expiration date of the 깨달음 ticket is 30 days.",
+      "unresolvedTerms": [
+        "깨달음"
+      ]
+    },
+    {
+      "source": "첫날 파밍을 마치면 사냥력 3,300대로 20층까지 자동으로 스킵할 수 있습니다.",
+      "text": "Once the first day of farming is complete, you can automatically skip up to 20 floors according to the hunting power of 3,300.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "21층부터는 입장권이 필요하며, 매일 충전되는 입장권을 소모하여 3층씩 올라가야 합니다.",
+      "text": "From 21 floors, entry tickets are required, and you must climb 3 floors at a time by consuming the entry tickets that recharge every day.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "100년의 증표는 메인 퀘스트와 연동되는 성장 로드맵입니다.",
+      "text": "The 100 year token is a growth roadmap that is linked with the main quest.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "타원형 100년 마크를 선택하면 해금될 특전을 미리 확인할 수 있습니다.",
+      "text": "By selecting the oval 100 year mark, you can preview the perks that will be unlocked.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "작성자의 의견으로는 100년의 증표가 시키는 일을 바로바로 처리하는 것이 매우 중요하다고 생각됩니다.",
+      "text": "In the author's opinion, it is considered very important to immediately handle the tasks commanded by the 100 year token.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "모험 제한을 클리어하면 매일 3,600 경험치를 얻을 수 있습니다.",
+      "text": "By clearing adventure restrictions, you can obtain 3,600 experience every day.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "둥지 사냥을 통해 도감 과제를 클리어하면 퀘스트 하나당 300 경험치를 얻을 수 있습니다.",
+      "text": "By clearing encyclopedia tasks through 둥지 사냥, you can obtain 300 experience per quest.",
+      "unresolvedTerms": [
+        "둥지 사냥"
+      ]
+    },
+    {
+      "source": "룰 항목 중 경험치 보상을 주는 서브 퀘스트를 클리어할 수 있습니다.",
+      "text": "Among the rule items, you can clear sub-quests that provide experience rewards.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "에너지를 소모하는 우의 사냥을 통해 경험치 1,000 포인트를 수급할 수 있습니다.",
+      "text": "Through 우의 사냥, which consumes energy, you can acquire 1,000 experience points.",
+      "unresolvedTerms": [
+        "우의 사냥"
+      ]
+    },
+    {
+      "source": "루타 코인을 사용하여 하루 200 에너지(2,000 경험치)를 추가로 얻을 수 있으나, 모집권과 교환 가능한 코인이므로 작성자는 추천하지 않습니다.",
+      "text": "By using 루타 코인, you can obtain an additional 200 energy (2,000 experience) per day, but since these are coins exchangeable for recruitment tickets, the author does not recommend this.",
+      "unresolvedTerms": [
+        "루타 코인"
+      ]
+    },
+    {
+      "source": "무기 및 속성 특화 시스템",
+      "text": "Weapon and Attribute Specialization System",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "모험가 성장 및 돌파",
+      "text": "Adventurer Growth and Breakthrough",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "실험 원정 및 파밍",
+      "text": "Experimental Expedition and Farming",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "100년의 증표",
+      "text": "Token of 100 Year",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "모험가 랭크 달성 방법",
+      "text": "How to Achieve Adventurer Rank",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "2026년 10월 29일 다시보기 / 몬스터헌터 아웃랜더스 (시작~2장까지 완)",
+      "text": "Replay of 2026 Year 10 Month 29 Day / Monster Hunter Outlanders (Complete from Start to 2 Chapter)",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "캐릭터 커스터마이징과 모험가의 타입별 특징 및 속성 공명 시스템을 설명합니다.",
+      "text": "Explains character customization, the characteristics of each adventurer type, and the Attribute Resonance system.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "다양한 무기 종류와 조작법 및 캐릭터와 생태 레벨을 올리는 성장 요소를 안내합니다.",
+      "text": "Guides you through various weapon types and controls, as well as growth elements for leveling up characters and ecosystem levels.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "모집 시스템의 티켓 종류와 천장 제도 및 주요 콘텐츠의 특징을 정리합니다.",
+      "text": "Summarizes the types of tickets in the recruitment system, the pity system, and the characteristics of major content.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "커스터마이징 코드를 통해 설정을 불러올 수 있습니다.",
+      "text": "Settings can be loaded via customization codes.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "피부 결은 '송뽀송'으로 설정하고 윤기를 조절할 수 있습니다.",
+      "text": "Set the skin texture to '송뽀송' and adjust the glossiness.",
+      "unresolvedTerms": [
+        "송뽀송"
+      ]
+    },
+    {
+      "source": "헤어 스타일은 변경이 어려울 수 있으므로 신중하게 선택해야 합니다.",
+      "text": "Hair styles may be difficult to change, so they must be chosen carefully.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "눈 높이와 크기를 조절하여 캐릭터를 완성합니다.",
+      "text": "Complete the character by adjusting eye height and size.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "이름은 자음/모음 기준 최대 16자까지 설정 가능하며 중복은 불가합니다.",
+      "text": "Names can be set up to a maximum of 16 characters based on consonants/vowels, and duplicates are not allowed.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "모험가는 돌격형(데미지), 교란형(제한과 디버프), 지원형(지원과 회복) 타입으로 나뉩니다.",
+      "text": "Adventurers are divided into Assault (damage), Disturbance (restriction and debuff), and Support (support and recovery) types.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "모험가는 모든 속성에 특화되어 있어 속성별로 가져가는 것이 좋습니다.",
+      "text": "Adventurers are specialized in all attributes, so it is recommended to take them by attribute.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "모험가는 무기 전환이 가능하며 캐릭터마다 스킬 사용 방식이 완전히 다릅니다.",
+      "text": "Adventurers can switch weapons, and the skill usage method is completely different for each character.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "연계 회피 성공 시 다양한 약화 효과를 가진 연계기가 발동합니다.",
+      "text": "Upon successful chain evasion, a chain attack with various debuff effects will trigger.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "속성 공명을 활용해 같은 속성 특화 캐릭터 2명을 배치하면 모든 데미지로 인한 부파 효율이 35% 상승합니다.",
+      "text": "By utilizing elemental resonance, if you deploy 2 characters specialized in the same element, the sub-damage efficiency from all damage increases by 35%.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "개인적인 의견으로 모험가 캐릭터가 가장 예쁘게 그려진 것 같습니다.",
+      "text": "In my personal opinion, it seems the adventurer character is drawn the most beautifully.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "선택 가능한 무기는 태도, 활, 대검, 쌍검, 해보, 랜스, 해머, 차지엑스가 있습니다.",
+      "text": "Selectable weapons include Long Sword, Bow, Great Sword, Dual Blades, 해보, Lance, Hammer, and 차지엑스.",
+      "unresolvedTerms": [
+        "해보",
+        "차지엑스"
+      ]
+    },
+    {
+      "source": "태도 사용 시 간파와 대회전베기 등의 기술이 있습니다.",
+      "text": "When using Long Sword, there are techniques such as 간파 and 대회전베기.",
+      "unresolvedTerms": [
+        "간파",
+        "대회전베기"
+      ]
+    },
+    {
+      "source": "해머 스킬 3번은 코어 에너지가 최대일 때 찌르기나 투구 깨기 동작을 발동합니다.",
+      "text": "Hammer skill 3 times will trigger thrusting or helmet-breaking motions when core energy is at maximum.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "해머 모으기 단계에 따라 일반 공격(1단계), 어퍼컷(2단계), 내려치기(3단계)를 사용합니다.",
+      "text": "Depending on the Hammer charging stage, it uses normal attacks (1 stage), uppercut (2 stage), or downward strike (3 stage).",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "패드 조작 시 구르기는 X 버튼을 사용하며 버튼 배치가 다를 수 있어 적응이 필요합니다.",
+      "text": "When using a controller, rolling uses the X button, but button layouts may vary, so adaptation is required.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "개인적인 의견으로 모바일 터치 조작이 패드보다 편할 수 있습니다.",
+      "text": "In my personal opinion, mobile touch controls may be more convenient than a pad.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "모험가 레벨과 기념품 레벨 상한은 30레벨이며 캐릭터 4개를 돌파해야 합니다.",
+      "text": "The cap for Adventurer Level and Souvenir Level is 30 levels, and you must breakthrough 4 characters.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "생태 레벨은 15, 20, 25, 30 등 5단위로 도달하며 몬스터 난이도와 콘텐츠 오픈에 영향을 줍니다.",
+      "text": "Ecology Level is reached in units of 5, such as 15, 20, 25, and 30, and it affects monster difficulty and content openings.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "루타코인은 중지 사냥 등 도감 과제들을 통해 얻을 수 있습니다.",
+      "text": "루타코인 can be obtained through encyclopedia tasks such as 중지 사냥.",
+      "unresolvedTerms": [
+        "루타코인",
+        "중지 사냥"
+      ]
+    },
+    {
+      "source": "전망대 업그레이드를 위해 별의술 꿀벌레 등 특정 아이템을 먹어야 합니다.",
+      "text": "To upgrade the Observatory, you must consume specific items such as 별의술 and 꿀벌레.",
+      "unresolvedTerms": [
+        "별의술",
+        "꿀벌레"
+      ]
+    },
+    {
+      "source": "의뢰 사냥을 통해 기념품 및 동반자 육성 소재, 제니 등을 획득합니다.",
+      "text": "Through 의뢰 사냥, you acquire Souvenirs, companion growth materials, 제니, etc.",
+      "unresolvedTerms": [
+        "의뢰 사냥",
+        "제니"
+      ]
+    },
+    {
+      "source": "일반 모집과 시작의 모집이 있으며 주기적으로 픽업 대상이 바뀝니다.",
+      "text": "There are 일반 모집 and 시작의 모집, and the pickup targets change periodically.",
+      "unresolvedTerms": [
+        "일반 모집",
+        "시작의 모집"
+      ]
+    },
+    {
+      "source": "시작의 모집은 상시 할인이며 노란 티켓을 사용합니다.",
+      "text": "The Starting Recruitment is always on discount and uses yellow tickets.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "특별 모집은 빨간 티켓을 사용하며 미돌리는 한정 캐릭터입니다.",
+      "text": "Special Recruitment uses red tickets, and 미돌리는 is a limited character.",
+      "unresolvedTerms": [
+        "미돌리는"
+      ]
+    },
+    {
+      "source": "50회 모집 시 확정 획득이 가능한 천장 시스템이 존재합니다.",
+      "text": "There is a pity system that allows for guaranteed acquisition when recruiting 50 times.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "첫 결제 시 20회 모집과 한정 장비를 증정하는 이벤트가 있습니다.",
+      "text": "There is an event that grants 20 recruitment pulls and limited equipment upon your first purchase.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "월정액 상품은 7,000원이며 특정 모험가를 선택할 수 있는 기능이 있습니다.",
+      "text": "The monthly subscription product is 7,000 won and includes a feature to select a specific adventurer.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "모험단은 초기 32명에서 레벨업을 통해 최대 60명까지 확장 가능합니다.",
+      "text": "The Adventurer Group can be expanded from the initial 32 members up to a maximum of 60 members through leveling up.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "실현의 길은 21층에서 125층까지 존재하며 원정의 길 41층 클리어 시 열립니다.",
+      "text": "The Path of Realization exists from 21 floor to 125 floor and opens upon clearing 41 floor of the Path of Expedition.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "격투대회는 솔로와 파티 모드가 있는 타임어택 콘텐츠로 매주 월요일 정산됩니다.",
+      "text": "격투대회 is a time attack content with solo and party modes, and settlements are made every Monday.",
+      "unresolvedTerms": [
+        "격투대회"
+      ]
+    },
+    {
+      "source": "익스트림 둥지 사냥은 매우 위험하며 몬스터의 체력을 확인할 수 없습니다.",
+      "text": "Extreme 둥지 사냥 is very dangerous, and you cannot check the monsters' HP.",
+      "unresolvedTerms": [
+        "둥지 사냥"
+      ]
+    },
+    {
+      "source": "마을에 다른 유저들이 보이는 온라인 환경입니다.",
+      "text": "This is an online environment where other users are visible in the village.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "개인적인 의견으로 리세마라는 굳이 할 필요가 없는 것 같습니다.",
+      "text": "In my personal opinion, it seems like there is no need to do 리세마라.",
+      "unresolvedTerms": [
+        "리세마라"
+      ]
+    },
+    {
+      "source": "캐릭터 커스터마이징 및 설정",
+      "text": "Character Customization and Settings",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "모험가 및 전투 시스템",
+      "text": "Adventurer and Combat Systems",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "무기 정보 및 조작",
+      "text": "Weapon Information and Controls",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "성장 및 수집 요소",
+      "text": "Growth and Collection Elements",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "모집 및 과금 시스템",
+      "text": "Recruitment and Payment Systems",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "주요 콘텐츠 및 환경",
+      "text": "Main Content and Environment",
+      "unresolvedTerms": []
+    },
+    {
       "source": "[몬스터헌터 아웃랜더스] 5% 부족하다....",
       "text": "[Monster Hunter Outlanders] 5% lacking....",
       "unresolvedTerms": []
     },
     {
-      "source": "이 게임은 PC 버전 없이 모바일로만 플레이 가능하며, 중국어, 일본어, 영어 음성을 지원합니다.",
-      "text": "This game is playable only on mobile without a PC version, and it supports Chinese, Japanese, and English voices.",
+      "source": "이 게임은 PC 버전 없이 모바일 환경에 최적화되어 있으며 중국어, 일본어, 영어를 지원합니다.",
+      "text": "This game is optimized for mobile environments without a PC version and supports Chinese, Japanese, and English.",
       "unresolvedTerms": []
     },
     {
-      "source": "스타팅 모드와 클래식 모드 등 조작 난이도에 따른 모드를 제공하며, 커스터마이징과 무기 제작 및 생산 기능이 있습니다.",
-      "text": "It provides modes based on control difficulty, such as Starting Mode and Classic Mode, and features customization as well as weapon crafting and production functions.",
+      "source": "초보자를 위한 자동 연계 어시스트 모드와 숙련자를 위한 클래식 모드가 구분되어 있습니다.",
+      "text": "There is a distinction between an auto-combo assist mode for beginners and a classic mode for experts.",
       "unresolvedTerms": []
     },
     {
-      "source": "태도, 쌍검, 활 등 다양한 무기를 선택할 수 있고, SSR 등급을 포함한 가차(뽑기) 시스템이 존재합니다.",
-      "text": "You can choose from various weapons such as Long Sword, Dual Blades, and Bow, and a gacha (draw) system including SSR grade exists.",
+      "source": "무기 제작 및 장비 선물 기능과 더불어 캐릭터 커스터마이징 및 허기 관리 요소가 존재합니다.",
+      "text": "In addition to weapon crafting and equipment gifting functions, there are character customization and hunger management elements.",
       "unresolvedTerms": []
     },
     {
-      "source": "모바일 환경에 최적화되어 있어 키보드보다는 모바일이나 패드 사용이 권장됩니다.",
-      "text": "As it is optimized for mobile environments, using mobile or a pad is recommended rather than a keyboard.",
+      "source": "PC 버전이 존재하지 않아 모바일로 미러링하여 플레이해야 합니다.",
+      "text": "Since a PC version does not exist, it must be played by mirroring to mobile.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "음성 언어는 중국어, 일본어, 영어가 지원됩니다.",
+      "text": "Voice languages supported are Chinese, Japanese, and English.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "모바일 기기에 최적화된 게임이며, PC로 플레이 시 최적화 문제가 심각할 수 있다는 개인적인 의견이 있습니다.",
+      "text": "It is a game optimized for mobile devices, and there is a personal opinion that optimization issues may be serious when playing on PC.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "키보드 조작보다는 모바일 방식의 조작이 더 적합해 보입니다.",
+      "text": "Mobile-style controls seem more suitable than keyboard controls.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "스타팅 모드는 조작에 어려움 없이 사냥을 체험할 수 있는 초보 모드입니다.",
+      "text": "Starting Mode is a beginner mode that allows you to experience hunting without difficulty in controls.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "스타팅 모드에서는 자동 연계 어시스트로 다양한 기술을 사용할 수 있습니다.",
+      "text": "In Starting Mode, you can use various skills with the auto-combo assist.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "클래식 모드는 상황에 맞게 스스로 판단해야 하는 숙련자용 모드입니다.",
+      "text": "Classic Mode is a mode for experts that requires making your own judgments according to the situation.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "무기 종류에는 태도, 쌍검, 활 등이 있습니다.",
+      "text": "Weapon types include Long Sword, Dual Blades, Bow, etc.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "해피 연계를 사용하면 데미지가 2배로 들어갑니다.",
+      "text": "Using a Happy Combo deals 2 times the damage.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "재료를 얻어 무기를 제작하거나 생산할 수 있습니다.",
+      "text": "You can obtain materials to craft or produce weapons.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "획득한 장비를 다른 모험가에게 줄 수 있는 기능이 있습니다.",
+      "text": "There is a feature that allows you to give acquired equipment to other adventurers.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "일반 모집과 특별 모집이 구분되어 있습니다.",
+      "text": "General Recruitment and Special Recruitment are distinguished.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "일반 모집에서도 SSR 등급이 등장할 수 있습니다.",
+      "text": "SSR grade can also appear in regular recruitment.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "7,100원을 사용하여 세 가지 선택지 중 하나를 뽑을 수 있는 기능이 있습니다.",
+      "text": "There is a feature where you can pick one of three options using 7,100 won.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "캐릭터 커스터마이징 기능을 지원합니다.",
+      "text": "It supports a character customization feature.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "집라인을 타고 이동하거나 경사로를 이용하는 등의 이동 방식이 있습니다.",
+      "text": "There are movement methods such as riding a zipline or using ramps.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "캐릭터가 배고픈 상태가 되면 밥을 먹여야 하는 요소가 있습니다.",
+      "text": "There is an element where you must feed the character if they become hungry.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "게임 플랫폼 및 환경",
+      "text": "Game platform and environment",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "게임 모드 및 조작",
+      "text": "Game mode and controls",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "전투 및 무기 시스템",
+      "text": "Combat and Weapon Systems",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "뽑기 및 비즈니스 모델(BM)",
+      "text": "Gacha and Business Model (BM)",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "기타 게임 요소",
+      "text": "Other Game Elements",
       "unresolvedTerms": []
     },
     {
@@ -604,6 +1532,206 @@
       ]
     },
     {
+      "source": "모바일로 출시된 몬스터 헌터 아운더스는 캐릭터 커스터마이징과 다양한 전투 액션 시스템을 제공합니다.",
+      "text": "The mobile release 몬스터 헌터 아운더스 provides character customization and various combat action systems.",
+      "unresolvedTerms": [
+        "몬스터 헌터 아운더스"
+      ]
+    },
+    {
+      "source": "플레이어는 필드 내 시설 제작과 채집 활동을 통해 재료를 모으고 장비를 제작하며 성장할 수 있습니다.",
+      "text": "Players can grow by collecting materials and crafting equipment through field facility construction and gathering activities.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "작성자는 몬스터를 사냥할 때 타격감이 다소 부족하다는 개인적인 의견을 남겼습니다.",
+      "text": "The author left a personal opinion that the sense of impact is somewhat lacking when hunting monsters.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "모바일로 출시된 몬스터 헌터 아운더스 게임입니다.",
+      "text": "It is the mobile release 몬스터 헌터 아운더스 game.",
+      "unresolvedTerms": [
+        "몬스터 헌터 아운더스"
+      ]
+    },
+    {
+      "source": "언어 설정에는 일본어는 있으나 한국어는 지원되지 않는 것으로 보입니다.",
+      "text": "Regarding language settings, Japanese is available, but it appears that Korean is not supported.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "무기 뽑기 등이 있는 것으로 추측되는 뽑기 시스템이 존재합니다.",
+      "text": "There exists a gacha system presumed to include things like weapon gacha.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "캐릭터 생성 시 얼굴 크기, 신장, 체형(두께) 등을 조절할 수 있습니다.",
+      "text": "When creating a character, you can adjust face size, height, body type (thickness), etc.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "머리 모양과 색상(백발 등)을 선택하여 꾸밀 수 있습니다.",
+      "text": "You can decorate by selecting hairstyles and colors (such as white hair, etc.).",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "성별은 1번이 남자, 2번이 여자 캐릭터로 구분됩니다.",
+      "text": "Gender is divided into 1 for male and 2 for female characters.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "비행선이 폭풍우를 만나 추락하며 이야기가 시작됩니다.",
+      "text": "The story begins as the airship encounters a storm and crashes.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "용이 나타나 폭풍우를 일으키는 듯한 연출이 등장합니다.",
+      "text": "A presentation appears where it seems a dragon has appeared and caused the storm.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "주인공 일행은 마을에 머물며 오로라의 정체를 조사하는 임무를 수행합니다.",
+      "text": "The protagonist's party stays in the village and performs the mission of investigating the true identity of 오로라.",
+      "unresolvedTerms": [
+        "오로라"
+      ]
+    },
+    {
+      "source": "마을 사람들은 주인공 일행이 용으로부터 마을을 구한 것에 대해 은혜를 입은 상태입니다.",
+      "text": "The villagers are in a state of being indebted to the protagonist's party for saving the village from the dragon.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "공격 방향을 지정한 후 기술을 사용하는 방식이며, 공격 도중 방향 전환이 가능한지는 확인이 필요합니다.",
+      "text": "It is a method of using a skill after specifying the attack direction, and it needs to be confirmed whether direction changes are possible during the attack.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "길게 누르면 발도 형식을 취하고, 발도 상태에서 한 번 더 클릭하면 기술이 나가는 스타일입니다.",
+      "text": "If you press and hold, it takes a drawing sword stance, and it is a style where the skill is released if you click once more while in the drawing sword state.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "회피와 반격, 필살기 사용 등의 액션이 포함되어 있습니다.",
+      "text": "Actions such as dodging, counterattacking, and using special moves are included.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "성강벌레라는 아이템 혹은 시스템이 존재합니다.",
+      "text": "An item or system called 성강벌레 exists.",
+      "unresolvedTerms": [
+        "성강벌레"
+      ]
+    },
+    {
+      "source": "몬스터의 약점을 사격하는 기능이 있습니다.",
+      "text": "There is a function to shoot at a monster's weaknesses.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "작성자의 개인적인 의견으로, 몬스터를 잡을 때 타격감이 조금 부족하다는 느낌을 받았습니다.",
+      "text": "In the author's personal opinion, I felt that the sense of impact was a bit lacking when defeating monsters.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "집라인(Zipline) 시설을 제작하여 목적지까지 빠르게 이동할 수 있습니다.",
+      "text": "You can construct Zipline facilities to move quickly to your destination.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "필드 내에서 토대를 갖춘 곳에 시설을 자유롭게 제작할 수 있습니다.",
+      "text": "You can freely construct facilities in places with a foundation within the field.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "벽타기를 통해 높은 곳으로 이동할 수 있습니다.",
+      "text": "You can move to high places through wall climbing.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "광맥 채집, 나무 벌목, 식물 채집 등의 활동이 가능합니다.",
+      "text": "Activities such as mining ore veins, logging trees, and gathering plants are possible.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "전망대 레벨을 올리면 탐색 기능 오픈, 시설 제작 상한 상승, 추가 지도 정보 표시 등의 혜택이 있습니다.",
+      "text": "Raising the 전망대 level provides benefits such as unlocking the exploration function, increasing the facility production limit, and displaying additional map information.",
+      "unresolvedTerms": [
+        "전망대"
+      ]
+    },
+    {
+      "source": "의뢰를 통해 퀘스트를 수행하며, 기본 임무를 깨면 추가 보너스를 받는 시스템이 있습니다.",
+      "text": "There is a system where you perform quests through 의뢰, and receiving additional bonuses by completing 기본 임무.",
+      "unresolvedTerms": [
+        "의뢰",
+        "기본 임무"
+      ]
+    },
+    {
+      "source": "몬스터 사냥 누적 횟수에 따라 보수와 도감 업그레이드가 이루어집니다.",
+      "text": "Rewards and 도감 upgrades are carried out according to the cumulative number of 몬스터 hunts.",
+      "unresolvedTerms": [
+        "도감",
+        "몬스터"
+      ]
+    },
+    {
+      "source": "사냥한 몬스터의 시체를 뒤지는 갈무리 기능을 통해 아이템을 획득할 수 있습니다.",
+      "text": "You can obtain items through the 갈무리 function, which involves searching the corpses of hunted 몬스터.",
+      "unresolvedTerms": [
+        "갈무리",
+        "몬스터"
+      ]
+    },
+    {
+      "source": "가공점에서 채집한 재료를 사용하여 새로운 무기와 장비를 제작할 수 있습니다.",
+      "text": "You can craft new weapons and equipment using gathered materials at the 가공점.",
+      "unresolvedTerms": [
+        "가공점"
+      ]
+    },
+    {
+      "source": "무기에 속성을 부여하는 속성 특화 기능이 있습니다.",
+      "text": "There is an 속성 특화 function that imbues weapons with attributes.",
+      "unresolvedTerms": [
+        "속성 특화"
+      ]
+    },
+    {
+      "source": "캐릭터 레벨을 올리면 기본 능력치가 좋아지며, 깨달음(패시브 스킬) 포인트를 통해 스킬을 올릴 수 있습니다.",
+      "text": "Raising the character level improves basic stats, and you can upgrade skills through 깨달음 (passive skill) points.",
+      "unresolvedTerms": [
+        "깨달음"
+      ]
+    },
+    {
+      "source": "게임 기본 정보 및 플랫폼",
+      "text": "Basic game information and platform",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "캐릭터 생성 및 설정",
+      "text": "Character Creation and Settings",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "게임 스토리 및 배경",
+      "text": "Game Story and Background",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "필드 활동 및 시설",
+      "text": "Field Activities and Facilities",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "퀘스트 및 성장 시스템",
+      "text": "Quests and Growth Systems",
+      "unresolvedTerms": []
+    },
+    {
       "source": "[몬스터헌터 아웃랜더스] 몬스터헌터가 모바일게임으로 나왔다 !! 이건 못 참지.. 오픈 런 !!",
       "text": "[Monster Hunter Outlanders] 몬스터헌터 has come out as a mobile game!! I can't resist this.. Open run!!",
       "unresolvedTerms": [
@@ -611,8 +1739,219 @@
       ]
     },
     {
-      "source": "몬스터 헌터 아웃랜더스는 몬스터를 사냥하여 재료를 채집하고 장비를 제작하는 오픈월드 액션 게임입니다. 태도, 대검, 쌍검, 랜스, 활 등 다양한 무기를 사용할 수 있으며 전투 시 회피, 패링, 필살기 등을 활용합니다. 가차 시스템을 통해 SSR 등급의 모험가나 동반자 캐릭터를 수집할 수 있으며, 토벌, 격투 대회, 의뢰 사냥 등 다양한 콘텐츠가 포함되어 있습니다. 모바일 특화 게임으로 PC 버전은 따로 없으며 앱 플레이어를 통해 실행할 수 있습니다.",
-      "text": "Monster Hunter Outlanders is an open-world action game where you hunt monsters to collect materials and craft equipment. You can use various weapons such as Long Sword, Great Sword, Dual Blades, Lance, and Bow, and utilize dodging, parrying, and special moves during combat. Through the gacha system, you can collect SSR grade adventurers or companion characters, and it includes various content such as subjugation, fighting tournaments, and commission hunting. It is a mobile-specialized game with no separate PC version, but it can be run through an app player.",
+      "source": "몬스터 헌터 아웃랜더스는 모바일 전용 게임으로 PC 에뮬레이터 사용 시 최적화 문제가 발생할 수 있습니다.",
+      "text": "몬스터 헌터 아웃랜더스 is a mobile-only game, and optimization issues may occur when using PC emulators.",
+      "unresolvedTerms": [
+        "몬스터 헌터 아웃랜더스"
+      ]
+    },
+    {
+      "source": "전투는 자동 연계가 포함된 스타팅 모드와 숙련자용 클래식 모드로 나뉘며 수동 조작과 회피가 중요합니다.",
+      "text": "Combat is divided into Starting Mode, which includes auto-combos, and Classic Mode for experts, where manual control and evasion are important.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "다양한 무기 선택과 캐릭터 커스터마이징이 가능하며 사냥을 통해 얻은 재료로 장비를 제작합니다.",
+      "text": "Various weapon choices and character customization are possible, and equipment is crafted using materials obtained through hunting.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "게임 명칭은 '몬스터 헌터 아웃랜더스'입니다.",
+      "text": "The game title is '몬스터 헌터 아웃랜더스'.",
+      "unresolvedTerms": [
+        "몬스터 헌터 아웃랜더스"
+      ]
+    },
+    {
+      "source": "모바일 최적화 게임으로 출시되었으며 별도의 PC 버전은 존재하지 않습니다.",
+      "text": "It was released as a mobile-optimized game, and no separate PC version exists.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "오세아니아를 시작으로 일본, 중국, 한국 순으로 오픈되었습니다.",
+      "text": "It opened starting with Oceania, followed by Japan, China, and then Korea.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "중국에서 제작하고 대만에서 운영하는 게임입니다.",
+      "text": "This is a game produced in China and operated in Taiwan.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "음성 언어는 중국어, 일본어, 영어 세 가지를 지원하며 한국어 음성은 지원되지 않습니다.",
+      "text": "The voice languages support three types: Chinese, Japanese, and English, and Korean voice is not supported.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "PC에서 플레이하려면 LD 플레이어, 블루스택, 녹스 플레이어와 같은 앱 플레이어를 사용해야 합니다.",
+      "text": "To play on PC, you must use an app player such as LD 플레이어, 블루스택, or 녹스 플레이어.",
+      "unresolvedTerms": [
+        "LD 플레이어",
+        "블루스택",
+        "녹스 플레이어"
+      ]
+    },
+    {
+      "source": "작성자의 경험상 블루스택보다는 LD 플레이어가 그나마 낫다고 판단했습니다.",
+      "text": "Based on the author's experience, it was judged that LD 플레이어 is somewhat better than 블루스택.",
+      "unresolvedTerms": [
+        "LD 플레이어",
+        "블루스택"
+      ]
+    },
+    {
+      "source": "모바일 전용 게임이라 PC 에뮬레이터 사용 시 렉, 끊김, 로딩, 그래픽 깨짐 현상이 심할 수 있다는 개인적인 의견이 있습니다.",
+      "text": "Since it is a mobile-only game, there is a personal opinion that lag, stuttering, loading, and graphic glitches may be severe when using a PC emulator.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "마을 진입 시 끊김이 심해지며, 보스전 진행 시 렉으로 인해 기술 사용 타이밍을 잡기 어려울 수 있다는 개인적인 의견이 있습니다.",
+      "text": "There is a personal opinion that stuttering becomes severe when entering a village, and it may be difficult to catch the timing for using skills due to lag during a boss battle.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "모바일 기기나 게임 패드로 플레이하는 것이 더 쾌적할 것이라는 개인적인 의견이 있습니다.",
+      "text": "There is a personal opinion that playing on a mobile device or a game pad will be more pleasant.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "자동 연계 어시스트를 통해 조작이 쉬운 초보자용 '스타팅 모드'와 숙련자용 '클래식 모드'가 있습니다.",
+      "text": "Through auto-combo assist, there is a beginner-friendly 'Starting Mode' that is easy to operate and a 'Classic Mode' for experts.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "WASD 키로 캐릭터를 이동할 수 있으며, 점프 기능 대신 날아다니는 기능이 존재합니다.",
+      "text": "You can move your character with the WASD keys, and instead of a jump function, there is a flying function.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "자동 이동 기능이 없는 리얼 수동 게임이며, 공격 후 회피를 빠르게 반복하는 것이 중요합니다.",
+      "text": "It is a real manual game without an auto-movement function, and it is important to rapidly repeat dodging after attacking.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "몬스터의 공격이 빨간색으로 표시될 때 회피하거나 패링을 해야 합니다.",
+      "text": "When a monster's attack is indicated in red, you must dodge or perform a parry.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "모래 경사로를 빠르게 달리면 슬라이딩이 가능합니다.",
+      "text": "If you run quickly on a sand slope, sliding is possible.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "몬스터를 찾아다니며 사냥하고, 사냥 완료 후 시체에서 재료를 채집하는 갈무리 시스템이 있습니다.",
+      "text": "There is a system where you hunt by searching for monsters, and after completing the hunt, there is a carving system to collect materials from the corpse.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "몬스터의 특정 부위(머리, 꼬리 등)를 노리는 약점 공략과 부위 파괴 요소가 존재합니다.",
+      "text": "There are elements of weakness targeting specific monster parts (head, tail, etc.) and part destruction.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "협동 플레이 시 모두가 머리를 공격하면 데미지가 150%가 됩니다.",
+      "text": "During cooperative play, if everyone attacks the head, the damage becomes 150%.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "패링에 성공하면 해피 연계가 뜨며 데미지가 2배로 들어갑니다.",
+      "text": "If you succeed at a parry, a Happy Combo will trigger, and damage will be dealt at 2 times.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "몬스터가 다운되거나 피로 상태일 때 필살기를 사용하는 것이 효율적입니다.",
+      "text": "It is efficient to use a special move when a monster is downed or in a fatigue state.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "특수 개체 몬스터는 매우 낮은 확률로 등장하며 거대한 크기를 가집니다.",
+      "text": "Special individual monsters appear with a very low probability and possess a massive size.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "태도, 쌍검, 해머, 랜스, 대검, 활, 차지액스 등 다양한 무기를 선택할 수 있으며 전투 중 무기 전환이 가능합니다.",
+      "text": "You can choose from various weapons such as Long Sword, Dual Blades, Hammer, Lance, Great Sword, Bow, and Charge Blade, and weapon switching is possible during combat.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "무기에는 내구도와 예리도 개념이 존재합니다.",
+      "text": "Weapons have concepts of durability and sharpness.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "작성자의 개인적인 의견으로 대검은 묵직하고 느려 답답할 수 있고, 태도는 손맛이 좋으며, 활은 자동 조준 덕분에 편하고 1티어급 성능을 보입니다.",
+      "text": "In the author's personal opinion, Great Sword can be frustrating because it is heavy and slow, Long Sword has a good feel in the hands, and Bow is convenient thanks to auto-aim and shows 1 tier performance.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "아바타 커스터마이징을 통해 피부 색상, 헤어스타일, 메이크업 등을 설정할 수 있습니다.",
+      "text": "Through avatar customization, you can set skin color, hairstyle, makeup, etc.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "SSR 등급 캐릭터를 뽑기 위한 가차 시스템과 최대 90번의 천장 시스템이 존재합니다.",
+      "text": "There is a gacha system to pull SSR grade characters and a pity system of up to 90 times.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "사냥으로 얻은 재료로 장비를 제작하며, 제작한 장비를 동료 모험가에게 나누어 줄 수 있습니다.",
+      "text": "Equipment is crafted using materials obtained through hunting, and crafted equipment can be shared with fellow adventurers.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "모험 랭크가 상승함에 따라 새로운 진행이 가능하며, 5레벨을 달성해야 채팅 발언권을 얻습니다.",
+      "text": "New progress becomes possible as Adventure Rank increases, and you must reach level 5 to obtain the right to speak in chat.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "도감 시스템을 통해 잡은 몬스터를 확인할 수 있습니다.",
+      "text": "You can check the monsters you have caught through the encyclopedia system.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "필드에서 재료를 채집하여 성소에 사용함으로써 전망대 레벨을 올릴 수 있습니다.",
+      "text": "By collecting materials in the field and using them in the sanctuary, you can raise the observatory level.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "집라인(송풍 장치)을 사용하여 특정 구역으로 이동할 수 있으며, 반딧불이가 길 찾기를 도와줍니다.",
+      "text": "You can move to specific areas using the zipline (air blower), and fireflies will help with wayfinding.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "식사 시스템과 캠프 제작 기능이 존재합니다.",
+      "text": "There are meal systems and camp crafting functions.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "게임 개요 및 출시 정보",
+      "text": "Game Overview and Release Information",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "플레이 환경 및 최적화",
+      "text": "Play Environment and Optimization",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "게임 모드 및 조작 방식",
+      "text": "Game Modes and Control Methods",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "전투 및 사냥 시스템",
+      "text": "Combat and Hunting Systems",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "무기 및 캐릭터 시스템",
+      "text": "Weapon and Character Systems",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "성장 및 기타 콘텐츠",
+      "text": "Growth and Other Content",
       "unresolvedTerms": []
     },
     {
@@ -621,8 +1960,222 @@
       "unresolvedTerms": []
     },
     {
-      "source": "직접 조작을 통해 몬스터를 사냥하는 컨트롤 중심의 헌팅 액션 게임으로, 대검, 태도, 쌍검, 랜스 등 다양한 무기가 존재합니다. 캐릭터는 역할에 따라 회복, 탱킹, 딜링으로 나뉘며 무기별 특징과 조작 난이도가 다릅니다. 게임 내에는 아이템 제작, 장비 강화, 레이드, 낚시 등의 콘텐츠가 포함되어 있습니다. 현재 모바일 환경 플레이를 권장하며 PC 버전은 정식 출시 전입니다.",
-      "text": "A control-oriented hunting action game where you hunt monsters through direct manipulation, featuring various weapons such as Great Sword, Long Sword, Dual Blades, and Lance. Characters are divided into healing, tanking, and dealing roles depending on their role, and the characteristics and control difficulty vary by weapon. The game includes contents such as item crafting, equipment enhancement, raids, and fishing. Currently, playing in a mobile environment is recommended, and the PC version has not been officially released.",
+      "source": "캐릭터의 외형과 신체 세팅을 상세하게 설정할 수 있으며 모드 선택에 따라 사냥 난이도를 조절할 수 있습니다.",
+      "text": "You can configure the character's appearance and body settings in detail, and you can adjust the hunting difficulty depending on the selected mode.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "무기별로 고유한 공격 방식과 특징이 다르며 초보자에게는 가드가 가능한 랜스를 추천합니다.",
+      "text": "Each weapon has a unique attack method and characteristics, and for beginners, we recommend Lance which allows for guarding.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "채집과 장비 강화, 깨달음 시스템을 통해 캐릭터를 성장시키고 모험 랭크를 올릴 수 있습니다.",
+      "text": "You can grow your character and raise your Adventure Rank through gathering, equipment enhancement, and the 깨달음 system.",
+      "unresolvedTerms": [
+        "깨달음"
+      ]
+    },
+    {
+      "source": "캐릭터의 외형 변경이 가능하며 남성 캐릭터는 장발 설정이 가능합니다.",
+      "text": "Character appearance can be changed, and male characters can be set with long hair.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "색상 변경, 세부적인 신체 세팅, 살의 종류, 신장(키)을 정할 수 있습니다.",
+      "text": "You can determine color changes, detailed body settings, skin types, and height.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "얼굴 형을 선택할 수 있습니다.",
+      "text": "You can select a face shape.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "클래식 모드와 스타팅 모드가 있으며, 어려움 없이 사냥을 체험하려면 클래식 모드를 선택합니다.",
+      "text": "There are Classic Mode and Starting Mode; select Classic Mode to experience hunting without difficulty.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "자동 전투 기능은 없으며 유저의 직접적인 조작이 중요한 게임입니다.",
+      "text": "There is no auto-battle function, and it is a game where the user's direct control is important.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "스태미너 방식의 게이지가 존재하며 공격 등을 통해 게이지를 채울 수 있습니다.",
+      "text": "A stamina-style gauge exists, and the gauge can be filled through attacks and other actions.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "퀘스트나 미션 메뉴를 통해 목적지로 바로 연결되는 기능이 있습니다.",
+      "text": "There is a function that connects directly to the destination through the quest or mission menu.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "자동 갈무리 기능이 존재합니다.",
+      "text": "An auto-harvesting function exists.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "보험의 문장 필살기 명중 시 지원형 모험가의 연계기가 발동하여 파티의 게이지가 충전됩니다.",
+      "text": "When the ultimate skill of 보험의 문장 hits, a support-type adventurer's combo attack is activated, charging the party's gauge.",
+      "unresolvedTerms": [
+        "보험의 문장"
+      ]
+    },
+    {
+      "source": "전투 시 저스트 회피 성공 후 이동 시 특정 조건이 맞으면 연계가 가능합니다.",
+      "text": "During battle, a combo can be performed if certain conditions are met when moving after a successful Just Dodge.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "메인 캐릭터는 모든 종류의 무기를 사용할 수 있지만, 뽑기로 획득하는 캐릭터는 지정된 특정 무기만 사용 가능합니다.",
+      "text": "Main characters can use all types of weapons, but characters obtained through gacha can only use specific designated weapons.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "쌍검은 공격 모션이 빠르고 DPS가 최상위권이며, 저스트 회피 후 이동 버튼을 눌러 타격이 맞아야 리바이기가 발동됩니다.",
+      "text": "Dual Blades has fast attack motions and top-tier DPS, and 리바이기 is activated only if a hit connects after pressing the move button following a Just Dodge.",
+      "unresolvedTerms": [
+        "리바이기"
+      ]
+    },
+    {
+      "source": "태도는 공격 범위가 길고 '연기를 띤 칼날'과 같은 전용 스킬 및 검 게이지를 활용한 투구 깨기 등이 특징입니다.",
+      "text": "Long Sword features a long attack range and exclusive skills such as '연기를 띤 칼날', as well as helmet breaking using the sword gauge.",
+      "unresolvedTerms": [
+        "연기를 띤 칼날"
+      ]
+    },
+    {
+      "source": "대검은 공격을 모아서 사용하는 방식이며 한 방의 타격감이 좋습니다.",
+      "text": "Great Sword uses a method of charging attacks, and the impact of a single hit feels good.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "해머는 둔기류로 몬스터의 머리를 때려 기절을 일으킬 수 있으며 3차지 상태에서 특정 동작으로 임팩트 크레이터를 사용합니다.",
+      "text": "Hammer is a blunt weapon type that can cause stun by hitting a monster's head, and uses 임팩트 크레이터 through a specific action during the 3 charging state.",
+      "unresolvedTerms": [
+        "임팩트 크레이터"
+      ]
+    },
+    {
+      "source": "랜스는 가드가 가능하여 초보자에게 가장 추천되는 무기입니다.",
+      "text": "Lance allows for guarding, making it the most recommended weapon for beginners.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "벌꿀, 광석, 나무, 고추, 약초 등의 채집 요소가 있으며 채집 시 한 번 누르면 세 번 자동으로 채집됩니다.",
+      "text": "There are gathering elements such as honey, ore, wood, chili peppers, and herbs; when gathering, pressing once will automatically gather three times.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "장비에는 약점 공격, 아이템 전문가, 귀인화 등의 스킬이 붙을 수 있으며 귀인화 중에는 주는 데미지가 4% 증가합니다.",
+      "text": "Equipment can have skills such as weakness attack, item expert, and 귀인화, and among 귀인화, the damage dealt increases by 4%.",
+      "unresolvedTerms": [
+        "귀인화"
+      ]
+    },
+    {
+      "source": "무기 강화 시 소재를 넣는 방식과 속성별로 맞추는 방식이 있습니다.",
+      "text": "When reinforcing weapons, there is a method of inserting materials and a method of matching by attribute.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "17레벨에 도달하면 장비를 한 단계 더 높은 희귀도로 강화할 수 있습니다.",
+      "text": "When reaching level 17, you can reinforce equipment to a higher rarity.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "깨달음 장착 시스템을 통해 캐릭터의 포인트를 올려 슬롯에 장착할 수 있습니다.",
+      "text": "Through the 깨달음 equipment system, you can increase character points and equip them into slots.",
+      "unresolvedTerms": [
+        "깨달음"
+      ]
+    },
+    {
+      "source": "모험 랭크를 올리기 위해 난이도가 있는 지역을 반복해서 돌아야 합니다.",
+      "text": "To raise Adventure Rank, you must repeatedly clear difficult areas.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "캐릭터 뽑기(모집) 시스템이 있으며 천장은 120개로 설정되어 있습니다.",
+      "text": "There is a character draw (recruitment) system, and the pity is set at 120.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "월정액 상품은 약 7,000원, 7,100원, 35,000원~36,000원 등 다양한 가격대가 존재합니다.",
+      "text": "Monthly subscription products exist in various price ranges, such as approximately 7,000 won, 7,100 won, and 35,000 won~36,000 won.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "배틀패스 형태의 상품은 7,100원과 28,000원 구성이 있습니다.",
+      "text": "Battle Pass type products consist of 7,100 won and 28,000 won configurations.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "특정 재화(1,000개 기준)는 약 25,000원 정도이며 펑화로 쾅쾅화로 등의 상품은 약 14,500원입니다.",
+      "text": "A certain currency (based on 1,000 units) is about 25,000 won, and products such as 펑화로 and 쾅쾅화로 are about 14,500 won.",
+      "unresolvedTerms": [
+        "펑화로",
+        "쾅쾅화로"
+      ]
+    },
+    {
+      "source": "개인적인 의견으로 과금은 패스만 구매하거나 7,100원 상품 정도만 해도 무난할 것 같습니다.",
+      "text": "In my personal opinion, spending money by only purchasing the Pass or products around 7,100 won seems sufficient.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "현재 휴대폰과 태블릿으로 플레이 가능하며 PC 버전은 추후 출시 계획이 있습니다.",
+      "text": "Currently, it is playable on mobile phones and tablets, and there are plans to release a PC version in the future.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "패드(컨트롤러) 세팅 및 키 매핑 기능을 지원하며 무선 패드 사용이 가능합니다.",
+      "text": "It supports pad (controller) settings and key mapping functions, and wireless pads can be used.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "모바일 기기 최적화가 잘 되어 있어 발열 관리가 용이하다는 의견이 있습니다.",
+      "text": "There are opinions that mobile device optimization is well-done, making heat management easy.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "PC에서 LD 플레이어 사용 시 렉이 발생하거나 그래픽 품질이 저하될 수 있다는 개인적인 의견이 있습니다.",
+      "text": "There is a personal opinion that using LD 플레이어 on PC may cause lag or degradation in graphic quality.",
+      "unresolvedTerms": [
+        "LD 플레이어"
+      ]
+    },
+    {
+      "source": "아이패드와 맥을 미러링하여 사용하는 방식이 쾌적하다는 의견이 있습니다.",
+      "text": "There are opinions that the method of mirroring an iPad and Mac is pleasant.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "게임 플레이 및 시스템",
+      "text": "Gameplay and Systems",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "무기 종류 및 특징",
+      "text": "Weapon Types and Characteristics",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "아이템 및 성장 요소",
+      "text": "Items and Growth Elements",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "비즈니스 모델(BM) 및 과금",
+      "text": "Business Model (BM) and Monetization",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "플랫폼 및 최적화 정보",
+      "text": "Platform and Optimization Information",
       "unresolvedTerms": []
     },
     {
@@ -633,23 +2186,127 @@
       ]
     },
     {
-      "source": "몬스터 헌터 아웃랜더스에는 자유롭게 무기를 선택하는 기본 모험가와 고유 기술 및 무기가 정해진 여러 모험가 캐릭터가 등장합니다.",
-      "text": "In 몬스터 헌터 아웃랜더스, there are basic adventurers who can freely choose their weapons, as well as several adventurer characters with fixed unique skills and weapons.",
+      "source": "랜스, 활, 쌍검 등 각 무기군별로 서로 다른 특징과 역할을 수행하는 다양한 모험가 캐릭터들이 존재합니다.",
+      "text": "There are various adventurer characters that perform different characteristics and roles for each weapon group, such as Lance, Bow, and Dual Blades.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "새로운 모험가 추가에 따라 기존 무기를 활용하는 방식이 변화할 수 있으며 게임은 10월 29일에 출시됩니다.",
+      "text": "As new adventurers are added, the way existing weapons are utilized may change, and the game will be released on 10 month 29 day.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "자유롭게 무기를 선택하는 기본 모험가가 존재합니다.",
+      "text": "There are basic adventurers who can freely choose their weapons.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "고유 기술을 가진 여러 모험가 캐릭터가 등장합니다.",
+      "text": "Various adventurer characters with unique skills appear.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "고유 모험가는 각자 정해진 무기와 역할을 가지고 있습니다.",
+      "text": "Unique adventurers each have fixed weapons and roles.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "고유 모험가는 함께 사냥하는 동료로 데려가거나 직접 조작할 수 있습니다.",
+      "text": "Unique adventurers can be taken along as companions to hunt together or can be controlled directly.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "지원형인 아케니아는 공격으로 투지를 쌓고 이를 소비해 강력한 일격과 대량의 실드를 얻습니다.",
+      "text": "The support-type 아케니아 builds up 투지 through attacks and consumes it to gain a powerful blow and a large amount of shields.",
+      "unresolvedTerms": [
+        "아케니아",
+        "투지"
+      ]
+    },
+    {
+      "source": "돌격형인 폴리오는 돌진과 반격으로 예기 레벨을 높이고 강력한 찌르기로 몬스터를 압박합니다.",
+      "text": "The assault-type 폴리오 increases 예기 레벨 through dashing and counterattacks and pressures monsters with powerful thrusts.",
+      "unresolvedTerms": [
+        "폴리오",
+        "예기 레벨"
+      ]
+    },
+    {
+      "source": "돌격형 루카는 저스트 회피 성공 시 모아쏘기가 즉시 최고 단계에 도달하는 특징을 활용합니다.",
+      "text": "The assault-type 루카 utilizes the characteristic that the charging attack immediately reaches its maximum stage upon a successful just dodge.",
+      "unresolvedTerms": [
+        "루카"
+      ]
+    },
+    {
+      "source": "지원형 메들린은 독병과 포자를 활용해 몬스터에게 피해를 주며 주변 아군을 강화합니다.",
+      "text": "The support-type 메들린 deals damage to monsters using poison bottles and spores while strengthening nearby allies.",
+      "unresolvedTerms": [
+        "메들린"
+      ]
+    },
+    {
+      "source": "교란형 역할을 가진 케레스는 연속 배기와 강화 연속 배기로 끊임없는 공격을 이어가는 데 집중합니다.",
+      "text": "As a disruption-type role, 케레스 focuses on maintaining a continuous attack through 연속 배기 and 강화 연속 배기.",
+      "unresolvedTerms": [
+        "케레스",
+        "연속 배기",
+        "강화 연속 배기"
+      ]
+    },
+    {
+      "source": "라야는 스태미나를 소비해 귀인 게이지를 빠르게 확보하고 귀인화 상태에서 공격을 몰아칩니다.",
+      "text": "라야 consumes stamina to quickly secure the 귀인 게이지 and unleashes attacks while in the 귀인화 state.",
+      "unresolvedTerms": [
+        "귀인 게이지",
+        "라야",
+        "귀인화"
+      ]
+    },
+    {
+      "source": "기존 몬스터 헌터가 무기 선택을 고민했다면, 아웃랜더스는 무기를 사용할 캐릭터까지 선택지에 더했습니다.",
+      "text": "While existing 몬스터 헌터 made players worry about weapon selection, 아웃랜더스 has added the character to be used with the weapon to the options.",
+      "unresolvedTerms": [
+        "몬스터 헌터",
+        "아웃랜더스"
+      ]
+    },
+    {
+      "source": "새로운 모험가가 추가될 때마다 기존 무기를 색다르게 활용하는 사냥법이 등장할 수 있습니다.",
+      "text": "Every time a new 모험가 is added, new hunting methods that utilize existing weapons in unique ways may emerge.",
+      "unresolvedTerms": [
+        "모험가"
+      ]
+    },
+    {
+      "source": "몬스터 헌터 아웃랜더스 캐릭터 시스템",
+      "text": "몬스터 헌터 아웃랜더스 Character System",
       "unresolvedTerms": [
         "몬스터 헌터 아웃랜더스"
       ]
     },
     {
-      "source": "예를 들어 랜스를 사용하는 아케니아는 지원형으로, 폴리오는 돌격형으로 각기 다른 플레이가 가능합니다.",
-      "text": "For example, 아케니아 using Lance can be played as a support type, while 폴리오 can be played as an assault type, allowing for different styles of play.",
+      "source": "랜스 사용 모험가 비교",
+      "text": "Comparison of 모험가 using Lance",
       "unresolvedTerms": [
-        "아케니아",
-        "폴리오"
+        "모험가"
       ]
     },
     {
-      "source": "이처럼 캐릭터의 특성에 따라 무기를 활용하는 방식이 달라지며, 게임은 10월 29일에 출시될 예정입니다.",
-      "text": "As such, the way weapons are utilized varies depending on the character's characteristics, and the game is scheduled to be released on 10 month 29 day.",
+      "source": "활 사용 모험가 비교",
+      "text": "Comparison of 모험가 using Bow",
+      "unresolvedTerms": [
+        "모험가"
+      ]
+    },
+    {
+      "source": "쌍검 사용 모험가 비교",
+      "text": "Comparing used Dual Blades adventurers",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "게임의 특징 및 출시 정보",
+      "text": "Game features and release information",
       "unresolvedTerms": []
     },
     {
@@ -658,22 +2315,125 @@
       "unresolvedTerms": []
     },
     {
-      "source": "최대 4명이 함께 거대 몬스터를 사냥하는 모바일 게임 '아운더스'는 모험가마다 공격, 방해, 지원 등 역할이 다릅니다.",
-      "text": "The mobile game '아운더스', where up to 4 people hunt giant monsters together, features different roles for each adventurer, such as attack, disruption, and support.",
+      "source": "모바일 환경에서 최대 4인 협동 플레이가 가능한 거대 몬스터 사냥 게임입니다.",
+      "text": "It is a giant monster hunting game that allows cooperative play with up to 4 in a mobile environment.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "모험가는 공격, 방해, 지원 역할로 나뉘며 각 캐릭터마다 고유한 전투 방식을 가집니다.",
+      "text": "Adventurers are divided into attack, disruption, and support roles, and each character has a unique combat style.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "10월 29일 아이폰과 안드로이드로 출시되며 기본 플레이는 무료로 제공됩니다.",
+      "text": "It will be released on iPhone and Android on 29th of 10 month, and basic play is provided for free.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "휴대폰에서 거대 몬스터를 사냥하는 게임입니다.",
+      "text": "It is a game where you hunt giant monsters on your phone.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "혼자 탐험하고 사냥하거나 친구들과 최대 네 명이 함께할 수 있습니다.",
+      "text": "You can explore and hunt alone, or play together with up to four friends.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "필드에서 자원을 모아 임시 시설과 이동 도구를 만듭니다.",
+      "text": "Gather resources in the field to create temporary facilities and movement tools.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "공식 시연에서는 장치를 설치한 뒤 줄을 타고 다른 지점으로 이동하는 모습을 보여줍니다.",
+      "text": "In the official demonstration, it shows moving to another point by riding a rope after installing a device.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "모험가는 공격, 몬스터 방해, 동료 지원 역할로 나뉩니다.",
+      "text": "Adventurers are divided into roles of attack, monster interference, and ally support.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "태도 캐릭터는 회피에서 반격으로 이어지는 전투를 합니다.",
+      "text": "Long Sword characters engage in combat that leads from evasion to counterattack.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "대검 캐릭터는 힘을 모아 강한 마무리 공격을 넣습니다.",
+      "text": "Great Sword characters charge power to deliver a strong finishing attack.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "공식 출시일은 10월 29일이며 아이폰과 안드로이드에서 이용 가능합니다.",
+      "text": "The official release date is 10 month 29 day, and it will be available on iPhone and Android.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "기본 플레이는 무료이지만 게임 안 구매가 존재합니다.",
+      "text": "Base play is free, but in-game purchases exist.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "성장에 필요한 시간과 비용은 출시 후 확인하는 것이 좋겠다는 개인적인 의견입니다.",
+      "text": "It is my personal opinion that it would be better to check the time and cost required for growth after release.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "빠른 공격을 피해야 하므로 기기에서 화면과 조작이 얼마나 안정적인지 확인하는 것이 중요해 보입니다.",
+      "text": "Since you must avoid fast attacks, it seems important to check how stable the screen and controls are on your device.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "본편과 똑같은 구조를 기대한다면 모험과 역할의 차이를 살펴보는 것이 좋겠다는 개인적인 의견입니다.",
+      "text": "If you are expecting the same structure as the main game, it is my personal opinion that it would be better to look at the differences in adventure and roles.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "몬스터 헌터 아운더스 게임 특징",
+      "text": "몬스터 헌터 아운더스 Game Features",
       "unresolvedTerms": [
-        "아운더스"
+        "몬스터 헌터 아운더스"
       ]
     },
     {
-      "source": "필드에서 자원을 모아 임시 시설과 이동 도구를 제작하여 이동할 수 있습니다.",
-      "text": "You can move by gathering resources in the field to craft temporary facilities and 이동 도구.",
-      "unresolvedTerms": [
-        "이동 도구"
-      ]
+      "source": "모험가 역할 및 전투 방식",
+      "text": "Adventurer Roles and Combat Styles",
+      "unresolvedTerms": []
     },
     {
-      "source": "10월 29일 아이폰과 안드로이드로 출시될 예정이며, 기본 플레이는 무료이나 게임 내 구매가 존재합니다.",
-      "text": "It is scheduled to be released on 10 month 29 day for iPhone and Android; basic play is free, but in-game purchases exist.",
+      "source": "출시 정보 및 과금 체계",
+      "text": "Release Information and Monetization System",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "플레이 시 고려 사항",
+      "text": "Considerations When Playing",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "【MHO】 모험단 모집 응원 이벤트",
+      "text": "【MHO】 Adventure Group Recruitment Cheer Event",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "【MHO】 '모험가, 집결!' 콘텐츠 제작 이벤트",
+      "text": "【MHO】 'Adventurers, Assemble!' Content Creation Event",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "【MHO】 무기 소개｜차지액스",
+      "text": "【MHO】 Weapon Introduction｜Charge Blade",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "【MHO】 도심 속 옥외 광고 현장 공개!",
+      "text": "【MHO】 Outdoor advertising sites in the city revealed!",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "전 세계 곳곳에서 진행된 몬스터헌터 아웃랜더스 옥외 광고 현장을 유튜브 영상을 통해 공개했습니다.",
+      "text": "The outdoor advertising sites for Monster Hunter Outlanders held in various locations around the world have been revealed through a YouTube video.",
       "unresolvedTerms": []
     },
     {
@@ -2085,13 +3845,28 @@
       "unresolvedTerms": []
     },
     {
-      "source": "특정 캐릭터의 재미나 무기의 성능에 대한 개인적인 체감 의견이 존재합니다.",
-      "text": "There are personal subjective opinions regarding the fun of specific characters or the performance of weapons.",
+      "source": "특정 캐릭터의 재미나 외형에 대한 개인적인 감상이 공유되었습니다.",
+      "text": "Personal impressions regarding the fun or appearance of specific characters were shared.",
       "unresolvedTerms": []
     },
     {
-      "source": "일부 캐릭터는 해금 조건 때문에 아직 사용해 보지 못했다는 의견이 있습니다.",
-      "text": "There are opinions that some characters have not been used yet due to unlock conditions.",
+      "source": "헤비보우건의 성능이나 랜스의 티어 등 무기 성능에 관한 의견이 있습니다.",
+      "text": "There are opinions regarding weapon performance, such as the performance of Heavy Bowgun or the tier of Lance.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "몬스터헌터 아웃랜더스 쿠폰 정보",
+      "text": "Monster Hunter Outlanders coupon information",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "게임 내 레벨 5 달성 시 사용 가능한 쿠폰 2종이 공유되었습니다.",
+      "text": "Information regarding 2 coupons available upon reaching in-game level 5 was shared.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "쿠폰 공유에 대해 감사하다는 반응이 있습니다.",
+      "text": "There are reactions expressing gratitude for the coupon sharing.",
       "unresolvedTerms": []
     },
     {
@@ -2102,11 +3877,9 @@
       ]
     },
     {
-      "source": "특정 리세마라 계정의 구매 가치에 대해 질문하며 구매 여부를 묻고 있습니다.",
-      "text": "Asking about the purchase value of a specific 리세마라 account and whether to buy it.",
-      "unresolvedTerms": [
-        "리세마라"
-      ]
+      "source": "특정 게임 계정의 구매 가치에 대해 질문하며 구매 여부를 묻고 있습니다.",
+      "text": "Questions are being asked about the purchase value of specific game accounts, inquiring whether to purchase them.",
+      "unresolvedTerms": []
     },
     {
       "source": "제시된 가격이 비싸므로 차라리 직접 게임 내 결제를 하는 것이 효율적이라는 의견이 주를 이룹니다.",
@@ -2116,6 +3889,38 @@
     {
       "source": "해당 게시글이 계정 판매를 위한 홍보글이라는 부정적인 반응이 있습니다.",
       "text": "There are negative reactions stating that the post is a promotional post for selling accounts.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "북미·유럽·일본 서버용 리딤 코드 공유",
+      "text": "Sharing redeem codes for North America, Europe, and Japan servers",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "북미, 유럽, 일본 서버에서 사용할 수 있는 리딤 코드 3종과 코드 입력 위치가 찾기 어렵다는 내용입니다.",
+      "text": "This contains 3 types of redeem codes that can be used in North America, Europe, and Japan servers, and mentions that the code entry location is difficult to find.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "한국 서버가 제외된 것에 대한 불만과 코드를 공유해 준 것에 대한 감사 인사가 있습니다.",
+      "text": "There are complaints regarding the exclusion of the Korean server and expressions of gratitude for sharing the codes.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "효율적인 초반 진행 방법",
+      "text": "Efficient Early-Game Progression Method",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "특정 캐릭터 육성 여부에 대한 질문과 함께 아케니아 캐릭터를 추천하는 의견이 있습니다.",
+      "text": "Along with questions regarding whether to nurture certain characters, there is an opinion recommending 아케니아 characters.",
+      "unresolvedTerms": [
+        "아케니아"
+      ]
+    },
+    {
+      "source": "SR 돌파의 의미와 현재 사용 중인 캐릭터 조합의 적절성에 대해 묻는 의견이 있습니다.",
+      "text": "There are opinions asking about the meaning of SR breakthrough and the appropriateness of the character combinations currently being used.",
       "unresolvedTerms": []
     },
     {
@@ -2138,6 +3943,77 @@
       "unresolvedTerms": []
     },
     {
+      "source": "미도리 팬아트",
+      "text": "미도리 fan art",
+      "unresolvedTerms": [
+        "미도리"
+      ]
+    },
+    {
+      "source": "작성자가 미도리 캐릭터를 직접 그렸다는 내용입니다.",
+      "text": "This is the content stating that the author personally drew the 미도리 character.",
+      "unresolvedTerms": [
+        "미도리"
+      ]
+    },
+    {
+      "source": "그림이 귀엽다는 반응과 함께 추가적인 작업물을 기대하는 의견이 있습니다.",
+      "text": "There are reactions saying the drawing is cute, along with opinions expecting additional works.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "게임 리세마라 방법 안내",
+      "text": "Guide on game rerolling methods",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "게스트 계정 생성 후 우편 보상을 활용하고, 원하는 결과가 나오지 않으면 계정 삭제를 통해 리세마라를 진행하는 방법을 설명하고 있습니다. 튜토리얼 진행 시 특정 조작 팁과 닉네임 변경 대기 시간 등에 대한 정보를 포함하고 있습니다.",
+      "text": "It explains how to use mail rewards after creating a guest account and how to proceed with rerolling by deleting the account if the desired results are not obtained. It includes information such as specific control tips during the tutorial and the waiting time for nickname changes.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "댓글에서는 작성자가 설명한 리세마라 절차를 확인하거나, 한국 서버 이용에 대한 의견을 나누고 있습니다.",
+      "text": "In the comments, users are either verifying the rerolling procedure explained by the author or sharing opinions regarding the use of the Korean server.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "작성자의 리세마라 방법이 맞는지 확인하는 질문과 한국 서버 선택에 대한 개인적인 의견이 있습니다.",
+      "text": "There are questions asking if the author's rerolling method is correct, as well as personal opinions regarding the choice of the Korean server.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "주인공 돌파 방법 안내",
+      "text": "Guide to Protagonist Breakthrough Methods",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "시련 원정 150층까지 진행하여 주인공 돌파 포인트를 획득할 수 있으며, 권장 사냥력보다 높을 경우 스킵이 가능합니다. 무기 종류별로 포인트가 각각 지급되며, 21층부터는 매일 3회 보충되고 매주 월요일에 보상 재획득 티켓이 지급됩니다.",
+      "text": "By progressing to floor 150 of 시련 원정, you can obtain Protagonist Breakthrough Points, and if your combat power is higher than the recommended hunting power, you can skip. Points are awarded separately for each weapon type, and from floor 21, they are replenished 3 times daily, and Reward Re-acquisition Tickets are provided every Monday.",
+      "unresolvedTerms": [
+        "시련 원정"
+      ]
+    },
+    {
+      "source": "정보를 뒤늦게 알게 되었다는 반응이 있습니다.",
+      "text": "There are reactions that the information was learned too late.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "게임 티어표에 대한 의견",
+      "text": "Opinions on Game Tier Lists",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "게임의 밸런스 상태와 티어표의 신뢰성에 대해 회의적인 반응을 보이고 있습니다.",
+      "text": "There are skeptical reactions regarding the game's balance state and the reliability of the tier lists.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "개인의 취향에 따라 성능 체감이 다르므로 티어표가 큰 의미가 없다는 의견과 유행하는 캐릭터를 사용하는 것이 좋다는 의견이 있습니다.",
+      "text": "There are opinions that tier lists are not very meaningful because the perceived performance differs according to individual preference, and opinions that it is good to use trending characters.",
+      "unresolvedTerms": []
+    },
+    {
       "source": "리세마라 성공 후기",
       "text": "리세마라 success review",
       "unresolvedTerms": [
@@ -2155,50 +4031,40 @@
       "unresolvedTerms": []
     },
     {
-      "source": "몬스터헌터 아웃랜더스 쿠폰 정보",
-      "text": "Monster Hunter Outlanders coupon information",
+      "source": "캐릭터 커스터마이징 평가 요청",
+      "text": "Request for character customization evaluation",
       "unresolvedTerms": []
     },
     {
-      "source": "게임 내 레벨 5 달성 시 사용 가능한 쿠폰 2종이 공유되었습니다.",
-      "text": "Information regarding 2 coupons available upon reaching in-game level 5 was shared.",
+      "source": "작성자가 직접 만든 캐릭터 커스터마이징 결과물을 공유하며 의견을 물었습니다.",
+      "text": "The author shared the results of character customization they created themselves and asked for opinions.",
       "unresolvedTerms": []
     },
     {
-      "source": "쿠폰 공유에 대해 감사하다는 반응이 있습니다.",
-      "text": "There are reactions expressing gratitude for the coupon sharing.",
+      "source": "실제 게임 내 모습이 변할 수 있으니 인게임 스크린샷을 함께 확인해야 한다는 의견이 있습니다.",
+      "text": "There is an opinion that since the actual appearance in-game may change, in-game screenshots should be checked together.",
       "unresolvedTerms": []
     },
     {
-      "source": "게임 리세마라 방법 안내",
-      "text": "Guide on game rerolling methods",
+      "source": "특정 캐릭터 티어표 평가 논란",
+      "text": "Controversy over specific character tier list evaluations",
       "unresolvedTerms": []
     },
     {
-      "source": "게스트 계정 생성 후 우편 보상을 활용해 뽑기를 진행하고, 원하는 결과가 나오지 않으면 계정을 삭제하는 방식입니다. 튜토리얼 진행 시 특정 조작법과 몬스터 공략 팁, 닉네임 변경 관련 주의사항을 포함하고 있습니다.",
-      "text": "The method involves creating a guest account, using mail rewards to perform draws, and deleting the account if the desired results are not obtained. It includes specific control methods, monster攻略 tips, and precautions regarding nickname changes during the tutorial.",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "작성자가 설명한 리세마라 절차에 대해 확인하는 의견이 있습니다.",
-      "text": "There are opinions verifying the rerolling procedure explained by the author.",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "한국 서버에서 게임을 플레이하는 것에 대해 긍정적인 의견이 있습니다.",
-      "text": "There are positive opinions regarding playing the game on the Korean server.",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "작성자의 리세마라 방법이 맞는지 확인하는 질문과 이에 대한 답변이 있습니다.",
-      "text": "There is a question asking whether the author's 리세마라 method is correct, along with an answer to it.",
+      "source": "매들린이 힐링 능력을 근거로 S급에 포함된 티어표의 적절성에 의문을 제기하고 있습니다.",
+      "text": "매들린 is questioning the appropriateness of the tier list that includes them in S-rank based on their healing ability.",
       "unresolvedTerms": [
-        "리세마라"
+        "매들린"
       ]
     },
     {
-      "source": "한국 서버 이용에 대한 선호도를 나타내는 의견이 있습니다.",
-      "text": "There are opinions expressing a preference for using the Korean server.",
+      "source": "해당 티어표가 신뢰도가 낮거나 AI로 자동 생성된 공략글일 가능성을 지적하는 의견이 있습니다.",
+      "text": "There are opinions pointing out the possibility that the tier list in question has low reliability or is a guide post automatically generated by AI.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "특정 캐릭터 조합의 성능이 좋다는 의견과 캐릭터 정체에 대해 묻는 반응이 있습니다.",
+      "text": "There are opinions that certain character combinations perform well and reactions asking about the identity of the characters.",
       "unresolvedTerms": []
     },
     {
@@ -2214,22 +4080,50 @@
       "unresolvedTerms": []
     },
     {
-      "source": "뽑기 보상 획득 후기",
-      "text": "Review after obtaining 뽑기 rewards",
+      "source": "SSR 용속성 대검 획득 후 리세마라 고민",
+      "text": "Considering rerolling after obtaining SSR 용속성 Great Sword",
       "unresolvedTerms": [
-        "뽑기"
+        "용속성"
       ]
     },
     {
-      "source": "특별 보상으로 받은 아이템을 단일 뽑기로 사용했을 때 2개를 획득했다는 내용입니다.",
-      "text": "This is content stating that 2 were obtained when using the item received as a special reward for a single 뽑기.",
-      "unresolvedTerms": [
-        "뽑기"
-      ]
+      "source": "용속성 대검 SSR을 획득했으나, 특정 캐릭터의 성능에 대한 아쉬움 때문에 리세마라 여부를 고민하고 있습니다.",
+      "text": "I obtained a Dragon-attribute Great Sword SSR, but I am contemplating whether to reroll due to disappointment regarding a certain character's performance.",
+      "unresolvedTerms": []
     },
     {
-      "source": "획득 결과에 대한 부러움과 배포 캐릭터를 고려해야 한다는 의견이 있습니다.",
-      "text": "There are opinions expressing envy toward the acquisition results and suggesting that the distribution character should be considered.",
+      "source": "상시 캐릭터를 제공하므로 어떤 캐릭터로 시작해도 무방하다는 의견과 뽑기 결과에 대한 아쉬움을 나타내는 반응이 있습니다.",
+      "text": "There are opinions that it is fine to start with any character since permanent characters are provided, as well as reactions expressing disappointment regarding gacha results.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "특별 아이템 획득 후기",
+      "text": "Review after obtaining a special item",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "단일 뽑기를 통해 특별 아이템 2개를 획득했다는 내용입니다.",
+      "text": "This is content stating that 2 special items were obtained through single pulls.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "획득 결과에 대한 부러움과 배포 캐릭터 여부에 대한 의견이 있습니다.",
+      "text": "There are opinions expressing envy regarding the acquisition results and whether the character is a distribution character.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "교환 코드 저장",
+      "text": "Save exchange code",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "게임 오픈 시 사용할 교환 코드를 잊지 않기 위해 기록해 두려는 목적의 글입니다.",
+      "text": "This post is intended to record exchange codes to use when the game opens so as not to forget them.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "추가적인 코드가 있는지 궁금해하거나 더 발견하면 공유해달라는 의견이 있습니다.",
+      "text": "There are opinions wondering if there are additional codes or asking to share if more are discovered.",
       "unresolvedTerms": []
     },
     {
@@ -2253,123 +4147,6 @@
       "unresolvedTerms": []
     },
     {
-      "source": "아웃랜 엔드 콘텐츠 보상 및 캐릭터 성능 관련",
-      "text": "Regarding 아웃랜 end content rewards and character performance",
-      "unresolvedTerms": [
-        "아웃랜"
-      ]
-    },
-    {
-      "source": "엔드 콘텐츠 보상은 재화와 칭호 위주이며, 칭호 꾸미기 요소가 상위 유저를 위한 보상이라는 주장이 제기되었습니다. 또한 기본 주인공 캐릭터의 공격력이 가챠 캐릭터보다 높을 수 있다는 의견이 포함되었습니다.",
-      "text": "It was argued that end content rewards are centered around currency and titles, and that title decoration elements are rewards for top-tier users. Additionally, it included an opinion that the attack power of the default protagonist character may be higher than that of gacha characters.",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "가챠 캐릭터의 성능에 의문을 표하거나, 주인공 캐릭터를 포함한 파티 구성의 효율성을 고민해야 한다는 의견이 있습니다.",
-      "text": "There are opinions questioning the performance of gacha characters or suggesting that the efficiency of party composition, including the protagonist character, must be considered.",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "결제 항목 수에 대한 의문",
-      "text": "Questions regarding the number of purchase items",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "게임 내 결제 가능한 항목이 44개 이상으로 매우 많다는 내용입니다.",
-      "text": "It states that there are a very large number of purchasable items in the game, with 44 or more.",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "과도한 과금 유도에 대해 우려하거나 부정적인 반응을 보이는 의견이 있습니다.",
-      "text": "There are opinions expressing concern or showing negative reactions toward excessive monetization induction.",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "특정 확장팩의 할인 정보를 공유하는 의견이 있습니다.",
-      "text": "There are opinions sharing discount information for a specific expansion pack.",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "교환 코드 저장",
-      "text": "Save exchange code",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "게임 오픈 시 사용할 교환 코드를 잊지 않기 위해 기록해 두려는 목적의 글입니다.",
-      "text": "This post is intended to record exchange codes to use when the game opens so as not to forget them.",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "추가적인 코드가 있는지 궁금해하거나 더 발견하면 공유해달라는 의견이 있습니다.",
-      "text": "There are opinions wondering if there are additional codes or asking to share if more are discovered.",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "캐릭터 커스터마이징 평가 요청",
-      "text": "Request for character customization evaluation",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "작성자가 직접 만든 캐릭터 커스터마이징 결과물을 공유하며 의견을 물었습니다.",
-      "text": "The author shared the results of character customization they created themselves and asked for opinions.",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "실제 게임 내 모습이 변할 수 있으니 인게임 스크린샷을 함께 확인해야 한다는 의견이 있습니다.",
-      "text": "There is an opinion that since the actual appearance in-game may change, in-game screenshots should be checked together.",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "게임 플레이 피로도에 관한 후기",
-      "text": "Review regarding gameplay fatigue",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "오픈월드 방식의 구성이 모바일로 즐기기에는 다소 피로감이 느껴지며, 마을 이동보다는 인터페이스를 통한 던전 진입 방식이 더 효율적이었을 것이라는 의견입니다.",
-      "text": "The opinion is that the open-world style configuration feels somewhat fatiguing to enjoy on mobile, and that a method of entering dungeons through the interface would have been more efficient than moving between towns.",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "모바일 환경을 고려했을 때 게임 방식이 복잡하다는 점에 공감하거나, 게임의 장르적 특성상 피로도가 발생할 수 있다는 의견이 있습니다.",
-      "text": "There are opinions agreeing that the gameplay method is complex considering the mobile environment, or that fatigue may occur due to the genre characteristics of the game.",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "한국 서버 단독 운영에 대한 불만",
-      "text": "Dissatisfaction regarding the exclusive operation of the Korean server",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "한국 서버가 별도로 분리되어 운영되는 방식에 대해 부정적인 의견이 제기되었습니다.",
-      "text": "Negative opinions have been raised regarding the method of operating the Korean server separately.",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "매칭 문제 등을 이유로 일본 서버로의 이전을 고려해야 한다는 주장이 있습니다.",
-      "text": "There are claims that moving to the Japanese server should be considered due to issues such as matching.",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "일본 서버 또한 한국 서버와 마찬가지로 클라이언트가 분리되어 운영된다는 의견이 있습니다.",
-      "text": "There are opinions that the Japanese server, much like the Korean server, is operated with a separate client.",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "아시아 서버 이용을 대안으로 제시하는 의견이 있습니다.",
-      "text": "There are opinions suggesting the use of the Asia server as an alternative.",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "리세마라 필요성 여부",
-      "text": "Whether rerolling is necessary",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "최근 출시되는 중국 게임들은 캐릭터 성능 변화가 빨라 리세마라의 효율이 낮다는 의견이 있습니다.",
-      "text": "There are opinions that the efficiency of rerolling is low in recently released Chinese games because character performance changes rapidly.",
-      "unresolvedTerms": []
-    },
-    {
       "source": "캐릭터 등급별 성능 차이에 대한 견해",
       "text": "Views on performance differences by character grade",
       "unresolvedTerms": []
@@ -2390,42 +4167,6 @@
       "unresolvedTerms": []
     },
     {
-      "source": "모바일 게임 플레이 환경에 대한 불만",
-      "text": "Dissatisfaction with the mobile game play environment",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "모바일 환경에서의 게임 플레이가 원활하지 않다는 의견을 제시하며 게임 방식에 대한 의문을 제기함.",
-      "text": "Opinions are presented that gameplay in a mobile environment is not smooth, raising questions about the game method.",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "다양한 몬스터 헌터 시리즈를 번갈아 가며 플레이하는 유저들의 경험이 언급됨.",
-      "text": "The experiences of users playing various 몬스터 헌터 series alternately were mentioned.",
-      "unresolvedTerms": [
-        "몬스터 헌터"
-      ]
-    },
-    {
-      "source": "미도리 리세마라 계획",
-      "text": "미도리 reroll plan",
-      "unresolvedTerms": [
-        "미도리"
-      ]
-    },
-    {
-      "source": "우편 보상을 활용해 미도리 캐릭터를 리세마라한 뒤, 가챠권을 120장까지 모아 픽업에 도전하겠다는 계획입니다.",
-      "text": "The plan is to use mail rewards to reroll for 미도리 characters, then collect up to 120 gacha tickets to attempt a pickup.",
-      "unresolvedTerms": [
-        "미도리"
-      ]
-    },
-    {
-      "source": "스킵 기능을 활용하면 우편과 상점 보상을 통해 짧은 시간 내에 일정 횟수의 연차를 확보할 수 있다는 의견이 있습니다.",
-      "text": "There is an opinion that by utilizing the skip function, a certain number of multi-pulls can be secured within a short time through mail and shop rewards.",
-      "unresolvedTerms": []
-    },
-    {
       "source": "SSR 대검 획득 후 리세마라 여부 고민",
       "text": "Whether to reroll after obtaining SSR Great Sword",
       "unresolvedTerms": []
@@ -2436,260 +4177,62 @@
       "unresolvedTerms": []
     },
     {
-      "source": "뽑기 캐릭터는 스킬 보조나 솔로 플레이용으로 활용 가능하다는 의견이 있습니다.",
-      "text": "There is an opinion that pulled characters can be utilized for skill support or solo play.",
+      "source": "뽑기 캐릭터는 스킬 보조나 솔로 플레이용으로 활용 가능하며, 출전 변경을 통해 직접 조작할 수 있다는 의견이 있습니다.",
+      "text": "There are opinions that the pulled character can be used for skill support or solo play, and can be directly controlled by changing the lineup.",
       "unresolvedTerms": []
     },
     {
-      "source": "출전 변경을 통해 뽑기 캐릭터도 직접 조작하며 플레이할 수 있다는 점이 언급되었습니다.",
-      "text": "It was mentioned that pulled characters can also be played by directly controlling them through changing the lineup.",
+      "source": "캐릭터의 속성이나 육성 효율을 고려할 때 결국 주력 캐릭터를 키우는 것이 중요하다는 의견과 리세마라가 불필요하다는 반응이 있습니다.",
+      "text": "There are opinions that when considering character attributes or growth efficiency, it is ultimately important to raise main characters, and reactions that rerolling is unnecessary.",
       "unresolvedTerms": []
     },
     {
-      "source": "캐릭터의 속성이나 육성 효율을 고려할 때 리세마라를 할 필요가 없다는 반응이 있습니다.",
-      "text": "There are reactions stating that there is no need to reroll when considering the character's attributes or growth efficiency.",
+      "source": "리세마라 효율에 대한 고민",
+      "text": "Concerns regarding rerolling efficiency",
       "unresolvedTerms": []
     },
     {
-      "source": "SSR 용속성 대검 획득 후 리세마라 고민",
-      "text": "Considering rerolling after obtaining SSR 용속성 Great Sword",
+      "source": "재화 구조와 지급량 등을 고려했을 때, 특정 캐릭터를 뽑기보다 나중에 성능이 확실한 캐릭터를 위해 티켓을 아끼는 것이 효율적이라는 의견입니다.",
+      "text": "Considering the currency structure and distribution amounts, there is an opinion that it is more efficient to save tickets for characters with proven performance later, rather than pulling for a specific character now.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "캐릭터의 돌파 필요성을 언급하며 리세마라보다는 추후를 기약하는 전략을 제안하고 있습니다.",
+      "text": "Mentioning the necessity of character 돌파, a strategy is suggested to wait for the future rather than performing 리세마라.",
       "unresolvedTerms": [
-        "용속성"
+        "돌파",
+        "리세마라"
       ]
     },
     {
-      "source": "용속성 대검 SSR을 획득했으나, 특정 캐릭터의 성능에 대한 아쉬움 때문에 리세마라 여부를 고민하고 있습니다.",
-      "text": "I obtained a Dragon-attribute Great Sword SSR, but I am contemplating whether to reroll due to disappointment regarding a certain character's performance.",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "상시 캐릭터를 제공하므로 어떤 캐릭터로 시작해도 무방하다는 의견과 뽑기 결과에 대한 아쉬움을 나타내는 반응이 있습니다.",
-      "text": "There are opinions that it is fine to start with any character since permanent characters are provided, as well as reactions expressing disappointment regarding gacha results.",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "모바일 버전 플레이 후기 문의",
-      "text": "Inquiry regarding mobile version play reviews",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "모바일 버전의 게임 플레이 경험이 어떠한지 질문함",
-      "text": "Asking what the gameplay experience of the mobile version is like",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "게임이 재미있다는 의견과 함께 가챠 시스템에 대한 언급이 있음",
-      "text": "There are opinions that the game is fun, along with mentions of the gacha system",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "일부 이용자는 게임의 완성도를 높게 평가하며 캐릭터를 육성 중이라고 밝힘",
-      "text": "Some users evaluate the game's completeness highly and state they are currently nurturing characters",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "폴드8 기기에서 특정 게임(플스) 실행이 되지 않는 현상에 대해 질문함.",
-      "text": "Asked about the phenomenon where a specific game (PS) does not run on 8 Fold devices.",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "구글 계정의 국가 설정 문제일 수 있다는 의견이 있음.",
-      "text": "There is an opinion that it may be an issue with the Google account's country settings.",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "애플리케이션 데이터 삭제 후 업데이트를 진행하면 해결된다는 방법이 공유됨.",
-      "text": "A method was shared that the issue is resolved by deleting application data and then proceeding with an update.",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "기기 자체의 미지원 문제인지 업데이트 오류인지에 대해 의견이 나뉨.",
-      "text": "Opinions are divided on whether it is a problem of the device itself not supporting it or an update error.",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "단검 캐릭터 성능 관련 의견",
-      "text": "Opinions regarding the performance of the 단검 character",
-      "unresolvedTerms": [
-        "단검"
-      ]
-    },
-    {
-      "source": "단검을 활용한 회피 공격의 효율성이 높다는 주장이 제기되었습니다.",
-      "text": "A claim was raised that the efficiency of evasion attacks using 단검 is high.",
-      "unresolvedTerms": [
-        "단검"
-      ]
-    },
-    {
-      "source": "해당 캐릭터는 교란형이라 활용이 어렵거나 대검 캐릭터에 더 적합하다는 의견이 있습니다.",
-      "text": "There are opinions that the character is a disruption type, making them difficult to use, or that they are more suitable for Great Sword characters.",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "본 캐릭터의 스위치 기능이 가능하다는 의견이 있습니다.",
-      "text": "There are opinions that this character's switch function is possible.",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "한정 캐릭터 획득을 위한 리세마라 여부",
-      "text": "Whether to reroll to obtain limited characters",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "한정 캐릭터인 태도 캐릭터를 얻기 위해 게스트 계정으로 리세마라를 진행해야 하는지 질문함.",
-      "text": "Asked whether one should perform rerolling with a guest account to obtain the limited character Long Sword.",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "한정 캐릭터를 확보하는 것이 좋겠다는 의견과 첫날 재화로는 한정 캐릭터를 뽑기 어려울 수 있다는 의견이 있음.",
-      "text": "There are opinions that it would be good to secure limited characters, and opinions that it may be difficult to pull limited characters with the resources available on the first day.",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "몬스터 헌터 게임 평가 차이",
-      "text": "Differences in Monster Hunter game evaluations",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "숙련도에 따라 무기 선택에 대한 의견이 갈리며, 실력을 키우기 위해 특정 무기를 꾸준히 사용하는 방식이 언급되었습니다.",
-      "text": "Opinions on weapon selection vary depending on proficiency, and a method of consistently using a specific weapon to improve skill was mentioned.",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "해당 게임을 모바일 환경에 맞춘 작품으로 바라봐야 한다는 의견과 호불호가 명확히 나뉠 것이라는 반응이 있습니다.",
-      "text": "There are opinions that the game should be viewed as a work tailored to the mobile environment, and reactions that likes and dislikes will be clearly divided.",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "해당 게임의 재미와 완성도에 대한 의견",
-      "text": "Opinions on the fun and completeness of the game",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "작성자는 게임의 재미 여부에 대해 질문하며 전반적인 평가를 요청했습니다.",
-      "text": "The author asked whether the game is fun and requested an overall evaluation.",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "모바일 환경임에도 불구하고 기대 이상의 게임성과 뛰어난 최적화를 보여준다는 긍정적인 반응이 많습니다.",
-      "text": "There are many positive reactions stating that despite being a mobile environment, it shows gameplay and excellent optimization beyond expectations.",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "일부 사용자는 조작의 난이도나 과금 체계, 기기 성능에 따른 끊김 현상에 대해 언급했습니다.",
-      "text": "Some users mentioned the difficulty of controls, the monetization system, and stuttering depending on device performance.",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "첫 구매 캐릭터 추천 문의",
-      "text": "Inquiry regarding first purchase character recommendation",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "무료로 제공되는 캐릭터를 고려했을 때 아케니아를 선택하는 것이 좋을지 질문함",
-      "text": "Asked whether it would be good to choose 아케니아 considering the characters provided for free",
-      "unresolvedTerms": [
-        "아케니아"
-      ]
-    },
-    {
-      "source": "특정 캐릭터는 이벤트 재화로 획득 가능하므로 아케니아가 적절하다는 의견과 케레스와의 비교를 묻는 의견이 있음",
-      "text": "There are opinions that 아케니아 is appropriate since certain characters can be obtained with event currency, and opinions asking for a comparison with 케레스.",
-      "unresolvedTerms": [
-        "케레스",
-        "아케니아"
-      ]
-    },
-    {
-      "source": "닉네임 선점의 중요성",
-      "text": "The importance of securing a nickname",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "중복이 불가능한 시스템이므로 희귀한 닉네임을 미리 확보할 것을 권장함",
-      "text": "Since it is a system where duplicates are impossible, it is recommended to secure a rare nickname in advance.",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "이미 많은 사용자가 닉네임을 선점했다는 반응이 있음",
-      "text": "There are reactions that many users have already preempted nicknames",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "몬스터 헌터 게임 과금에 대한 견해",
-      "text": "Views on monetization in 몬스터 헌터 games",
-      "unresolvedTerms": [
-        "몬스터 헌터"
-      ]
-    },
-    {
-      "source": "경쟁적인 순위 경쟁을 목표로 하지 않는다면 리세마라 계정을 활용해 여유롭게 즐겨도 무방하다는 의견입니다.",
-      "text": "The opinion is that if you are not aiming for competitive ranking competition, it is fine to enjoy the game leisurely using 리세마라 accounts.",
+      "source": "리세마라로 얻는 티켓 양이 적어 캐릭터를 바로 데려오는 것이 낫다는 의견과, 티켓을 아꼈다가 나중에 사용하는 것이 좋다는 의견이 대립하고 있습니다.",
+      "text": "Opinions are conflicting between those who believe it is better to bring characters immediately because the amount of tickets obtained through 리세마라 is small, and those who believe it is better to save tickets for later use.",
       "unresolvedTerms": [
         "리세마라"
       ]
     },
     {
-      "source": "게임 내 시간 제한이나 캐릭터 제한 요소가 있다면 과금 필요성이 달라질 수 있다는 의견이 있습니다.",
-      "text": "There are opinions that the necessity of monetization may change if there are in-game time limits or character restriction elements.",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "특정 게임의 무기 범용성이나 속성 시스템에 따른 플레이 방식에 대한 언급이 있습니다.",
-      "text": "There are mentions regarding the versatility of weapons in a specific game or playstyles according to the attribute system.",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "게임의 경쟁 요소 유무 문의",
-      "text": "Inquiry regarding the presence of competitive elements in the game",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "작성자는 경쟁 요소 없이 혼자 즐길 수 있는 게임인지 질문하며, 경쟁을 선호하지 않는 성향임을 밝힘.",
-      "text": "The author asks if it is a game that can be enjoyed alone without competitive elements, stating a preference for not competing.",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "기록 경쟁이나 타임어택 요소가 존재한다는 의견이 있음.",
-      "text": "There are opinions that record competition or time attack elements exist.",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "기록 경쟁의 보상은 칭호 정도에 불과하며, 이를 무시하면 싱글 게임처럼 즐길 수 있다는 의견이 있음.",
-      "text": "There are opinions that the rewards for record competition are merely titles, and if ignored, the game can be enjoyed like a single-player game.",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "모바일 몬헌 출시 기대감",
-      "text": "Anticipation for the release of mobile 몬헌",
+      "source": "돌파까지 걸리는 시간을 고려해 빠르게 시작하는 것이 유리하다는 의견도 있습니다.",
+      "text": "There is also an opinion that it is advantageous to start quickly, considering the time it takes to reach 돌파.",
       "unresolvedTerms": [
-        "몬헌"
+        "돌파"
       ]
     },
     {
-      "source": "모바일 기반의 무료 게임 특성상 역대 시리즈 중 캐릭터 사망 횟수가 가장 많을 것으로 예상하며 기대감을 나타냄.",
-      "text": "Due to the nature of a mobile-based free game, it is expected that the character death count will be the highest among all series, expressing anticipation.",
+      "source": "아웃랜 엔드 콘텐츠 보상 및 캐릭터 성능 관련",
+      "text": "Regarding 아웃랜 end content rewards and character performance",
+      "unresolvedTerms": [
+        "아웃랜"
+      ]
+    },
+    {
+      "source": "엔드 콘텐츠 보상은 재화와 칭호 위주이며, 칭호 꾸미기 요소가 상위 유저를 위한 보상이라는 주장이 제기되었습니다. 또한 기본 주인공 캐릭터의 공격력이 가챠 캐릭터보다 높을 수 있다는 의견이 포함되었습니다.",
+      "text": "It was argued that end content rewards are centered around currency and titles, and that title decoration elements are rewards for top-tier users. Additionally, it included an opinion that the attack power of the default protagonist character may be higher than that of gacha characters.",
       "unresolvedTerms": []
     },
     {
-      "source": "출시를 기다리는 기대 섞인 반응과 게임의 장르적 특성을 언급하는 의견이 있음.",
-      "text": "There are opinions expressing anticipation while waiting for the release and mentioning the genre characteristics of the game.",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "서버 선택 및 화질 설정 관련 질문",
-      "text": "Questions regarding server selection and graphics settings",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "사용자가 게임 서버 선택 기준과 특정 기기에서의 화질 설정 가능 여부에 대해 질문함.",
-      "text": "The user asked about the criteria for selecting game servers and whether graphics settings can be adjusted on specific devices.",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "한국 서버를 이용하겠다는 의견이 있음.",
-      "text": "There is an opinion to use the Korean server.",
+      "source": "가챠 캐릭터의 성능에 의문을 표하거나, 주인공 캐릭터를 포함한 파티 구성의 효율성을 고민해야 한다는 의견이 있습니다.",
+      "text": "There are opinions questioning the performance of gacha characters or suggesting that the efficiency of party composition, including the protagonist character, must be considered.",
       "unresolvedTerms": []
     },
     {
@@ -2720,60 +4263,182 @@
       "unresolvedTerms": []
     },
     {
-      "source": "몬스터 헌터 서버 선택 고민",
-      "text": "Monster Hunter server selection dilemma",
+      "source": "게임성 및 과금 체계에 대한 긍정적 평가",
+      "text": "Positive evaluations regarding gameplay and the monetization system",
       "unresolvedTerms": []
     },
     {
-      "source": "한국 유저 수를 고려했을 때 아시아 서버로 가는 것이 좋을지 고민 중이라는 내용입니다.",
-      "text": "The content states they are debating whether it would be better to go to the Asia server considering the number of Korean users.",
+      "source": "현재 게임은 특정 캐릭터를 제외하면 무난한 성능을 보이며, 과금 모델이 합리적이어서 무소과금 이용자에게 유리하다는 의견입니다.",
+      "text": "The opinion is that the current game shows decent performance except for specific characters, and the monetization model is reasonable, making it advantageous for low-spending and non-spending users.",
       "unresolvedTerms": []
     },
     {
-      "source": "한국 서버 이용을 선호하거나 인구가 많은 일본 서버를 추천하는 의견이 있습니다.",
-      "text": "There are opinions preferring the use of the Korean server or recommending the Japanese server, which has a large population.",
+      "source": "주인공과 낮은 등급 캐릭터의 성능이 준수하며, 일일 퀘스트를 통한 성장 지원이 원활하다는 반응이 있습니다.",
+      "text": "There are reactions that the performance of the protagonist and low-grade characters is decent, and growth support through daily quests is smooth.",
       "unresolvedTerms": []
     },
     {
-      "source": "아시아 서버보다는 한국 서버나 일본 서버를 선택하겠다는 의견이 존재합니다.",
-      "text": "There are opinions that they will choose the Korean server or the Japanese server rather than the Asia server.",
+      "source": "속성 시스템을 통한 밸런스 조절은 긍정적이나, 향후 발생할 수 있는 성능 인플레이션에 대한 우려도 존재합니다.",
+      "text": "While the balance adjustment through the attribute system is positive, there are also concerns regarding potential performance inflation in the future.",
       "unresolvedTerms": []
     },
     {
-      "source": "남성 캐릭터 배포 및 게임 운영 관련",
-      "text": "Regarding male character distribution and game operations",
+      "source": "과금 난이도가 예상보다 낮다는 의견과 국가별 과금 체계에 대한 비교 의견이 있습니다.",
+      "text": "There are opinions that the monetization difficulty is lower than expected, as well as comparative opinions regarding the monetization systems by country.",
       "unresolvedTerms": []
     },
     {
-      "source": "리세마라 시 특정 캐릭터를 피하고 미도리 캐릭터를 우선적으로 획득하겠다는 계획과 시즌패스 구성에 대한 의견을 제시함.",
-      "text": "They presented a plan to avoid certain characters during rerolling and prioritize obtaining 미도리 characters, as well as opinions regarding the Season Pass composition.",
+      "source": "게임 플레이 초기 후기",
+      "text": "Early gameplay reviews",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "오픈월드 방식의 구성이 모바일로 즐기기에는 다소 피로감이 느껴진다는 의견입니다. 액션성은 훌륭하지만, 마을 이동보다는 인터페이스를 통한 던전 진입 방식이 모바일 환경에 더 적합했을 것이라는 아쉬움을 표했습니다.",
+      "text": "There is an opinion that the open-world configuration feels somewhat fatiguing to enjoy on mobile. While the action is excellent, regret was expressed that entering dungeons through an interface would have been more suitable for the mobile environment rather than moving through towns.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "모바일 환경에서 플레이하기에는 조작이나 구성이 피로하다는 점에 공감하는 의견이 많습니다. 게임의 완성도와 별개로 모바일 플랫폼의 특성을 고려한 간소화된 방식이 필요하다는 의견이 있었습니다.",
+      "text": "Many opinions agree that the controls and configuration are fatiguing to play in a mobile environment. Regardless of the game's level of completion, there were opinions that a simplified method considering the characteristics of the mobile platform is necessary.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "리세마라 필요성 여부",
+      "text": "Whether rerolling is necessary",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "특정 캐릭터에 대한 선호도가 낮아 리세마라 없이 기존 캐릭터로 플레이할 의사를 밝힘.",
+      "text": "Due to low preference for specific characters, the intention to play with existing characters without rerolling was stated.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "리세마라를 하지 않겠다는 의견이 다수이며, 게임 진행 방식이나 캐릭터 성능에 대한 개인적인 견해가 공유됨.",
+      "text": "A majority of opinions state they will not reroll, and personal views on the game progression method and character performance are being shared.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "특정 캐릭터 성능 평가",
+      "text": "Evaluation of specific character performance",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "해당 캐릭터의 조작감이 우수하다는 의견이 있습니다.",
+      "text": "There are opinions that the control feel of the character in question is excellent.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "마비 효과를 가진 동료로서의 성능이 뛰어나다는 의견이 있습니다.",
+      "text": "There are opinions that their performance as a companion with paralysis effects is excellent.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "함정 스킬을 활용해 공격 시간을 확보할 수 있다는 평가가 있습니다.",
+      "text": "There are evaluations that attack time can be secured by utilizing trap skills.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "특정 스킬 연계 시 적에게 큰 경직을 줄 수 있다는 내용이 있습니다.",
+      "text": "There is content stating that large stagger can be dealt to enemies when using specific skill combos.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "미도리 리세마라 계획",
+      "text": "미도리 reroll plan",
       "unresolvedTerms": [
         "미도리"
       ]
     },
     {
-      "source": "특정 캐릭터의 성능과 과거 클로즈 베타 테스트 당시의 시스템 변경 사항에 대해 언급함.",
-      "text": "They mentioned the performance of certain characters and system changes during the past Closed Beta Test.",
+      "source": "우편 보상을 활용해 미도리 캐릭터를 리세마라한 뒤, 가챠권을 120장까지 모아 픽업에 도전하겠다는 계획입니다.",
+      "text": "The plan is to use mail rewards to reroll for 미도리 characters, then collect up to 120 gacha tickets to attempt a pickup.",
+      "unresolvedTerms": [
+        "미도리"
+      ]
+    },
+    {
+      "source": "스킵 기능을 활용하면 우편과 상점 보상을 통해 짧은 시간 내에 일정 횟수의 연차를 확보할 수 있다는 의견이 있습니다.",
+      "text": "There is an opinion that by utilizing the skip function, a certain number of multi-pulls can be secured within a short time through mail and shop rewards.",
       "unresolvedTerms": []
     },
     {
-      "source": "동반자 시스템의 연출 방식에 대한 추측이 있음.",
-      "text": "There is speculation regarding the presentation method of the companion system.",
+      "source": "최근 출시되는 중국 게임들은 캐릭터 성능 변화가 빨라 리세마라의 효율이 낮다는 의견이 있습니다.",
+      "text": "There are opinions that the efficiency of rerolling is low in recently released Chinese games because character performance changes rapidly.",
       "unresolvedTerms": []
     },
     {
-      "source": "커스터마이징 공유 관련",
-      "text": "Regarding customization sharing",
+      "source": "한국 서버 단독 운영에 대한 불만",
+      "text": "Dissatisfaction regarding the exclusive operation of the Korean server",
       "unresolvedTerms": []
     },
     {
-      "source": "본문 정보 부족으로 내용을 요약할 수 없습니다.",
-      "text": "The content cannot be summarized due to insufficient information in the main text.",
+      "source": "한국 서버가 별도로 분리되어 운영되는 방식에 대해 부정적인 의견이 제기되었습니다.",
+      "text": "Negative opinions have been raised regarding the method of operating the Korean server separately.",
       "unresolvedTerms": []
     },
     {
-      "source": "게임 내 캐릭터 이미지 관련 의견",
-      "text": "Opinions regarding in-game character images",
+      "source": "매칭 문제 등을 이유로 일본 서버로의 이전을 고려해야 한다는 주장이 있습니다.",
+      "text": "There are claims that moving to the Japanese server should be considered due to issues such as matching.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "일본 서버 또한 한국 서버와 마찬가지로 클라이언트가 분리되어 운영된다는 의견이 있습니다.",
+      "text": "There are opinions that the Japanese server, much like the Korean server, is operated with a separate client.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "아시아 서버 이용을 대안으로 제시하는 의견이 있습니다.",
+      "text": "There are opinions suggesting the use of the Asia server as an alternative.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "리세마라 성공 여부 문의",
+      "text": "Inquiry regarding reroll success",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "특정 캐릭터 획득 시 게임을 시작해도 될지 질문함",
+      "text": "Asking whether it is okay to start the game upon obtaining a specific character",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "리세마라 방식에 대해 의문을 제기함",
+      "text": "Raising doubts about the reroll method",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "첫 구매 캐릭터 추천 문의",
+      "text": "Inquiry regarding first purchase character recommendation",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "무료로 제공되는 캐릭터를 고려했을 때 아케니아를 선택하는 것이 좋을지 질문함",
+      "text": "Asked whether it would be good to choose 아케니아 considering the characters provided for free",
+      "unresolvedTerms": [
+        "아케니아"
+      ]
+    },
+    {
+      "source": "특정 캐릭터는 이벤트 재화로 획득 가능하므로 아케니아가 적절하다는 의견과 케레스와의 비교를 묻는 의견이 있음",
+      "text": "There are opinions that 아케니아 is appropriate since certain characters can be obtained with event currency, and opinions asking for a comparison with 케레스.",
+      "unresolvedTerms": [
+        "케레스",
+        "아케니아"
+      ]
+    },
+    {
+      "source": "게임 캐릭터 커스터마이징 효용성",
+      "text": "Utility of in-game character customization",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "게임 내에서 캐릭터가 잘 보이지 않아 커스터마이징에 많은 노력을 들일 필요가 없다는 의견입니다.",
+      "text": "There is an opinion that since characters are not very visible in-game, there is no need to put much effort into customization.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "게임 내 캐릭터 외형 관련 의견",
+      "text": "Opinions regarding in-game character appearance",
       "unresolvedTerms": []
     },
     {
@@ -2782,183 +4447,83 @@
       "unresolvedTerms": []
     },
     {
-      "source": "눈매의 각도를 조절해야 한다는 의견과 캐릭터의 이미지가 변했다는 반응이 있습니다.",
-      "text": "There are opinions that the angle of the eyes needs to be adjusted, and reactions that the character images have changed.",
+      "source": "눈매를 수정해야 한다는 의견과 캐릭터의 이미지가 변했다는 반응이 있습니다.",
+      "text": "There are opinions that the eye shape needs to be modified and reactions that the character's image has changed.",
       "unresolvedTerms": []
     },
     {
-      "source": "과금 모델 및 콘텐츠 우려",
-      "text": "Concerns regarding monetization models and content",
+      "source": "게임 쿠폰 정보",
+      "text": "Game coupon information",
       "unresolvedTerms": []
     },
     {
-      "source": "속성별 캐릭터와 전용 장비 가챠, 랭킹 시스템 등으로 인해 과금 부담이 높을 것으로 예상된다는 의견입니다. 랭킹 경쟁에 집중하지 않고 주인공 캐릭터 위주로 가볍게 플레이하는 방식이 정신 건강에 이로울 것이라 주장합니다.",
-      "text": "Opinions suggest that the burden of monetization is expected to be high due to character and exclusive equipment gacha by attribute, the ranking system, etc. It is argued that playing lightly, focusing on the protagonist character rather than concentrating on ranking competition, will be better for mental health.",
+      "source": "게임에서 사용할 수 있는 쿠폰 코드 2종이 공유되었습니다.",
+      "text": "2 types of coupon codes that can be used in the game have been shared.",
       "unresolvedTerms": []
     },
     {
-      "source": "라이트 유저를 위한 즐길 거리가 부족해 보인다는 우려가 있습니다.",
-      "text": "There are concerns that there seems to be a lack of things to enjoy for light users.",
+      "source": "쿠폰 등록 방법과 이벤트 관련 문의 및 감사 인사가 있었습니다.",
+      "text": "There were inquiries and expressions of gratitude regarding coupon registration methods and events.",
       "unresolvedTerms": []
     },
     {
-      "source": "랭킹 경쟁에 참여하지 않고 무과금으로 즐기는 것이 최선이라는 의견이 있습니다.",
-      "text": "There are opinions that the best way to enjoy the game is as a free-to-play player without participating in ranking competitions.",
+      "source": "모바일 게임 플레이 환경에 대한 불만",
+      "text": "Dissatisfaction with the mobile game play environment",
       "unresolvedTerms": []
     },
     {
-      "source": "동반자 가챠 제외 여부나 랭킹 유저를 위한 성능 지원 등 과금 구조에 대한 다양한 견해가 존재합니다.",
-      "text": "Various views exist regarding the monetization structure, such as whether to exclude 동반자 gacha or provide performance support for ranking users.",
+      "source": "모바일 환경에서의 게임 플레이가 원활하지 않다는 의견을 제시하며 게임 방식에 대한 의문을 제기함.",
+      "text": "Opinions are presented that gameplay in a mobile environment is not smooth, raising questions about the game method.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "다양한 몬스터 헌터 시리즈를 번갈아 가며 플레이하는 유저들의 경험이 언급됨.",
+      "text": "The experiences of users playing various 몬스터 헌터 series alternately were mentioned.",
       "unresolvedTerms": [
-        "동반자"
+        "몬스터 헌터"
       ]
     },
     {
-      "source": "게임 플레이 후기",
-      "text": "Gameplay Review",
+      "source": "몬스터 헌터 게임 평가 차이",
+      "text": "Differences in Monster Hunter game evaluations",
       "unresolvedTerms": []
     },
     {
-      "source": "작성자는 해당 게임이 기존 유명 IP와 오픈월드 형식을 차용한 양산형 게임이라 평가하며 서비스 지속성에 의문을 제기했습니다.",
-      "text": "The author evaluates the game as a mass-produced game that borrows from existing famous IPs and the open-world format, raising questions about the sustainability of the service.",
+      "source": "숙련도에 따라 무기 선택에 대한 의견이 갈리며, 실력을 키우기 위해 특정 무기를 꾸준히 사용하는 방식이 언급되었습니다.",
+      "text": "Opinions on weapon selection vary depending on proficiency, and a method of consistently using a specific weapon to improve skill was mentioned.",
       "unresolvedTerms": []
     },
     {
-      "source": "다른 게임으로 갈아타겠다는 의견과 함께, 게임의 품질이나 비즈니스 모델이 특정 유저층의 기대치에 미치지 못한다는 반응이 있습니다.",
-      "text": "There are reactions stating they will switch to other games, along with opinions that the game's quality or business model does not meet the expectations of certain user groups.",
+      "source": "해당 게임을 모바일 환경에 맞춘 작품으로 바라봐야 한다는 의견과 호불호가 명확히 나뉠 것이라는 반응이 있습니다.",
+      "text": "There are opinions that the game should be viewed as a work tailored to the mobile environment, and reactions that likes and dislikes will be clearly divided.",
       "unresolvedTerms": []
     },
     {
-      "source": "특정 커뮤니티 이용자들의 언어 사용 비판",
-      "text": "Criticism of the language usage of certain community users",
+      "source": "SSR 캐릭터 사용 후기",
+      "text": "SSR character usage reviews",
       "unresolvedTerms": []
     },
     {
-      "source": "작성자는 특정 커뮤니티 이용자들의 어휘력과 문장 구조가 빈약하며, 논리적 사고 없이 자극에만 반응하는 수준이라고 주장합니다.",
-      "text": "The author claims that the vocabulary and sentence structure of certain community users are poor, and that they only react to stimuli without logical thinking.",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "서버 선택에 관한 질문이나 게시글의 작성 및 댓글 비율에 대한 언급이 있습니다.",
-      "text": "There are mentions of questions regarding server selection or the ratio of post creation to comments.",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "주인공 무기 UI 디자인",
-      "text": "Protagonist Weapon UI Design",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "게임 내 UI 디자인이 캐릭터의 무기 형태나 컨셉을 반영하고 있다는 의견입니다.",
-      "text": "There is an opinion that the in-game UI design reflects the character's weapon form or concept.",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "UI 텍스트가 깨져 보이거나 설명 문구가 배경과 겹쳐 보이는 현상이 있다는 의견이 있습니다.",
-      "text": "There are opinions that UI text appears broken or that description text overlaps with the background.",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "서버 독립 운영 관련",
-      "text": "Regarding independent server operation",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "서버가 독립적으로 운영된다는 내용입니다.",
-      "text": "This is content stating that servers are operated independently.",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "본문 정보 부족으로 상세 내용을 파악할 수 없습니다.",
-      "text": "Detailed information cannot be identified due to a lack of information in the main text.",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "서버 간 데이터 이동이 불가능한 것은 당연하며, 향후 이용자가 적은 서버는 통합될 가능성이 있다는 의견이 있습니다.",
-      "text": "It is natural that data transfer between servers is impossible, and there is an opinion that servers with fewer users may be merged in the future.",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "모바일 기기 발열 및 성능 우려",
-      "text": "Concerns regarding mobile device heating and performance",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "본문 주장: 게임의 그래픽 수준이 높아 모바일 기기에 무리가 갈 수 있으므로 PC 클라이언트 출시가 필요해 보임.",
-      "text": "Main argument: Since the game's graphic level is high, it may strain mobile devices, so a PC client release seems necessary.",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "한정 캐릭터 획득 관련 논의",
-      "text": "Discussion regarding obtaining limited characters",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "작성자는 특정 한정 캐릭터를 제외한 나머지 캐릭터들이 상시 캐릭터와 차별점이 없어 리세마라를 통해서라도 한정 캐릭터를 확보해야겠다고 주장합니다.",
-      "text": "The author claims that, excluding certain limited characters, the remaining characters have no differentiation from permanent characters, so one should secure limited characters even through rerolling.",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "한정 티켓 부재로 인해 특정 캐릭터의 리세마라가 어려울 수 있다는 의견과 무료 재화로 픽업 캐릭터를 얻지 못할 경우 게임을 이탈할 수 있다는 우려가 있습니다.",
-      "text": "There is an opinion that rerolling for specific characters may be difficult due to the absence of limited tickets, and a concern that players may leave the game if they cannot obtain pickup characters with free currency.",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "효율적인 초반 진행 방법",
-      "text": "Efficient Early-Game Progression Method",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "특정 캐릭터 육성 여부에 대한 질문과 함께 아케니아 캐릭터를 추천하는 의견이 있습니다.",
-      "text": "Along with questions regarding whether to nurture certain characters, there is an opinion recommending 아케니아 characters.",
+      "source": "작성자는 미도리 대신 페페를 주력으로 사용 중이며, 페페의 뛰어난 기동성과 재장전이 필요 없는 무한 탄환 특성을 장점으로 언급했습니다.",
+      "text": "The author is currently using 페페 as their main instead of 미도리, and mentioned the excellent mobility and the infinite ammo characteristic of 페페 that does not require reloading as advantages.",
       "unresolvedTerms": [
-        "아케니아"
+        "미도리",
+        "페페"
       ]
     },
     {
-      "source": "SR 돌파의 의미와 현재 사용 중인 캐릭터 조합의 적절성에 대해 묻는 의견이 있습니다.",
-      "text": "There are opinions asking about the meaning of SR breakthrough and the appropriateness of the character combinations currently being used.",
-      "unresolvedTerms": []
+      "source": "페페의 성능과 재미에 대해 긍정적인 반응을 보이는 의견이 있습니다.",
+      "text": "There are opinions showing positive reactions toward the performance and fun of 페페.",
+      "unresolvedTerms": [
+        "페페"
+      ]
     },
     {
-      "source": "SSR 캐릭터 선택 관련 질문",
-      "text": "Questions regarding SSR character selection",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "SSR 등급 캐릭터가 무작위로 나왔을 때 바로 사용해도 되는지 질문함.",
-      "text": "Asking whether it is okay to use an SSR grade character immediately when it appears randomly.",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "본문 내용에 구체적인 캐릭터 정보가 부족함.",
-      "text": "The main text lacks specific character information.",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "가급적이면 픽업 캐릭터를 선택하는 것이 좋다는 의견이 있음.",
-      "text": "There is an opinion that it is better to choose pickup characters if possible.",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "가장 비선호되는 무기 질문",
-      "text": "Question about the least preferred weapon",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "작성자는 남들이 잘 사용하지 않는 비주류 무기를 사용해보고 싶다는 의사를 밝혔습니다.",
-      "text": "The author expressed a desire to try using non-mainstream weapons that others do not use often.",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "랜스가 재미가 없다는 의견과 반격 및 탱커 역할을 선호한다면 추천한다는 의견이 있습니다.",
-      "text": "There are opinions that Lance is not fun, and recommendations if one prefers counterattacking and tanker roles.",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "무기의 재미는 개인마다 차이가 있다는 반응이 존재합니다.",
-      "text": "There are reactions that the fun of weapons varies from person to person.",
-      "unresolvedTerms": []
+      "source": "페페를 운용하기 위한 스택 관리의 중요성에 대한 의견이 있습니다.",
+      "text": "There are opinions regarding the importance of stack management for operating 페페.",
+      "unresolvedTerms": [
+        "페페"
+      ]
     },
     {
       "source": "게임 초반 플레이 후기",
@@ -2983,38 +4548,230 @@
       "unresolvedTerms": []
     },
     {
-      "source": "신규 서버 오픈 관련 논의",
-      "text": "Discussions regarding new server openings",
+      "source": "헤보 세팅 관련 의견",
+      "text": "Opinions regarding 헤보 setting",
+      "unresolvedTerms": [
+        "헤보"
+      ]
+    },
+    {
+      "source": "기본 회심률을 고려했을 때 무기는 속성 위주로 선택하면 된다는 의견입니다.",
+      "text": "The opinion is that when considering base critical hit rate, weapons can be chosen based on attributes.",
       "unresolvedTerms": []
     },
     {
-      "source": "16시에 오픈 예정인 서버에 접속해 보자는 내용입니다.",
-      "text": "This is content suggesting that we should try connecting to the server scheduled to open at 16.",
+      "source": "해당 캐릭터의 획득 방식에 대한 질문과 답변이 있었습니다.",
+      "text": "There were questions and answers regarding the acquisition method of the character in question.",
       "unresolvedTerms": []
     },
     {
-      "source": "오픈되는 서버의 위치와 정확한 시간대에 대해 이용자들 사이에서 의견이 나뉘고 있습니다.",
-      "text": "Opinions are divided among users regarding the location of the opening servers and the exact time slots.",
+      "source": "리세마라 미도리 획득 실패",
+      "text": "Reroll 미도리 acquisition failure",
+      "unresolvedTerms": [
+        "미도리"
+      ]
+    },
+    {
+      "source": "리세마라를 14회 진행했으나 특정 캐릭터인 미도리를 획득하지 못했다는 내용입니다.",
+      "text": "This is content stating that although rerolling was performed 14 times, the specific character 미도리 was not acquired.",
+      "unresolvedTerms": [
+        "미도리"
+      ]
+    },
+    {
+      "source": "특정 무기를 목표로 하지 않는다면 상시 캐릭터를 선택하라는 의견이 있습니다.",
+      "text": "There is an opinion that if you are not aiming for a specific weapon, you should choose a permanent character.",
       "unresolvedTerms": []
     },
     {
-      "source": "서버 시간대와 UTC 기준에 따른 접속 가능 시간에 대해 혼선이 있는 모습입니다.",
-      "text": "There appears to be confusion regarding the server time zone and the available access times based on UTC.",
+      "source": "낮은 확률과 픽업 실패 가능성을 언급하며 상황을 설명하는 의견이 있습니다.",
+      "text": "There are opinions explaining the situation while mentioning low probabilities and the possibility of pickup failure.",
       "unresolvedTerms": []
     },
     {
-      "source": "사전예약 보상 기준에 대한 의견",
-      "text": "Opinions on the pre-registration reward criteria",
+      "source": "적은 횟수의 뽑기로 해당 캐릭터를 획득했다는 경험담이 있습니다.",
+      "text": "There are anecdotes of obtaining the character with a small number of pulls.",
       "unresolvedTerms": []
     },
     {
-      "source": "사전예약 보상 수령 조건이 2027년 10월 28일(UTC+9) 이전 계정 생성자로 제한된 것에 대해 의문을 제기하며, 사전 캐릭터 생성 여부에 따라 보상이 달라지는 기준의 개선을 요청하는 의견입니다.",
-      "text": "This is an opinion raising questions regarding the fact that the conditions for receiving pre-registration rewards are limited to account creators before 2027 year 10 month 28 day (UTC+9), and requesting an improvement to the criteria where rewards differ depending on whether a character was pre-created.",
+      "source": "커스터마이징 공유 관련",
+      "text": "Regarding customization sharing",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "본문 정보 부족으로 내용을 요약할 수 없습니다.",
+      "text": "The content cannot be summarized due to insufficient information in the main text.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "몬스터헌터 아웃랜더스 초반 추천 파티 구성",
+      "text": "Monster Hunter Outlanders Recommended early-game party composition",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "초반 단계에서 활용하기 좋은 캐릭터 조합과 파티 편성 방안을 공유하고 있습니다.",
+      "text": "It shares character combinations and party formation methods that are good to utilize in the early stages.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "특정 캐릭터를 서포터로 활용하여 대미지를 높이는 방식이나 생존력을 높이는 조합에 대한 의견이 있습니다.",
+      "text": "There are opinions regarding methods to increase damage by using specific characters as supporters, or combinations that increase survivability.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "캐릭터 육성에 필요한 재화 부담으로 인해 주인공을 메인 딜러로 활용하는 방안이 언급되었습니다.",
+      "text": "Due to the burden of resources required for character cultivation, a method of utilizing the protagonist as the main dealer was mentioned.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "캐릭터의 성능과 범용성에 따라 파티 구성이 달라질 수 있다는 반응이 있습니다.",
+      "text": "There are reactions that party composition may vary depending on the character's performance and versatility.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "모바일 버전 플레이 후기 문의",
+      "text": "Inquiry regarding mobile version play reviews",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "모바일 버전의 게임 플레이 경험이 어떠한지 질문함",
+      "text": "Asking what the gameplay experience of the mobile version is like",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "게임의 재미에 대해서는 긍정적인 반응이 있으나 가챠 시스템에 대한 언급이 있음",
+      "text": "There are positive reactions regarding the fun of the game, but there are mentions of the gacha system",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "일부 이용자는 게임의 완성도를 높게 평가하며 캐릭터 육성 중임을 밝힘",
+      "text": "Some users evaluate the game's completeness highly and state they are currently cultivating characters",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "단검 캐릭터 성능 관련 의견",
+      "text": "Opinions regarding the performance of the 단검 character",
+      "unresolvedTerms": [
+        "단검"
+      ]
+    },
+    {
+      "source": "단검을 활용한 회피 공격의 효율성이 높다는 주장이 제기되었습니다.",
+      "text": "A claim was raised that the efficiency of evasion attacks using 단검 is high.",
+      "unresolvedTerms": [
+        "단검"
+      ]
+    },
+    {
+      "source": "해당 캐릭터는 교란형이라 활용이 어렵거나 대검 캐릭터에 더 적합하다는 의견이 있습니다.",
+      "text": "There are opinions that the character is a disruption type, making them difficult to use, or that they are more suitable for Great Sword characters.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "본 캐릭터의 스위치 기능이 가능하다는 의견이 있습니다.",
+      "text": "There are opinions that this character's switch function is possible.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "구글 계정의 국가 설정 문제나 앱 업데이트 오류일 가능성이 제기되었습니다.",
+      "text": "Possibilities were raised regarding Google account country setting issues or app update errors.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "애플리케이션의 데이터를 삭제하거나 업데이트를 다시 진행하여 해결했다는 의견이 있습니다.",
+      "text": "There are opinions that the issue was resolved by deleting the application data or re-attempting the update.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "한정 캐릭터 획득을 위한 리세마라 여부",
+      "text": "Whether to reroll to obtain limited characters",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "한정 캐릭터인 태도 캐릭터를 얻기 위해 게스트 계정으로 리세마라를 진행해야 하는지 질문함.",
+      "text": "Asked whether one should perform rerolling with a guest account to obtain the limited character Long Sword.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "한정 캐릭터를 확보하는 것이 좋겠다는 의견과 첫날 재화로는 한정 캐릭터를 뽑기 어려울 수 있다는 의견이 있음.",
+      "text": "There are opinions that it would be good to secure limited characters, and opinions that it may be difficult to pull limited characters with the resources available on the first day.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "게임 내에서 자연 획득을 한 상황에서 게임을 계속 플레이할 것인지에 대해 질문하고 있습니다.",
+      "text": "The author is asking whether to continue playing the game in a situation where natural acquisition has occurred within the game.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "특정 등급 캐릭터는 돌파 단계에 따라 성능 차이가 발생한다는 의견이 있습니다.",
+      "text": "There are opinions that certain grade characters have performance differences depending on their breakthrough stage.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "게임을 계속 진행하겠다는 반응이 있습니다.",
+      "text": "There are reactions stating they will continue to play the game.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "게임 재미 및 평가 질문",
+      "text": "Questions regarding game fun and evaluation",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "해당 게임의 재미 여부에 대한 의견을 묻는 글입니다.",
+      "text": "This is a post asking for opinions on whether the game is fun.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "모바일 환경임에도 기대 이상의 게임성과 최적화를 보여준다는 긍정적인 반응이 많습니다.",
+      "text": "There are many positive reactions stating that the game shows better gameplay and optimization than expected, despite being a mobile environment.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "일부 기기에서의 버벅임이나 과금 모델, 높은 조작 난이도에 대한 우려 섞인 의견도 존재합니다.",
+      "text": "There are also concerned opinions regarding stuttering on some devices, the monetization model, and high control difficulty.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "미도리 캐릭터 풀돌 정보",
+      "text": "미도리 character full breakthrough information",
+      "unresolvedTerms": [
+        "미도리"
+      ]
+    },
+    {
+      "source": "특정 캐릭터를 풀돌파하기 위해서는 천장 시스템을 포함해 총 7장의 카드가 필요하다는 내용입니다.",
+      "text": "This contains information that a total of 7 cards are required to fully breakthrough a specific character, including the pity system.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "캐릭터의 성능과 데미지 수치에 대한 질문이 있었으며, 돌파 방식과 소요 기간에 대한 다양한 의견이 공유되었습니다.",
+      "text": "There were questions regarding character performance and damage numbers, and various opinions were shared regarding breakthrough methods and the time required.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "일일 보상을 통해 일정 기간 내에 풀돌파가 가능하다는 의견과 비용에 대한 궁금증이 나타났습니다.",
+      "text": "Opinions appeared that full breakthrough is possible within a certain period through daily rewards, along with curiosity regarding the cost.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "본문 텍스트가 없는 게시글",
+      "text": "Post without body text",
       "unresolvedTerms": []
     },
     {
       "source": "자유게시판",
       "text": "Free Board",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "게임 튕김 현상 문의",
+      "text": "Inquiry regarding game crashes",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "30분에서 1시간 정도 플레이하면 게임이 튕긴다는 질문입니다.",
+      "text": "This is a question stating that the game crashes after playing for about 1 hours for 30 minutes.",
       "unresolvedTerms": []
     },
     {
@@ -3028,8 +4785,71 @@
       "unresolvedTerms": []
     },
     {
-      "source": "본문 텍스트가 없는 게시글",
-      "text": "Post without body text",
+      "source": "영상 공유",
+      "text": "Video sharing",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "정보가 부족하여 게임 관련 영상을 제작하여 공유한다는 의견입니다.",
+      "text": "This is an opinion that due to insufficient information, a game-related video is being produced and shared.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "게임 플레이 후기",
+      "text": "Gameplay Review",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "몬스터 헌터와는 다른 양산형 게임 같다는 부정적인 후기입니다.",
+      "text": "This is a negative review stating that it feels like a mass-produced game, different from 몬스터 헌터.",
+      "unresolvedTerms": [
+        "몬스터 헌터"
+      ]
+    },
+    {
+      "source": "게임 삭제 후기",
+      "text": "Game deletion review",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "미도리가 나오지 않아 게임을 삭제했다는 후기입니다. 특급 가챠 티켓 수량이 적고 상점 코인으로 겨우 모은 10연차 결과도 좋지 않았으며, 신규 게임임에도 오픈 및 사전 예약 특전 사료가 매우 부족하다고 느꼈다는 의견입니다.",
+      "text": "This is a review stating that the game was deleted because 미도리 did not appear. The opinion is that the quantity of 특급 가챠 티켓 is low, the results of the 10 pulls barely collected with 상점 코인 were not good, and despite being a new game, the launch and pre-registration benefits felt very insufficient.",
+      "unresolvedTerms": [
+        "특급 가챠 티켓",
+        "상점 코인",
+        "미도리"
+      ]
+    },
+    {
+      "source": "게임 시스템에 대한 아쉬움",
+      "text": "Regret regarding the game system",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "동료 시스템이 게임을 복잡하게 만든다는 아쉬움을 표현했습니다. 동료 시스템 대신 본 캐릭터 육성과 파티 던전 시스템을 늘리거나, 무기 레벨을 통한 패시브 해금 방식이 더 좋았을 것 같다는 의견을 남기며 2일 만에 게임을 그만둔다는 후기입니다.",
+      "text": "They expressed regret that the companion system makes the game complicated. Leaving an opinion that it would have been better to increase main character growth and party dungeon systems instead of the companion system, or use a passive unlocking method through weapon levels, this is a review stating they are quitting the game after 2.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "캐릭터 획득 후기",
+      "text": "Character Acquisition Review",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "로드 캐릭터가 1티어급으로 좋으니 뽑게 된다면 스타팅 캐릭터로 사용해도 괜찮을 것 같다는 의견입니다.",
+      "text": "Since 로드 is good at the 1 tier, they suggest it might be okay to use as a starting character if you pull them.",
+      "unresolvedTerms": [
+        "로드"
+      ]
+    },
+    {
+      "source": "🎉몬스터헌터 아웃랜더스 네이버 카페 OPEN!🎉",
+      "text": "🎉Monster Hunter Outlanders Naver Cafe OPEN!🎉",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "몬스터헌터 아웃랜더스 네이버 카페가 오픈되었으며, 현재 비공식 카페 단독 이벤트가 진행 중이라는 안내입니다.",
+      "text": "This is an announcement that the Monster Hunter Outlanders Naver Cafe has opened, and an exclusive event for the unofficial cafe is currently underway.",
       "unresolvedTerms": []
     },
     {
@@ -3074,6 +4894,46 @@
     {
       "source": "쿠폰을 어디에서 입력해야 하는지 질문하고 있습니다.",
       "text": "This is a question asking where coupons should be entered.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "PC 연결 방법 공유",
+      "text": "Sharing PC Connection Method",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "scrcpy를 설치하여 PC와 휴대폰을 연결하는 방법을 공유하는 후기입니다.",
+      "text": "This is a review sharing how to connect a PC and a phone by installing scrcpy.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "USB C포트나 HDMI 단자를 이용한 유선 연결이 가장 좋지만, scrcpy를 활용하는 방법을 안내하고 있습니다.",
+      "text": "A wired connection using a USB C port or HDMI terminal is best, but we are providing guidance on how to utilize scrcpy.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "컨트롤러 패드를 휴대폰에 블루투스로 연결하여 사용할 수 있습니다.",
+      "text": "You can connect a controller pad to your mobile phone via Bluetooth for use.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "큰 화면으로 콘솔 게임을 하는 듯한 느낌을 받을 수 있다는 장점이 있습니다.",
+      "text": "The advantage is that you can get the feeling of playing a console game on a large screen.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "다만 휴대폰 발열이 심하고 화질이 휴대폰 자체 화면보다 떨어져 몰입감이 낮다는 단점이 있다고 의견을 남겼습니다.",
+      "text": "However, opinions were left stating the disadvantages that phone overheating is severe and the image quality is lower than the phone's own screen, resulting in lower immersion.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "접속 오류 문의",
+      "text": "Connection Error Inquiry",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "특정 화면이 뜨는 현상에 대해 접속 가능 여부를 묻는 질문입니다.",
+      "text": "This is a question asking about connection availability regarding the phenomenon where a specific screen appears.",
       "unresolvedTerms": []
     },
     {
@@ -3340,52 +5200,43 @@
       "unresolvedTerms": []
     },
     {
-      "source": "내용을 확인한 영상 7편 기준 · 개별 영상 출처 포함",
-      "text": "Based on 7 videos after checking the content · Individual video sources included",
+      "source": "내용을 확인한 영상 10편 기준 · 개별 영상 출처 포함",
+      "text": "Based on 10 videos reviewed · individual video sources included",
       "unresolvedTerms": []
     },
     {
-      "source": "게임 시스템 및 전투 방식",
-      "text": "Game System and Combat Style",
+      "source": "게임 시스템 및 조작 방식",
+      "text": "Game System and Control Methods",
       "unresolvedTerms": []
     },
     {
-      "source": "몬스터를 사냥하여 얻은 재료로 무기와 방어구를 제작하는 오픈월드 액션 게임이다. 태도, 대검, 쌍검, 랜스, 활 등 다양한 무기를 사용할 수 있으며 회피, 패링, 필살기 등의 컨트롤이 중요하다. 캐릭터는 역할에 따라 회복, 탱킹, 딜링 등으로 나뉘며, 고유 기술을 가진 모험가 캐릭터는 같은 무기를 사용하더라도 지원형, 돌격형, 교란형 등 서로 다른 전투 방식을 보여준다. 전투 시 공격을 회피하면 연기가 발생하여 몬스터를 약화시킬 수 있다.",
-      "text": "It is an open-world action game where you craft weapons and armor using materials obtained by hunting monsters. You can use various weapons such as Long Sword, Great Sword, Dual Blades, Lance, and Bow, and controls such as dodging, parrying, and ultimate skills are important. Characters are divided into roles such as healing, tanking, and dealing, and adventurer characters with unique skills show different combat styles, such as support, assault, or disruption, even when using the same weapon. During combat, dodging an attack produces smoke, which can weaken the monster.",
+      "source": "모바일 전용 게임으로 PC 에뮬레이터 사용 시 최적화 문제가 발생할 수 있으며, 초보자를 위한 자동 연계 어시스트 모드와 숙련자를 위한 클래식 모드를 제공합니다. 캐릭터 커스터마이징과 외형 설정이 상세하게 가능하며, 무기별로 고유한 공격 방식과 조작 난이도 차이가 존재합니다. 전투는 몬스터의 패턴에 맞춘 회피와 수동 조작이 중요하며, 타격감이 다소 부족하다는 의견이 있습니다.",
+      "text": "As a mobile-only game, optimization issues may occur when using a PC emulator, and it provides an auto-combo assist mode for beginners and a classic mode for experts. Character customization and appearance settings can be done in detail, and there are differences in unique attack methods and control difficulty for each weapon. In combat, dodging according to monster patterns and manual control are important, and there are opinions that the sense of impact is somewhat lacking.",
       "unresolvedTerms": []
     },
     {
-      "source": "모험가 성장 및 수집 요소",
-      "text": "Adventurer Growth and Collection Elements",
+      "source": "캐릭터 및 성장 요소",
+      "text": "Characters and Growth Elements",
       "unresolvedTerms": []
     },
     {
-      "source": "가차(뽑기) 시스템을 통해 SSR 등급의 모험가나 동반자 캐릭터를 수집할 수 있다. SSR 모험가는 상태 이상 특화를 가질 수 있으나, SR 모험가의 특화 수치는 기존보다 10% 하향 조정되었다. 주인공은 깨달음 포인트를 통해 돌파하며, 상점의 깨달음 티켓으로 모험가를 성장시킬 수 있다. 모험가 랭크를 올리기 위해서는 둥지 사냥, 루타 항목 클리어, 에너지 소모를 통한 경험치 수급 등이 필요하다.",
-      "text": "Through the gacha system, you can collect SSR grade adventurers or companion characters. SSR adventurers can possess status ailment specialization, but the specialization values for SR adventurers have been adjusted downward by 10% compared to before. The protagonist breaks through using 깨달음 points, and adventurers can be grown using 깨달음 tickets from the shop. To raise adventurer rank, you need to perform 둥지 사냥, clear 루타 items, and obtain experience through energy consumption.",
-      "unresolvedTerms": [
-        "둥지 사냥",
-        "루타",
-        "깨달음"
-      ]
-    },
-    {
-      "source": "주요 콘텐츠 및 플레이 환경",
-      "text": "Major Content and Play Environment",
+      "source": "콘텐츠 및 플레이 환경",
+      "text": "Content and Play Environment",
       "unresolvedTerms": []
     },
     {
-      "source": "토벌, 격투 대회, 의뢰 사냥, 레이드, 낚시, 길드 생성 및 멀티플레이를 통한 4인 협동 사냥 등 다양한 콘텐츠를 제공한다. 필드에서 자원을 모아 임시 시설과 이동 도구를 제작할 수 있다. 이 게임은 모바일 전용으로 출시되며 PC 버전은 따로 없으나 앱 플레이어를 통해 실행할 수 있다. 모바일 환경에 최적화되어 있어 패드 사용이 권장된다.",
-      "text": "It provides various content such as subjugation, fighting tournaments, commission hunting, raids, fishing, guild creation, and 4 cooperative hunting through multiplayer. You can gather resources in the field to craft temporary facilities and mobile tools. This game will be released exclusively for mobile, and while there is no separate PC version, it can be run through an app player. It is optimized for the mobile environment, so using a pad is recommended.",
+      "source": "최대 4인 협동 플레이가 가능한 거대 몬스터 사냥 게임으로, 실험 원정 파밍과 다양한 경험치 수급처가 존재합니다. 모집 시스템에는 티켓 종류와 천장 제도가 있으며, 과도한 경쟁보다는 외형 아이템 구매 위주의 소과금 운영을 하며 느긋하게 즐기는 것을 추천합니다.",
+      "text": "This is a giant monster hunting game capable of cooperative play with up to 4 players, and there are experimental expedition farming and various sources of experience. The recruitment system includes different ticket types and a pity system; rather than excessive competition, it is recommended to enjoy the game leisurely with low-spending management focused on purchasing cosmetic items.",
       "unresolvedTerms": []
     },
     {
-      "source": "출시 정보 및 서비스 형태",
-      "text": "Release Information and Service Type",
+      "source": "출시 정보",
+      "text": "Release Information",
       "unresolvedTerms": []
     },
     {
-      "source": "10월 29일에 아이폰과 안드로이드로 출시될 예정이다. 기본 플레이는 무료이나 게임 내 구매가 존재하는 방식이다. 언어는 중국어, 일본어, 영어 음성을 지원한다.",
-      "text": "It is scheduled to be released on 10 month 29 day for iPhone and Android. The base play is free, but it follows a model where in-game purchases exist. Languages support Chinese, Japanese, and English voices.",
+      "source": "2025년 10월 29일 아이폰과 안드로이드로 출시되며 기본 플레이는 무료로 제공됩니다. 언어는 중국어, 일본어, 영어를 지원합니다.",
+      "text": "The game will be released on iPhone and Android on 2025 year 10 month 29 day, and basic play is provided for free. Supported languages are Chinese, Japanese, and English.",
       "unresolvedTerms": []
     }
   ]
