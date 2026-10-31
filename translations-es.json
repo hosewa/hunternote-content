@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "language": "es",
-  "publishedAt": "2026-10-30T18:11:12.886806+00:00",
+  "publishedAt": "2026-10-31T18:26:45.438180+00:00",
   "model": "gemma4:26b",
   "entries": [
     {
@@ -539,9 +539,917 @@
       "unresolvedTerms": []
     },
     {
+      "source": "[신작리뷰]몬스터헌터 아웃랜더스 모바일게임 나쁘진 않은데 못하겠습니다.",
+      "text": "[Reseña de nuevo lanzamiento] El juego móvil Monster Hunter Outlanders no está mal, pero no puedo jugarlo.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "몬스터 헌터 아웃랜더스는 모바일로 즐길 수 있는 고퀄리티의 신작 게임입니다.",
+      "text": "몬스터 헌터 아웃랜더스 es un nuevo juego de alta calidad que se puede disfrutar en dispositivos móviles.",
+      "unresolvedTerms": [
+        "몬스터 헌터 아웃랜더스"
+      ]
+    },
+    {
+      "source": "전투 시 상대의 빈틈을 노리는 전략적인 플레이와 다양한 공격 수단이 특징입니다.",
+      "text": "Se caracteriza por un juego estratégico que busca los puntos débiles del oponente durante el combate y por diversos medios de ataque.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "그래픽의 아쉬움과 최적화 부족으로 인한 렉 및 멀미 현상이 발생할 수 있습니다.",
+      "text": "Debido a la decepción con los gráficos y la falta de optimización, pueden producirse lag y mareos.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "게임 명칭은 몬스터 헌터 아웃랜더스이며 10월 29일에 출시되었습니다.",
+      "text": "El nombre del juego es 몬스터 헌터 아웃랜더스 y fue lanzado el 10 de 29.",
+      "unresolvedTerms": [
+        "몬스터 헌터 아웃랜더스"
+      ]
+    },
+    {
+      "source": "몬스터 헌터 시리즈와 비슷한 느낌을 주는 모바일 게임입니다.",
+      "text": "Es un juego móvil que transmite una sensación similar a la serie 몬스터 헌터.",
+      "unresolvedTerms": [
+        "몬스터 헌터"
+      ]
+    },
+    {
+      "source": "PC 버전이 따로 없어서 LD플레이어와 같은 앱 플레이어를 이용해야 합니다.",
+      "text": "Como no existe una versión de PC por separado, es necesario utilizar un emulador de aplicaciones como LD플레이어.",
+      "unresolvedTerms": [
+        "LD플레이어"
+      ]
+    },
+    {
+      "source": "작성자의 의견으로는 모바일 치고는 퀄리티가 높고 잘 만든 게임이라고 생각합니다.",
+      "text": "En opinión del autor, es un juego bien hecho y de alta calidad para ser un título móvil.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "몬스터 헌터 유저들에게는 새로운 장난감이 생긴 느낌일 것이라고 의견을 남겼습니다.",
+      "text": "Se dejó la opinión de que para los usuarios de 몬스터 헌터 será como si hubieran recibido un nuevo juguete.",
+      "unresolvedTerms": [
+        "몬스터 헌터"
+      ]
+    },
+    {
+      "source": "상대의 움직임을 살펴보고 빈틈을 노리거나 공격 시 몸을 지키는 플레이가 필요합니다.",
+      "text": "Es necesario observar los movimientos del oponente para buscar aberturas o jugar protegiendo el cuerpo durante los ataques.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "상대가 빨간색으로 빛나면 공격 모드인 것으로 보입니다.",
+      "text": "Si el oponente brilla en color rojo, parece estar en modo de ataque.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "회피는 타이밍이 중요하며 공격 중에는 회피가 되지 않는 느낌을 받았습니다.",
+      "text": "El tiempo es importante para la evasión, y se tuvo la sensación de que no se puede evadir durante un ataque.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "회피 연계 스킬을 사용할 때는 회피가 되지 않으므로 주의가 필요합니다.",
+      "text": "Se requiere precaución ya que no se puede evadir al utilizar habilidades de evasión en combo.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "몬스터의 다리 파괴나 포획을 직접 수행하는 기능이 있습니다.",
+      "text": "Existe la función de realizar directamente la destrucción de las patas del 몬스터 o su captura.",
+      "unresolvedTerms": [
+        "몬스터"
+      ]
+    },
+    {
+      "source": "필살기, 연계기, 차지 스킬 등 다양한 공격 수단이 존재합니다.",
+      "text": "Existen diversos medios de ataque como movimientos definitivos, ataques en combo y habilidades de carga.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "도감 시스템이 존재하며 39종의 정보가 있는 것으로 보입니다.",
+      "text": "Existe un sistema de enciclopedia y parece que hay información de 39 especies.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "사냥한 몬스터를 도축하는 기능이 있습니다.",
+      "text": "Existe una función para despiezar a los 몬스터 cazados.",
+      "unresolvedTerms": [
+        "몬스터"
+      ]
+    },
+    {
+      "source": "무기 생산 및 사냥력이 높은 무기를 선택하여 사용할 수 있습니다.",
+      "text": "Se pueden seleccionar y utilizar armas con alta producción y capacidad de caza.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "집라인을 타거나 덩쿨을 타는 등의 이동 방식이 있습니다.",
+      "text": "Existen métodos de movimiento como usar un tirolesa o trepar por enredaderas.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "와이어 훅을 이용해 매달려 보수를 얻는 리듬 게임 같은 요소도 있습니다.",
+      "text": "También hay elementos similares a un juego de ritmo donde te cuelgas usando un gancho de cable para obtener recompensas.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "작성자의 의견으로는 그래픽이 조금 아쉽고 한국에서 만든 게임은 아닌 것 같습니다.",
+      "text": "En opinión del autor, los gráficos son un poco decepcionantes y no parece ser un juego hecho en Corea.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "최하 옵션으로 설정해도 렉이 발생하는 등 최적화가 많이 부족하다는 의견입니다.",
+      "text": "Hay opiniones de que la optimización es muy deficiente, ya que ocurren tirones incluso configurando las opciones al mínimo.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "최적화 문제로 인해 화면이 어지럽고 멀미가 날 수 있다고 느꼈습니다.",
+      "text": "Debido a los problemas de optimización, sentí que la pantalla puede resultar mareante y causar náuseas.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "제공 자막 AI 요약",
+      "text": "Resumen de IA de subtítulos proporcionados",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "제공 자막 · ko",
+      "text": "Subtítulos proporcionados · ko",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "게임 개요 및 특징",
+      "text": "Resumen y características del juego",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "전투 시스템 및 조작",
+      "text": "Sistema de combate y controles",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "게임 내 콘텐츠 및 기능",
+      "text": "Contenido y funciones del juego",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "그래픽 및 최적화",
+      "text": "Gráficos y optimización",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "가챠,컨텐츠,필드,캐릭터,무기등등 계속 파먹기! [몬스터헌터 아웃랜더스]",
+      "text": "¡Sigue explorando gacha, contenido, campo, personajes, armas y más! [Monster Hunter Outlanders]",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "다양한 모집 방식과 동반자 가차 시스템을 통해 캐릭터를 획득할 수 있습니다.",
+      "text": "Se pueden obtener personajes a través de diversos métodos de reclutamiento y el sistema de gacha de compañeros.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "캐릭터 돌파와 스탯 강화를 통해 캐릭터의 성능을 높이고 장비 세팅을 맞출 수 있습니다.",
+      "text": "Se puede mejorar el rendimiento de los personajes y ajustar el equipamiento mediante la ruptura de personajes y el fortalecimiento de estadísticas.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "저스트 타이밍 기믹과 캐릭터별 고유 액션을 활용한 전투 메커니즘이 특징입니다.",
+      "text": "Se caracteriza por un mecanismo de combate que utiliza mecánicas de tiempo justo y acciones únicas de cada personaje.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "일반 모집은 상시 모집으로 기본적인 캐릭터들이 등장합니다.",
+      "text": "El reclutamiento general es un reclutamiento permanente donde aparecen personajes básicos.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "순해 모집은 상시 캐릭터 중 픽업 캐릭터가 등장하며, SSR 획득까지 최대 90번의 모집이 필요합니다.",
+      "text": "La convocatoria de 순해 incluye personajes de 픽업 entre los personajes permanentes, y se requieren un máximo de 90 convocatorias para obtener un SSR.",
+      "unresolvedTerms": [
+        "순해",
+        "픽업"
+      ]
+    },
+    {
+      "source": "시작의 모집은 초기에 제공되는 모집 방식입니다.",
+      "text": "La 시작의 모집 es un método de 모집 proporcionado al inicio.",
+      "unresolvedTerms": [
+        "시작의 모집",
+        "모집"
+      ]
+    },
+    {
+      "source": "동반자 가차 시스템이 존재하며, 캐릭터 뽑기와는 별개로 필요할 것으로 보입니다.",
+      "text": "Existe un sistema de 동반자 가차, el cual parece que será necesario independientemente de la obtención de personajes.",
+      "unresolvedTerms": [
+        "동반자 가차"
+      ]
+    },
+    {
+      "source": "캐릭터는 불 속성 등 특정 속성 특화가 있는 것으로 보입니다.",
+      "text": "Parece que los personajes tienen especializaciones en atributos específicos, como el atributo 불.",
+      "unresolvedTerms": [
+        "불"
+      ]
+    },
+    {
+      "source": "월정액 상품은 7,100원이며 매일 루타코인을 지급합니다.",
+      "text": "El producto de suscripción mensual cuesta 7,100 wones y otorga 루타코인 cada día.",
+      "unresolvedTerms": [
+        "루타코인"
+      ]
+    },
+    {
+      "source": "배틀패스는 14,500원입니다.",
+      "text": "El Battle Pass cuesta 14,500 wones.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "모험가를 바로 확정으로 지급하는 혜택이 있습니다.",
+      "text": "Existe el beneficio de otorgar un 모험가 de forma garantizada de inmediato.",
+      "unresolvedTerms": [
+        "모험가"
+      ]
+    },
+    {
+      "source": "누적 결제 시 드롬스틱 헤비 보우건 같은 전용 무기 특전이 제공됩니다.",
+      "text": "Al acumular pagos, se ofrecen beneficios de armas exclusivas como la 드롬스틱 헤비 보우건.",
+      "unresolvedTerms": [
+        "드롬스틱 헤비 보우건"
+      ]
+    },
+    {
+      "source": "깨달음을 사용하여 캐릭터를 강화할 수 있습니다.",
+      "text": "Se puede fortalecer al personaje usando 깨달음.",
+      "unresolvedTerms": [
+        "깨달음"
+      ]
+    },
+    {
+      "source": "캐릭터 돌파를 통해 데미지 증가, 슈퍼 해머 시간 연장, 피하기 판정 시간 연장 등의 효과를 얻을 수 있습니다.",
+      "text": "A través de la ruptura del personaje, se pueden obtener efectos como el aumento de daño, la extensión del tiempo de súper Martillo y la extensión del tiempo de判定 de evasión.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "물리 공격력과 속성 공격력을 올리는 스탯 강화 시스템이 있습니다.",
+      "text": "Existe un sistema de fortalecimiento de estadísticas que aumenta el ataque físico y el ataque elemental.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "레벨 30 상한에 도달하면 다른 종류의 소재가 필요합니다.",
+      "text": "Cuando se alcanza el límite de nivel 30, se requieren otros tipos de materiales.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "장비에는 추천 스킬이 붙어 있는 아이템이 있으며, 이를 통해 세팅을 맞출 수 있습니다.",
+      "text": "Hay objetos con habilidades recomendadas adjuntas al equipo, lo que permite ajustar la configuración.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "저스트 타이밍 기믹이 많이 존재하며, 저스트 회피 후 연계 공격이 가능합니다.",
+      "text": "Existen muchas mecánicas de timing justo, y es posible realizar ataques combinados tras una evasión justa.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "캐릭터마다 고유한 액션 메커니즘이 있어 다른 플레이 경험을 제공합니다.",
+      "text": "Cada personaje tiene un mecanismo de acción único, lo que ofrece una experiencia de juego diferente.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "원거리 무기는 특수 용탄을 사용하며, 상황에 따라 탄종을 변경할 수 있습니다.",
+      "text": "Las armas a distancia utilizan munición especial y se puede cambiar el tipo de munición según la situación.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "장비의 추천 생산 기능을 통해 필요한 장비를 바로 생산할 수 있습니다.",
+      "text": "A través de la función de producción recomendada del equipo, se puede producir el equipo necesario de inmediato.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "멀티플레이를 통해 멤버에게 준비 촉구를 할 수 있습니다.",
+      "text": "A través del modo multijugador, se puede instar a los miembros a prepararse.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "클리어 후 데미지, 회피 횟수, 파티 회복량, 명중률 등 상세한 전투 데이터를 확인할 수 있습니다.",
+      "text": "Tras completar la etapa, se pueden consultar datos de combate detallados como el daño, el número de evasiones, la curación del grupo, la tasa de precisión, etc.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "필드에는 보물 상자가 존재하며, 트레저 크랩 둥지 사냥처럼 한 번에 사냥하는 기능도 있습니다.",
+      "text": "En el campo existen cofres del tesoro, y también hay una función para cazar de una sola vez, como en la caza de nidos de 트레저 크랩.",
+      "unresolvedTerms": [
+        "트레저 크랩"
+      ]
+    },
+    {
+      "source": "사전 예약을 하지 않아도 특별 모집권과 상시 모집권을 받을 수 있습니다.",
+      "text": "Incluso si no se realiza el pre-registro, se pueden recibir tickets de reclutamiento especiales y tickets de reclutamiento permanentes.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "명성 퀘스트를 클리어하면 물리 및 속성 공격력이 오르는 혜택이 있습니다.",
+      "text": "Al completar las misiones de 명성, se obtiene el beneficio de aumentar el ataque físico y de atributo.",
+      "unresolvedTerms": [
+        "명성"
+      ]
+    },
+    {
+      "source": "개인적인 의견으로, 모바일 게임 특유의 복잡한 UI와 눌러야 할 것이 많은 점은 다소 피로할 수 있다고 생각합니다.",
+      "text": "En mi opinión personal, creo que la interfaz de usuario compleja típica de los juegos móviles y el hecho de tener que presionar muchas cosas pueden resultar algo fatigantes.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "모집 및 가차 시스템",
+      "text": "Sistema de reclutamiento y gacha",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "과금 및 유료 상품",
+      "text": "Pagos y productos de pago",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "캐릭터 및 장비 강화",
+      "text": "Fortalecimiento de personajes y equipo",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "전투 및 조작 메커니즘",
+      "text": "Mecanismos de combate y control",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "멀티플레이 및 기타 시스템",
+      "text": "Multijugador y otros sistemas",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "기타 게임 특징",
+      "text": "Otras características del juego",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "몬스터헌터 아웃랜더스 2.5일차 가이드",
+      "text": "Guía de 2.5 días de Monster Hunter Outlanders",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "초반에는 주인공을 중심으로 네 명의 캐릭터에게 재화를 집중 투자하여 육성하는 것이 유리합니다.",
+      "text": "Al principio, es ventajoso centrar la inversión de recursos en el desarrollo de cuatro personajes alrededor del protagonista.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "배틀 패스 레벨을 통해 코지로를 획득할 수 있으며 중복 뽑기로 돌파가 가능합니다.",
+      "text": "Se puede obtener a 코지로 a través del nivel del Battle Pass, y es posible realizar la ruptura mediante duplicados.",
+      "unresolvedTerms": [
+        "코지로"
+      ]
+    },
+    {
+      "source": "사파는 등급별 수집을 통해 사파집 레벨을 올리고 필드 사냥과 갈무리를 통해 파밍할 수 있습니다.",
+      "text": "Se puede subir el nivel de 사파집 mediante la colección por grados de 사파, y se puede farmear a través de la caza en el campo y el despiece.",
+      "unresolvedTerms": [
+        "사파",
+        "사파집"
+      ]
+    },
+    {
+      "source": "성장화가 부족한 초반에는 딱 네 명만 골라서 재화를 투자하는 방식이 유리합니다.",
+      "text": "En las etapas iniciales, cuando la 성장화 es insuficiente, es ventajoso invertir recursos seleccionando solo a cuatro personajes.",
+      "unresolvedTerms": [
+        "성장화"
+      ]
+    },
+    {
+      "source": "추천하는 조합은 주인공, 브릭스, 아케니아, 메들린입니다.",
+      "text": "La combinación recomendada es 주인공, 브릭스, 아케니아, y 메들린.",
+      "unresolvedTerms": [
+        "주인공",
+        "브릭스",
+        "메들린",
+        "아케니아"
+      ]
+    },
+    {
+      "source": "방어적인 조합이 싫다면 메들린 대신 마비 상태 이상을 쓸 수 있는 페페를 투입할 수 있습니다.",
+      "text": "Si no desea una combinación defensiva, puede introducir a 페페, que puede aplicar el estado alterado de parálisis, en lugar de 메들린.",
+      "unresolvedTerms": [
+        "메들린",
+        "페페"
+      ]
+    },
+    {
+      "source": "페페가 없다면 라야를 차선책으로 쓸 수 있지만, 고룡은 함정에 걸리지 않습니다.",
+      "text": "Si no tiene a 페페, puede usar 라야 como alternativa, pero los 고룡 no caen en trampas.",
+      "unresolvedTerms": [
+        "고룡",
+        "페페",
+        "라야"
+      ]
+    },
+    {
+      "source": "시즌 후반에 성장화가 남으면 메들린 대신 불속성 버퍼 류노스케나 용속성 디버퍼 케레스를 교체 요원으로 사용할 예정입니다.",
+      "text": "Si sobra 성장화 hacia el final de la temporada, se planea utilizar a 류노스케, un buffer de atributo fuego, o a 케레스, un debuffer de atributo dragón, como reemplazos en lugar de 메들린.",
+      "unresolvedTerms": [
+        "성장화",
+        "류노스케",
+        "케레스",
+        "메들린"
+      ]
+    },
+    {
+      "source": "재화를 균등하게 분배하지 말고 최후선적으로 주인공에게 자원을 몰아주어야 합니다.",
+      "text": "No distribuya los recursos de manera uniforme; debe concentrar los recursos en 주인공 como prioridad final.",
+      "unresolvedTerms": [
+        "주인공"
+      ]
+    },
+    {
+      "source": "주인공은 레벨, 각인, 무기와 방어구의 강화 레벨을 현재 가능한 최대치까지 달성해야 합니다.",
+      "text": "주인공 debe alcanzar el nivel máximo actual posible en su nivel, 각인, y en el nivel de mejora de sus armas y armaduras.",
+      "unresolvedTerms": [
+        "주인공",
+        "각인"
+      ]
+    },
+    {
+      "source": "자동으로 성장하지만 최대 강화 수준보다 한 단계 낮은 등급으로 고정된 아카네 시리즈 대신 직접 제작한 무기와 장비를 주인공에게 들려주어야 합니다.",
+      "text": "En lugar de la serie 아카네, que crece automáticamente pero queda fijada en un grado un nivel inferior al nivel máximo de mejora, se debe equipar al protagonista con armas y equipo fabricados directamente.",
+      "unresolvedTerms": [
+        "아카네"
+      ]
+    },
+    {
+      "source": "주인공의 아이루는 브릭스가 기본이지만, SSR 동반자를 얻었다면 즉시 교체해야 합니다.",
+      "text": "El Palico del protagonista es 브릭스 por defecto, pero si se obtiene un compañero SSR, debe cambiarse de inmediato.",
+      "unresolvedTerms": [
+        "브릭스"
+      ]
+    },
+    {
+      "source": "최종적으로 파티원 네 명의 동반자는 반드시 SSR 네 마리로 교체해야 합니다.",
+      "text": "Finalmente, los compañeros de los cuatro miembros del grupo deben ser reemplazados obligatoriamente por cuatro SSR.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "무료 배틀 패스 활활화로 60레벨을 달성하면 코지로를 얻을 수 있습니다.",
+      "text": "Al alcanzar el nivel 60 mediante la activación del pase de batalla gratuito, se puede obtener a 코지로.",
+      "unresolvedTerms": [
+        "코지로"
+      ]
+    },
+    {
+      "source": "유료 배틀 패스 펑펑화로는 구매 즉시 코지로를 지급합니다.",
+      "text": "El pase de batalla de pago 펑펑화 otorga a 코지로 inmediatamente después de la compra.",
+      "unresolvedTerms": [
+        "코지로",
+        "펑펑화"
+      ]
+    },
+    {
+      "source": "코지로는 중복 뽑기를 통해 돌파가 가능하며, 베타 기준 총 세 마리를 획득해야 풀돌이 가능합니다.",
+      "text": "코지로 puede potenciarse mediante duplicados en el sorteo, y según la beta, se deben obtener un total de tres para lograr la potenciación máxima.",
+      "unresolvedTerms": [
+        "코지로"
+      ]
+    },
+    {
+      "source": "사파는 희귀, 영웅, 전설의 세 가지 등급이 존재합니다.",
+      "text": "사파 tiene tres grados: Raro, Héroe y Legendario.",
+      "unresolvedTerms": [
+        "사파"
+      ]
+    },
+    {
+      "source": "높은 등급의 사파를 얻으려면 모든 희귀 등급 사파를 수집하여 사파집 레벨을 올려야 합니다.",
+      "text": "Para obtener 사파 de grado alto, se deben coleccionar todos los 사파 de grado Raro para subir el nivel de 사파집.",
+      "unresolvedTerms": [
+        "사파",
+        "사파집"
+      ]
+    },
+    {
+      "source": "사파 드랍 확률은 20%이며, 20번 연속 실패 시 20개의 사파를 주는 확률 보정 시스템이 존재합니다.",
+      "text": "La probabilidad de drop de 사파 es del 20%, y existe un sistema de compensación de probabilidad que otorga 20 사파 tras 20 fallos consecutivos.",
+      "unresolvedTerms": [
+        "사파"
+      ]
+    },
+    {
+      "source": "필드 사냥 메뉴를 통해 몬스터 근처에서 싸운 후 갈무리 시 사파 그리기를 할 수 있습니다.",
+      "text": "A través del menú de caza de campo, se puede realizar el dibujo de 사파 al finalizar el combate cerca de un monstruo.",
+      "unresolvedTerms": [
+        "사파"
+      ]
+    },
+    {
+      "source": "필드 몬스터 전멸 시 친구 목록의 몬스터 아이콘을 통해 하루에 다섯 마리의 몬스터를 뽑아 먹을 수 있습니다.",
+      "text": "Cuando se aniquilan los monstruos del campo, se pueden extraer cinco monstruos al día a través del icono de monstruo en la lista de amigos.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "사파는 주요 효과, 부가 효과, 세트 효과, 채색 효과의 네 가지 성능을 가집니다.",
+      "text": "사파 posee cuatro tipos de rendimiento: efecto principal, efecto adicional, efecto de conjunto y efecto de coloración.",
+      "unresolvedTerms": [
+        "사파"
+      ]
+    },
+    {
+      "source": "주요 효과는 정해진 몬스터가 정해진 효과를 드랍하므로 표적 파밍이 가능합니다.",
+      "text": "Dado que los monstruos determinados sueltan efectos determinados como efecto principal, es posible realizar un farmeo dirigido.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "세트 효과는 일부 랜덤이며, 부가 효과는 옵션 풀이 정해져 있고 수치 차이가 존재합니다.",
+      "text": "El efecto de conjunto es parcialmente aleatorio, mientras que el efecto adicional tiene un grupo de opciones predefinido y existen diferencias en los valores.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "채색은 '붓' 아이템을 사용하여 진행하며, 27개 중 5개의 랜덤 효과를 붙일 수 있습니다.",
+      "text": "La coloración se realiza utilizando el objeto '붓', y se pueden añadir 5 efectos aleatorios de entre 27.",
+      "unresolvedTerms": [
+        "붓"
+      ]
+    },
+    {
+      "source": "채색 실패 시 붓을 소모하여 다시 시도하는 랜덤 리터칭 옵션이 있습니다.",
+      "text": "En caso de fallo en la coloración, existe la opción de retoque aleatorio que consume 붓 para intentar de nuevo.",
+      "unresolvedTerms": [
+        "붓"
+      ]
+    },
+    {
+      "source": "초반 사파에 붓을 쓰기보다는 전설 등급 사파를 위해 붓을 모아두는 것을 추천합니다.",
+      "text": "En lugar de usar 붓 en 사파 al principio, se recomienda ahorrar 붓 para 사파 de grado legendario.",
+      "unresolvedTerms": [
+        "붓",
+        "사파"
+      ]
+    },
+    {
+      "source": "메인 캐릭터는 불, 물, 번개, 얼음, 용의 다섯 가지 속성별로 세트를 맞춰야 합니다.",
+      "text": "El personaje principal debe equipar conjuntos según las cinco propiedades: fuego, agua, rayo, hielo y dragón.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "동료 모험가는 데미지가 낮게 보정되므로 채색 없이 세트 효과만 적절히 맞춰도 됩니다.",
+      "text": "Dado que el daño de los 동료 모험가 está compensado a la baja, es suficiente con ajustar adecuadamente los efectos de conjunto sin usar 채색.",
+      "unresolvedTerms": [
+        "동료 모험가",
+        "채색"
+      ]
+    },
+    {
+      "source": "메들린은 오의 회복 효과가 버프로 계산되므로 데미지 증강 효과를 볼 수 있는 '사파의 은혜' 세트 사용을 추천합니다.",
+      "text": "Como el efecto de recuperación de 오의 de 메들린 se calcula como un buff, se recomienda usar el conjunto '사파의 은혜' para obtener un efecto de aumento de daño.",
+      "unresolvedTerms": [
+        "오의",
+        "메들린",
+        "사파의 은혜"
+      ]
+    },
+    {
+      "source": "초반 캐릭터 육성 및 조합 추천",
+      "text": "Recomendación de crianza y combinación de personajes al inicio",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "사냥력 체크 퀘스트 통과 전략",
+      "text": "Estrategia para pasar la misión de comprobación de 사냥력",
+      "unresolvedTerms": [
+        "사냥력"
+      ]
+    },
+    {
+      "source": "동반자 코지로 획득 방법",
+      "text": "Método para obtener el compañero 코지로",
+      "unresolvedTerms": [
+        "코지로"
+      ]
+    },
+    {
+      "source": "사파(랜덤 급한 호석) 파밍 시스템",
+      "text": "Sistema de farmeo de 사파 (랜덤 급한 호석)",
+      "unresolvedTerms": [
+        "사파",
+        "랜덤 급한 호석"
+      ]
+    },
+    {
+      "source": "사파의 성능 및 채색",
+      "text": "Rendimiento y coloración de 사파",
+      "unresolvedTerms": [
+        "사파"
+      ]
+    },
+    {
+      "source": "사파 세트 구성 및 운용",
+      "text": "Composición y uso del set de 사파",
+      "unresolvedTerms": [
+        "사파"
+      ]
+    },
+    {
+      "source": "2026년 10월 30일 다시보기 / 몬스터헌터 아웃랜더스 (3장~삽화 오픈까지)",
+      "text": "Repetición del 2026 de 10 de 30 / Monster Hunter Outlanders (3 hojas~hasta la apertura de ilustraciones)",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "기기별 최적의 조작 환경과 그래픽 설정을 통해 쾌적한 플레이 방법을 안내합니다.",
+      "text": "Se guía sobre cómo jugar de forma agradable a través del entorno de control y la configuración gráfica óptimos para cada dispositivo.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "캐릭터별 특징과 몬스터의 패턴 및 공략법을 상세히 설명합니다.",
+      "text": "Se explican detalladamente las características de cada personaje, los patrones de los 몬스터 y sus métodos de攻略.",
+      "unresolvedTerms": [
+        "몬스터"
+      ]
+    },
+    {
+      "source": "사파 시스템과 캐릭터 성장 및 아이템 활용법에 대한 정보를 제공합니다.",
+      "text": "Se proporciona información sobre el sistema 사파, el crecimiento de los personajes y el uso de objetos.",
+      "unresolvedTerms": [
+        "사파"
+      ]
+    },
+    {
+      "source": "패드는 필드 탐색 시 편리한 정도이며 완벽하게 대응되는 수준은 아닙니다.",
+      "text": "El mando es conveniente para la exploración del campo, pero no es compatible de forma perfecta.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "모바일 플레이가 재미있고 잘 되지만 장시간 플레이 시 목과 손에 무리가 갈 수 있습니다.",
+      "text": "El juego en dispositivos móviles es divertido y funciona bien, pero jugar durante largos períodos puede causar tensión en el cuello y las manos.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "태블릿 PC를 연결하여 플레이하는 것이 화면 크기 면에서 적당할 것으로 보입니다.",
+      "text": "Parece que jugar conectando una tablet PC sería adecuado en cuanto al tamaño de la pantalla.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "PC 버전이 없는 상태에서 모니터로 크게 보고 싶다면 C to HDMI 케이블을 사용할 수 있습니다.",
+      "text": "Si desea verlo en una pantalla grande sin tener una versión de PC, puede utilizar un cable C a HDMI.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "HDMI로 연결하여 방송할 때는 발열이 거의 느껴지지 않는 현상이 있습니다.",
+      "text": "Al realizar transmisiones conectándose por HDMI, se observa un fenómeno en el que casi no se siente el sobrecalentamiento.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "스킬은 키 설정이 가능합니다.",
+      "text": "Las 스킬 se pueden configurar con teclas.",
+      "unresolvedTerms": [
+        "스킬"
+      ]
+    },
+    {
+      "source": "커스텀 필터 효과에서 블룸(Bloom)을 낮추고 대비를 50 정도까지 올리면 더 선명한 느낌을 받을 수 있습니다.",
+      "text": "En los efectos de filtro personalizado, si se baja el Bloom y se aumenta el contraste hasta aproximadamente 50, se puede obtener una sensación más nítida.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "안티 에일리어싱(AA)을 켜면 그래픽이 다소 뭉개지는 경향이 있습니다.",
+      "text": "Al activar el 안티 에일리어싱(AA), los gráficos tienden a verse algo difusos.",
+      "unresolvedTerms": [
+        "안티 에일리어싱(AA)"
+      ]
+    },
+    {
+      "source": "체력 표시를 왼쪽 정렬 대신 중앙으로 옮기면 눈에 더 잘 들어옵니다.",
+      "text": "Si mueve la 표시 de 체력 al centro en lugar de la alineación a la izquierda, será más fácil de ver.",
+      "unresolvedTerms": [
+        "체력",
+        "표시"
+      ]
+    },
+    {
+      "source": "모린 모드를 켜면 개인적인 경험상 공격이 잘 맞지 않는 느낌이 들 수 있습니다.",
+      "text": "En mi experiencia personal, si se activa el 모린 모드, puede dar la sensación de que los ataques no conectan bien.",
+      "unresolvedTerms": [
+        "모린 모드"
+      ]
+    },
+    {
+      "source": "필살기 연출 설정은 기본적으로 꺼져 있으므로 필요 시 켤 수 있습니다.",
+      "text": "La configuración de la animación de la 필살기 está desactivada por defecto, por lo que se puede activar si es necesario.",
+      "unresolvedTerms": [
+        "필살기"
+      ]
+    },
+    {
+      "source": "헌터의 타입을 교란형, 지원형 등으로 전환하면 아이루의 타입도 함께 바뀌는 것으로 보입니다.",
+      "text": "Parece que al cambiar el tipo de 헌터 a 교란형, 지원형, etc., el tipo de Palico también cambia.",
+      "unresolvedTerms": [
+        "헌터",
+        "교란형",
+        "지원형"
+      ]
+    },
+    {
+      "source": "페페 캐릭터는 조준 방향이 중요하며, 마비 상태를 이용한 궁극기 활용이 특징입니다.",
+      "text": "Para el personaje 페페, la dirección de la mira es importante, y su característica es el uso de la 궁극기 aprovechando el estado de parálisis.",
+      "unresolvedTerms": [
+        "궁극기",
+        "페페"
+      ]
+    },
+    {
+      "source": "케레스는 지원형, 교란형, 돌격형으로 구분되며 교란형은 용 속성을 가지고 행동 제약과 디버프를 사용합니다.",
+      "text": "케레스 se divide en 지원형, 교란형 y 돌격형; el tipo 교란형 tiene el atributo de dragón y utiliza restricciones de movimiento y debuffs.",
+      "unresolvedTerms": [
+        "케레스",
+        "지원형",
+        "교란형",
+        "돌격형"
+      ]
+    },
+    {
+      "source": "케레스는 선참 시 무적 상태가 되어 직접 사용하기에 나쁘지 않을 것 같다는 개인적인 의견이 있습니다.",
+      "text": "En mi opinión personal, como 케레스 entra en estado de invencibilidad al atacar primero, no parece una mala opción para usar directamente.",
+      "unresolvedTerms": [
+        "케레스"
+      ]
+    },
+    {
+      "source": "미돌리 캐릭터는 섬광 스킬이 없는 것으로 확인되었습니다.",
+      "text": "Se ha confirmado que el personaje 미돌리 no tiene la habilidad 섬광.",
+      "unresolvedTerms": [
+        "미돌리",
+        "섬광"
+      ]
+    },
+    {
+      "source": "미돌리 사용 시 연기 게이지를 가득 채워야 하는 특징이 있습니다.",
+      "text": "Al usar 미돌리, tiene la característica de que se debe llenar completamente la barra de humo.",
+      "unresolvedTerms": [
+        "미돌리"
+      ]
+    },
+    {
+      "source": "아케니아는 쉴드 기능이 중요하며 직접 사용하기에도 나쁘지 않은 성능을 가집니다.",
+      "text": "아케니아 tiene una función de escudo importante y posee un rendimiento que no es malo para usarlo directamente.",
+      "unresolvedTerms": [
+        "아케니아"
+      ]
+    },
+    {
+      "source": "윤광종은 대형 몬스터이며, 약점 속성이 두 배가 되는 특징이 있습니다.",
+      "text": "윤광종 es un monstruo de gran tamaño y tiene la característica de que su atributo de debilidad se duplica.",
+      "unresolvedTerms": [
+        "윤광종"
+      ]
+    },
+    {
+      "source": "안자나프는 목의 특산 기관에서 연소 보조를 방출하며 화염 브레스를 만드는데, 목을 우선적으로 공격해야 합니다.",
+      "text": "안자나프 emite asistencia de combustión desde un órgano especializado en su cuello para crear un aliento de fuego, por lo que se debe atacar el cuello prioritariamente.",
+      "unresolvedTerms": [
+        "안자나프"
+      ]
+    },
+    {
+      "source": "열상 상태에서는 구르면 안 된다는 주의가 필요하며, 대부분의 상태 이상은 구르기를 통해 해제할 수 있습니다.",
+      "text": "En el estado de 열상, se debe tener cuidado de no rodar, aunque la mayoría de los estados alterados pueden eliminarse mediante la acción de rodar.",
+      "unresolvedTerms": [
+        "열상"
+      ]
+    },
+    {
+      "source": "몬스터의 포효는 매우 빠르며, 실드 상태나 배후 위치에 따라 피격 여부가 달라질 수 있습니다.",
+      "text": "El rugido del monstruo es muy rápido, y si se recibe el impacto o no puede variar según el estado de escudo o la posición en la parte posterior.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "윤광 몬스터가 광폭화하여 백금색 빛을 발할 때는 움찔하지 않습니다.",
+      "text": "Cuando un monstruo 윤광 entra en estado de frenesí y emite una luz platino, no se amilana.",
+      "unresolvedTerms": [
+        "윤광"
+      ]
+    },
+    {
+      "source": "사파는 모험가의 힘을 품은 그림을 말하며, 사파를 장비하면 모험가의 능력이 대폭 증가합니다.",
+      "text": "사파 se refiere a una pintura que contiene el poder de un aventurero, y al equipar 사파, las habilidades del aventurero aumentan drásticamente.",
+      "unresolvedTerms": [
+        "사파"
+      ]
+    },
+    {
+      "source": "사파를 많이 먹을수록 사파집 레벨이 올라가며, 레벨이 높을수록 높은 랭크의 사파가 드롭되기 쉬워집니다.",
+      "text": "Cuanto más 사파 se consuman, mayor será el nivel de 사파집, y cuanto mayor sea el nivel, más fácil será que se suelten 사파 de mayor rango.",
+      "unresolvedTerms": [
+        "사파",
+        "사파집"
+      ]
+    },
+    {
+      "source": "사파 드롭 확률은 20%이며, 필드 사냥을 통해 획득할 수 있습니다.",
+      "text": "La probabilidad de drop de 사파 es del 20% y se puede obtener mediante caza en el campo.",
+      "unresolvedTerms": [
+        "사파"
+      ]
+    },
+    {
+      "source": "사파의 등급에는 희귀, 영웅, 전설 등이 있는 것으로 보입니다.",
+      "text": "Parece que los grados de 사파 incluyen 희귀, 영웅, 전설, entre otros.",
+      "unresolvedTerms": [
+        "사파",
+        "희귀",
+        "영웅",
+        "전설"
+      ]
+    },
+    {
+      "source": "사파는 속성별로 구분되어 있으며 속성 데미지를 올려주는 기능이 있습니다.",
+      "text": "사파 está dividido por atributos y tiene la función de aumentar el daño de atributo.",
+      "unresolvedTerms": [
+        "사파"
+      ]
+    },
+    {
+      "source": "특훈을 통해 캐릭터를 돌파할 수 있고, 각인 시스템을 활용하여 캐릭터를 강화할 수 있습니다.",
+      "text": "A través del entrenamiento especial se puede realizar el avance del personaje, y se puede fortalecer al personaje utilizando el sistema de grabado.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "모험단 세트를 착용하면 자동으로 희귀도가 올라가므로 무난하게 사용하기 좋습니다.",
+      "text": "Al equipar el set de 모험단, la rareza aumenta automáticamente, por lo que es bueno para usar sin complicaciones.",
+      "unresolvedTerms": [
+        "모험단"
+      ]
+    },
+    {
+      "source": "발명 시스템을 통해 채집 도구인 철곡괭이를 제작하면 채집량이 늘어납니다.",
+      "text": "Si fabricas el 철곡괭¹, que es una herramienta de recolección, a través de 발명 시스템, la cantidad de recolección aumentará.",
+      "unresolvedTerms": [
+        "철곡괭",
+        "발명 시스템"
+      ]
+    },
+    {
+      "source": "동반자 레벨은 최대 40까지 올릴 수 있습니다.",
+      "text": "El nivel del compañero se puede subir hasta un máximo de 40.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "공명의 결정은 스킬 강화나 마지막 강화 시 사용하는 소재로 보입니다.",
+      "text": "Parece que los 공명의 결정 son materiales que se utilizan para la mejora de habilidades o en la última mejora.",
+      "unresolvedTerms": [
+        "공명의 결정"
+      ]
+    },
+    {
+      "source": "생태 레벨업은 가능할 때마다 바로바로 해주는 것이 좋습니다.",
+      "text": "Es recomendable realizar la 생태 레벨업 en cuanto sea posible.",
+      "unresolvedTerms": [
+        "생태 레벨업"
+      ]
+    },
+    {
+      "source": "기기 및 조작 환경",
+      "text": "Dispositivo y entorno de control",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "그래픽 및 화면 설정",
+      "text": "Configuración de gráficos y pantalla",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "캐릭터 및 전투 정보",
+      "text": "Información de personajes y combate",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "몬스터 및 전투 시스템",
+      "text": "Monstruos y sistema de combate",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "사파 시스템 및 수집",
+      "text": "Sistema 사파 y colección",
+      "unresolvedTerms": [
+        "사파"
+      ]
+    },
+    {
+      "source": "성장 및 아이템 시스템",
+      "text": "Sistema de crecimiento y objetos",
+      "unresolvedTerms": []
+    },
+    {
       "source": "몬스터헌터 아웃랜더스 첫 플레이!",
       "text": "¡Monster Hunter Outlanders primera partida!",
       "unresolvedTerms": []
+    },
+    {
+      "source": "아웃랜더스는 PC 클라이언트가 없어 에뮬레이터를 사용해야 하며 모바일 환경의 최적화가 더 뛰어납니다.",
+      "text": "아웃랜더스 no tiene cliente de PC, por lo que se debe usar un emulador, y su optimización para el entorno móvil es superior.",
+      "unresolvedTerms": [
+        "아웃랜더스"
+      ]
     },
     {
       "source": "조작 모드와 그래픽 설정 및 부위 선택 팔레트 등 다양한 편의 시스템을 제공합니다.",
@@ -552,6 +1460,15 @@
       "source": "무기별로 조작 난이도가 다르며 차액이 가장 높고 태도와 차액의 주요 모션이 존재합니다.",
       "text": "La dificultad de control varía según el arma, existe la mayor diferencia y existen los movimientos principales de Espada larga y la diferencia.",
       "unresolvedTerms": []
+    },
+    {
+      "source": "아웃랜더스는 PC 버전 클라이언트가 없어 블루스택이나 LD 플레이어 같은 에뮬레이터를 사용해야 합니다.",
+      "text": "아웃랜더스 no tiene cliente de versión de PC, por lo que se deben usar emuladores como 블루스택 o LD 플레이어.",
+      "unresolvedTerms": [
+        "아웃랜더스",
+        "블루스택",
+        "LD 플레이어"
+      ]
     },
     {
       "source": "에뮬레이터 사용 시 그래픽이나 색상이 깨지는 현상이 발생할 수 있어 불안정할 수 있습니다.",
@@ -682,16 +1599,6 @@
       ]
     },
     {
-      "source": "제공 자막 AI 요약",
-      "text": "Resumen de IA de subtítulos proporcionados",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "제공 자막 · ko",
-      "text": "Subtítulos proporcionados · ko",
-      "unresolvedTerms": []
-    },
-    {
       "source": "게임 플랫폼 및 최적화 정보",
       "text": "Plataforma de juego e información de optimización",
       "unresolvedTerms": []
@@ -737,66 +1644,93 @@
       "unresolvedTerms": []
     },
     {
-      "source": "몬스터의 패턴에 맞춘 기술 사용과 회피 타이밍이 중요한 컨트롤 중심의 전투 시스템을 갖추고 있습니다.",
-      "text": "Cuenta con un sistema de combate centrado en el control, donde es importante el uso de habilidades y el tiempo de evasión adaptado a los patrones de los 몬스터.",
+      "source": "몬스터의 패턴에 맞춰 기술을 사용해야 하는 전투 시스템과 무기별 특징을 설명합니다.",
+      "text": "Explica el sistema de combate, donde se deben usar habilidades según los patrones de los 몬스터, y las características de cada arma.",
       "unresolvedTerms": [
         "몬스터"
       ]
     },
     {
-      "source": "캐릭터의 속성과 장비 세트 효과를 고려한 전략적인 장비 세팅 및 소재 파밍이 필요합니다.",
-      "text": "Es necesario realizar un farmeo de materiales y una configuración de equipo estratégica que considere los atributos del personaje y los efectos de los sets de equipo.",
+      "source": "소재 파밍을 통한 장비 제작과 캐릭터 및 펫의 성장 방식에 대한 정보를 제공합니다.",
+      "text": "Proporciona información sobre la fabricación de equipo mediante el farmeo de materiales y los métodos de crecimiento de los 캐릭터 y 펫.",
+      "unresolvedTerms": [
+        "캐릭터",
+        "펫"
+      ]
+    },
+    {
+      "source": "과금 없이도 즐길 수 있는 운영 방식과 효율적인 과금에 대한 개인적인 의견을 담고 있습니다.",
+      "text": "Contiene opiniones personales sobre el modo de gestión que permite disfrutar sin realizar pagos y sobre cómo realizar pagos de manera eficiente.",
       "unresolvedTerms": []
     },
     {
-      "source": "과도한 경쟁보다는 느긋하게 즐기는 것을 추천하며 외형 아이템 구매 위주의 소과금 운영이 가능합니다.",
-      "text": "Se recomienda disfrutar con calma en lugar de una competencia excesiva, y es posible operar con un gasto bajo centrado en la compra de objetos cosméticos.",
+      "source": "원거리 공격 시 에임이 자동으로 잡아주는 기능이 있습니다.",
+      "text": "Existe una función que ajusta automáticamente la mira al realizar ataques a distancia.",
       "unresolvedTerms": []
     },
     {
-      "source": "전투 방식은 몬스터 헌터와 거의 유사합니다.",
-      "text": "El estilo de combate es casi similar al de 몬스터 헌터.",
+      "source": "몬스터의 공격을 피할 때는 스텝뿐만 아니라 옆으로 피하거나 두 번 연속으로 피해야 하는 상황이 발생합니다.",
+      "text": "Al esquivar los ataques de los 몬스터, surgen situaciones en las que no solo se debe usar el step, sino también esquivar hacia los lados o esquivar dos veces consecutivas.",
+      "unresolvedTerms": [
+        "몬스터"
+      ]
+    },
+    {
+      "source": "고압 가드 저스트 회피와 공격 강화, 약점 공격 등의 기술이 존재합니다.",
+      "text": "Existen técnicas como el guardia de alta presión, la evasión justa, el fortalecimiento de ataque y el ataque a puntos débiles.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "긴급 피하기 버튼이 별도로 존재합니다.",
+      "text": "Existe un botón de evasión de emergencia por separado.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "자동 사냥 개념이 아니므로 몬스터 패턴에 맞춰 기술을 사용해야 합니다.",
+      "text": "No es un concepto de caza automática, por lo que se deben usar las técnicas de acuerdo con los patrones del monstruo.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "몬스터와의 전투 방식은 몬스터 헌터와 거의 유사합니다.",
+      "text": "El estilo de combate con los monstruos es casi similar al de 몬스터 헌터.",
       "unresolvedTerms": [
         "몬스터 헌터"
       ]
     },
     {
-      "source": "캐릭터의 기술을 익히고 몬스터 패턴에 맞춰 기술을 사용하는 컨트롤 게임입니다.",
-      "text": "Es un juego de control donde se aprenden las habilidades del personaje y se utilizan de acuerdo con los patrones de los 몬스터.",
-      "unresolvedTerms": [
-        "몬스터"
-      ]
-    },
-    {
-      "source": "스텝 관리와 회피 타이밍이 중요하며, 몬스터의 공격에 따라 옆으로 피하거나 두 번 연속으로 피해야 할 때가 있습니다.",
-      "text": "La gestión de los pasos y el tiempo de evasión son importantes; dependiendo del ataque del 몬스터, habrá ocasiones en las que se deba esquivar hacia un lado o esquivar dos veces consecutivas.",
-      "unresolvedTerms": [
-        "몬스터"
-      ]
-    },
-    {
-      "source": "원거리 무기는 에임이 자동으로 잡아주는 기능이 있어 편리합니다.",
-      "text": "Las armas a distancia son convenientes porque tienen una función de asistencia de apuntado automático.",
+      "source": "원거리 무기 중 헤비건은 무난하며, 활은 데미지가 강력하여 사용하기 좋습니다.",
+      "text": "Entre las armas a distancia, la Heavy Gun es aceptable, y Arco es buena para usar debido a su potente daño.",
       "unresolvedTerms": []
     },
     {
-      "source": "활 사용 시 차지 스텝으로 회피하는 것이 편하지만, 별도의 회피 버튼을 눌러야 하는 점은 다소 불편할 수 있다는 개인적인 의견이 있습니다.",
-      "text": "Al usar Arco, es cómodo esquivar con un paso de carga, pero existe la opinión personal de que puede resultar algo incómodo el tener que presionar un botón de esquiva por separado.",
+      "source": "근거리 무기로는 랜스를 추천합니다.",
+      "text": "Como arma de corto alcance, se recomienda Lanza.",
       "unresolvedTerms": []
     },
     {
-      "source": "태도 사용 시 턴 동작 없이 바로 간파가 가능합니다.",
-      "text": "Al usar Espada larga, es posible realizar una 간파 inmediata sin movimientos de giro.",
-      "unresolvedTerms": [
-        "간파"
-      ]
+      "source": "무기는 사고파는 것이 아니라 몬스터를 잡고 소재를 파밍해서 만드는 방식입니다.",
+      "text": "Las armas no se compran ni se venden, sino que se fabrican cazando monstruos y recolectando materiales.",
+      "unresolvedTerms": []
     },
     {
-      "source": "메인 캐릭터는 모든 종류의 무기를 사용할 수 있지만, 뽑기로 획득한 캐릭터는 무기 종류가 한정되어 있습니다.",
-      "text": "El personaje principal puede usar todo tipo de armas, pero los personajes obtenidos mediante 뽑기 tienen tipos de armas limitados.",
-      "unresolvedTerms": [
-        "뽑기"
-      ]
+      "source": "활 세팅 시 속성(용, 번개, 수속성 등)을 맞추는 것이 중요합니다.",
+      "text": "Al realizar una configuración de Arco, es importante ajustar el atributo (dragón, rayo, atributo de agua, etc.).",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "장비의 성급은 16성까지 존재합니다.",
+      "text": "La rareza del equipo llega hasta 16 estrellas.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "장비 장착 시 코스트가 존재합니다.",
+      "text": "Existe un coste al equipar equipo.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "캐릭터 등급에는 SR, SSR 등이 존재합니다.",
+      "text": "En cuanto al grado de los personajes, existen SR, SSR, etc.",
+      "unresolvedTerms": []
     },
     {
       "source": "주인공 캐릭터는 SSR 등급입니다.",
@@ -804,177 +1738,127 @@
       "unresolvedTerms": []
     },
     {
-      "source": "류노스케는 SR 등급이며 태도를 독특하게 사용하는 캐릭터입니다.",
-      "text": "류노스케 es de grado SR y es un personaje que utiliza Espada larga de una manera única.",
+      "source": "캐릭터 뽑기 캐릭터는 무기 종류가 한정되어 있으나, 메인 캐릭터는 모든 무기를 사용할 수 있습니다.",
+      "text": "Los personajes de la 뽑기 tienen tipos de armas limitados, pero los personajes principales pueden usar todas las armas.",
       "unresolvedTerms": [
-        "류노스케"
+        "뽑기"
       ]
     },
     {
-      "source": "루카는 번개 속성 활을 사용하는 캐릭터로 보입니다.",
-      "text": "루카 parece ser un personaje que utiliza Arco de atributo rayo.",
+      "source": "지원형 SSR 펫은 동료에게 실드를 부여할 수 있으며, 패시브 효과로 동료에게 실드를 부여했을 때 자신이 주는 용속성 데미지가 30% 증가합니다.",
+      "text": "Las mascotas SSR de tipo apoyo pueden otorgar un escudo a los aliados y, mediante un efecto pasivo, cuando otorgan un escudo a un aliado, su daño de atributo 용속성 aumenta un 30%.",
       "unresolvedTerms": [
-        "루카"
+        "용속성"
       ]
     },
     {
-      "source": "케레스는 방어구가 예쁘다는 의견이 있습니다.",
-      "text": "Existe la opinión de que la armadura de 케레스 es bonita.",
+      "source": "돌격형 펫은 같은 형의 캐릭터에게만 사용 가능한 것으로 보입니다.",
+      "text": "Parece que las 펫 de tipo asalto solo pueden utilizarse con personajes del mismo tipo.",
       "unresolvedTerms": [
-        "케레스"
+        "펫"
       ]
     },
     {
-      "source": "애매한 SSR보다는 강화가 많이 되는 SR이 더 나을 수 있다는 개인적인 의견이 있습니다.",
-      "text": "Existe la opinión personal de que un SR que se pueda 강화 mucho puede ser mejor que un SSR mediocre.",
+      "source": "장비 강화 및 레벨업을 위해 소재 파밍이 필수적입니다.",
+      "text": "Para la mejora y el aumento de nivel del equipo, es esencial el farmeo de materiales.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "깨달음 포인트를 얻기 위해 퀘스트를 수행하거나 뽑기(가챠)를 활용합니다.",
+      "text": "Para obtener puntos de 깨달음, se deben realizar misiones o utilizar la 뽑기(가챠).",
       "unresolvedTerms": [
-        "강화"
+        "뽑기(가챠)",
+        "깨달음"
       ]
     },
     {
-      "source": "캐릭터의 속성에 맞는 무기를 장착하면 속성 데미지가 올라가며, 다른 속성 무기 사용 시에는 페널티가 적용됩니다.",
-      "text": "Si equipas un arma que coincida con la 속성 del personaje, el daño de 속성 aumentará, mientras que se aplicará una penalización al usar armas de otra 속성.",
-      "unresolvedTerms": [
-        "속성"
-      ]
-    },
-    {
-      "source": "장비 세팅 시 몬스터를 잡아서 얻는 사파를 장착하며, 사파의 능력치는 랜덤하게 설정됩니다.",
-      "text": "Al configurar el equipo, se equipa 사파 obtenido al derrotar 몬스터, y las estadísticas de 사파 se establecen de forma aleatoria.",
-      "unresolvedTerms": [
-        "사파",
-        "몬스터"
-      ]
-    },
-    {
-      "source": "사파 세트 장착 시 4개면 불속성 데미지가 증가하고, 2세트 장착 시 제압 부여와 멤버 전원의 데미지 2.2% 증가 효과가 있습니다.",
-      "text": "Al equipar un set de 사파 de 4 unidades, el daño de 불속성 aumenta, y al equipar un set de 2, tiene el efecto de otorgar 제압 e incrementar el daño de todos los miembros en un 2.2%.",
-      "unresolvedTerms": [
-        "사파",
-        "불속성",
-        "제압"
-      ]
-    },
-    {
-      "source": "장비에는 코스트 개념이 존재합니다.",
-      "text": "En el equipo existe el concepto de 코스트.",
-      "unresolvedTerms": [
-        "코스트"
-      ]
-    },
-    {
-      "source": "무기는 거래하는 것이 아니라 몬스터를 잡고 소재를 파밍하여 만드는 방식입니다.",
-      "text": "Las armas no se intercambian, sino que se fabrican mediante el método de derrotar 몬스터 y farmear 소재.",
-      "unresolvedTerms": [
-        "몬스터",
-        "소재"
-      ]
-    },
-    {
-      "source": "용 속성 무기는 나중에 고룡을 잡을 때 좋을 것으로 보입니다.",
-      "text": "Parece que las armas de 속성 용 serán útiles cuando se derrote a 고룡 más adelante.",
-      "unresolvedTerms": [
-        "속성",
-        "용",
-        "고룡"
-      ]
-    },
-    {
-      "source": "망대 레벨을 5까지 올리는 것이 필요합니다.",
-      "text": "Es necesario subir el nivel de 망대 hasta 5.",
+      "source": "망대 레벨을 5까지 올리기 위해서는 많은 소재를 모아야 합니다.",
+      "text": "Para subir el nivel de 망대 hasta 5, es necesario reunir muchos materiales.",
       "unresolvedTerms": [
         "망대"
       ]
     },
     {
-      "source": "깨달음 포인트는 퀘스트를 통해 얻을 수 있으며, 나머지는 뽑기를 통해 얻는 것으로 보입니다.",
-      "text": "Parece que los puntos 깨달음 se pueden obtener a través de misiones, y el resto se obtiene mediante sorteos.",
+      "source": "몬스터를 잡아서 사파를 얻을 수 있으며, 장착 시 능력치는 랜덤입니다.",
+      "text": "Se puede obtener 사파 derrotando 몬스터, y las estadísticas al equiparlo son aleatorias.",
       "unresolvedTerms": [
-        "깨달음"
+        "사파",
+        "몬스터"
       ]
     },
     {
-      "source": "레벨업을 위해 100만 경험치를 모아야 하는 구간이 있습니다.",
-      "text": "Hay tramos en los que se debe acumular 100만 de experiencia para subir de nivel.",
-      "unresolvedTerms": []
+      "source": "사파 세트 4개를 장착하면 불속성 데미지가 증가합니다.",
+      "text": "Al equipar 4 piezas del set 사파, el daño de atributo fuego aumenta.",
+      "unresolvedTerms": [
+        "사파"
+      ]
     },
     {
-      "source": "처음 잡는 몬스터는 한 번 잡을 때 경험치를 300씩 줍니다.",
-      "text": "El primer 몬스터 que captures otorga 300 de experiencia por cada vez que lo captures.",
+      "source": "사파 세트 2~3세트를 장착하면 멤버 전원이 5일 발동할 때마다 주는 데미지가 2.2% 증가하며, 60초 동안 중첩됩니다.",
+      "text": "Al equipar 2~3 sets de 사파, cada vez que todos los miembros estén 5, el daño infligido aumenta un 2.2% y se acumula durante 60 segundos.",
+      "unresolvedTerms": [
+        "사파"
+      ]
+    },
+    {
+      "source": "보스 자그라스와 윤광종 몬스터가 존재합니다.",
+      "text": "Existen el jefe 자그라스 y el 몬스터 윤광종.",
+      "unresolvedTerms": [
+        "자그라스",
+        "몬스터",
+        "윤광종"
+      ]
+    },
+    {
+      "source": "대형 몬스터에게는 데미지 100을 주고 조그만 애들은 10씩 줍니다.",
+      "text": "A los 몬스터 de gran tamaño se les inflige un daño de 100, mientras que a los pequeños se les inflige 10.",
       "unresolvedTerms": [
         "몬스터"
       ]
     },
     {
-      "source": "16레벨까지는 뚫을 수 있을 것 같으나 17레벨 도달이 관건이며, 25레벨이나 26레벨 구간에서 막히는 체감이 강하게 느껴질 수 있습니다.",
-      "text": "Parece que se podrá llegar hasta el nivel 16, pero la clave es alcanzar el nivel 17, y se puede sentir fuertemente un estancamiento en los tramos de nivel 25 o nivel 26.",
-      "unresolvedTerms": []
+      "source": "산타로스의 데미지 1회 적중률은 0.9입니다.",
+      "text": "La tasa de acierto de 1 de daño de 산타로스 es 0.9.",
+      "unresolvedTerms": [
+        "산타로스"
+      ]
     },
     {
-      "source": "캐릭터의 레벨뿐만 아니라 기술을 모두 익히는 것이 중요합니다.",
-      "text": "Es importante no solo el nivel del personaje, sino también aprender todas las habilidades.",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "필드에서 대형 몬스터를 사냥해야 하는 미션이 있습니다.",
-      "text": "Hay misiones en las que se debe cazar a un 몬스터 de gran tamaño en el campo.",
+      "source": "몬스터의 약점 속성을 파악하여 공격하는 것이 효율적입니다.",
+      "text": "Es eficiente atacar tras identificar el atributo de debilidad del 몬스터.",
       "unresolvedTerms": [
         "몬스터"
       ]
     },
     {
-      "source": "특정 항목을 해금하기 위해서는 30번을 수행해야 하는 조건이 있습니다.",
-      "text": "Para desbloquear un elemento específico, existe la condición de tener que realizar 30 veces una acción.",
+      "source": "현질을 크게 하지 않아도 즐길 수 있으며, 아예 안 해도 된다는 개인적인 의견이 있습니다.",
+      "text": "Existe la opinión personal de que se puede disfrutar sin gastar mucho dinero, e incluso sin gastar nada en absoluto.",
       "unresolvedTerms": []
     },
     {
-      "source": "루가알다 콘텐츠는 11월 7일 새벽 5시쯤 오픈될 예정입니다.",
-      "text": "El contenido 루가알다 está previsto que se abra alrededor de las 5 horas del 7 de 11.",
-      "unresolvedTerms": [
-        "루가알다"
-      ]
-    },
-    {
-      "source": "현재 몬스터가 39마리 정도 구현되어 있으며, 앞으로 업데이트를 통해 추가될 예정입니다.",
-      "text": "Actualmente se han implementado alrededor de 39 몬스터, y se planea añadir más mediante futuras actualizaciones.",
-      "unresolvedTerms": [
-        "몬스터"
-      ]
-    },
-    {
-      "source": "사진을 찍는 퀘스트 형태의 미션이 있는 것으로 보입니다.",
-      "text": "Parece que existen misiones en forma de quests para tomar fotos.",
+      "source": "7,100원 정도의 상품은 가성비가 괜찮다고 생각합니다.",
+      "text": "Creo que los productos de alrededor de 7,100 tienen una buena relación calidad-precio.",
       "unresolvedTerms": []
     },
     {
-      "source": "특정 랭크인 27랭크에 도달하면 장비 파밍을 위한 필드 사냥이나 경험치 파밍을 진행합니다.",
-      "text": "Al alcanzar un rango específico, el rango 27, se realiza caza en el campo para el farmeo de equipo o el farmeo de experiencia.",
+      "source": "리니지라이크처럼 경쟁에 무리하게 돈을 쓰는 것은 추천하지 않습니다.",
+      "text": "No recomiendo gastar dinero excesivamente en la competencia, como en los juegos tipo Lineage.",
       "unresolvedTerms": []
     },
     {
-      "source": "현질을 크게 하지 않거나 아예 안 해도 게임을 즐기는 데 문제가 없을 것 같다는 개인적인 의견이 있습니다.",
-      "text": "Existe la opinión personal de que no parece haber problemas para disfrutar del juego incluso si no se gasta mucho dinero o si no se gasta nada en absoluto.",
+      "source": "과금은 데미지, 방어력, 기술 수치 상승에 이득이 있지만 필수는 아니라고 생각합니다.",
+      "text": "Pienso que el pago ofrece beneficios en el aumento de daño, defensa y valores de habilidad, pero no es indispensable.",
       "unresolvedTerms": []
     },
     {
-      "source": "리니지라이크처럼 경쟁을 위해 무리하게 돈을 쓰는 것보다는 느긋하게 즐기는 것을 추천한다는 개인적인 의견이 있습니다.",
-      "text": "Existe la opinión personal de que se recomienda disfrutar con calma en lugar de gastar dinero excesivamente para competir como en un 리니지라이크.",
-      "unresolvedTerms": [
-        "리니지라이크"
-      ]
-    },
-    {
-      "source": "과금은 굳이 필수는 아니며, 외형 아이템을 사고 싶을 때 하는 것이 좋다는 의견이 있습니다.",
-      "text": "Existe la opinión de que el pago no es estrictamente necesario y que es mejor hacerlo cuando se quieran comprar objetos cosméticos.",
+      "source": "아이템을 잘 주면 갓겜, 안 주면 쓰레기 게임이라는 개인적인 의견이 있습니다.",
+      "text": "Existe la opinión personal de que si los objetos se otorgan bien, es un gran juego, y si no, es un juego basura.",
       "unresolvedTerms": []
     },
     {
-      "source": "아이템을 잘 주면 갓겜이고 안 주면 쓰레기 게임이라는 개인적인 의견이 있습니다.",
-      "text": "Existe la opinión personal de que si los objetos caen bien es un 갓겜 y si no caen es un 쓰레기 게임.",
-      "unresolvedTerms": [
-        "갓겜",
-        "쓰레기 게임"
-      ]
+      "source": "장기적으로 서비스될 가능성이 높은 게임이라고 생각합니다.",
+      "text": "Creo que es un juego con una alta probabilidad de ofrecer servicio a largo plazo.",
+      "unresolvedTerms": []
     },
     {
       "source": "전투 및 조작 시스템",
@@ -982,28 +1866,28 @@
       "unresolvedTerms": []
     },
     {
-      "source": "캐릭터 및 무기 정보",
-      "text": "Información de personajes y armas",
+      "source": "무기 및 장비 정보",
+      "text": "Información de armas y equipo",
       "unresolvedTerms": []
     },
     {
-      "source": "장비 및 속성 시스템",
-      "text": "Sistema de equipo y atributos",
+      "source": "캐릭터 및 펫 시스템",
+      "text": "Sistema de personaje y pet",
       "unresolvedTerms": []
     },
     {
-      "source": "성장 및 육성 요소",
-      "text": "Elementos de crecimiento y desarrollo",
+      "source": "성장 및 파밍 요소",
+      "text": "Elementos de crecimiento y farmeo",
       "unresolvedTerms": []
     },
     {
-      "source": "미션 및 콘텐츠",
-      "text": "Misiones y contenido",
+      "source": "몬스터 정보",
+      "text": "Información de monstruos",
       "unresolvedTerms": []
     },
     {
-      "source": "과금 및 서비스 관련 의견",
-      "text": "Opiniones sobre pagos y servicios",
+      "source": "과금 및 운영에 대한 의견",
+      "text": "Opiniones sobre monetización y gestión",
       "unresolvedTerms": []
     },
     {
@@ -2255,237 +3139,11 @@
       "unresolvedTerms": []
     },
     {
-      "source": "[아웃랜더스] 같은 무기인데 전투는 딴판? '몬스터헌터 아웃랜더스' 모험가 시스템",
-      "text": "¿Misma arma pero el combate es totalmente distinto? El sistema de aventureros 'Monster Hunter Outlanders' en [아웃랜더스]",
+      "source": "【MHO】 콘텐츠 크리에이터 ‘모험가 길드’ 모집 안내",
+      "text": "【MHO】 Guía de reclutamiento de creadores de contenido '모험가 길드'",
       "unresolvedTerms": [
-        "아웃랜더스"
+        "모험가 길드"
       ]
-    },
-    {
-      "source": "랜스, 활, 쌍검 등 각 무기군별로 서로 다른 특징과 역할을 수행하는 다양한 모험가 캐릭터들이 존재합니다.",
-      "text": "Existen diversos personajes aventureros que desempeñan diferentes características y roles según cada grupo de armas, como Lanza, Arco y Espadas dobles.",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "새로운 모험가 추가에 따라 기존 무기를 활용하는 방식이 변화할 수 있으며 게임은 10월 29일에 출시됩니다.",
-      "text": "Con la adición de nuevos aventureros, la forma de utilizar las armas existentes puede cambiar, y el juego se lanzará el 10 de 29.",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "자유롭게 무기를 선택하는 기본 모험가가 존재합니다.",
-      "text": "Existen aventureros básicos que pueden elegir sus armas libremente.",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "고유 기술을 가진 여러 모험가 캐릭터가 등장합니다.",
-      "text": "Aparecen varios personajes de aventureros con habilidades únicas.",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "고유 모험가는 각자 정해진 무기와 역할을 가지고 있습니다.",
-      "text": "Cada aventurero único tiene un arma y un rol determinados.",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "고유 모험가는 함께 사냥하는 동료로 데려가거나 직접 조작할 수 있습니다.",
-      "text": "Los aventureros únicos pueden llevarse como compañeros de caza o controlarse directamente.",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "지원형인 아케니아는 공격으로 투지를 쌓고 이를 소비해 강력한 일격과 대량의 실드를 얻습니다.",
-      "text": "아케니아, de tipo apoyo, acumula 투지 mediante ataques y consume esto para obtener un golpe poderoso y una gran cantidad de escudos.",
-      "unresolvedTerms": [
-        "아케니아",
-        "투지"
-      ]
-    },
-    {
-      "source": "돌격형인 폴리오는 돌진과 반격으로 예기 레벨을 높이고 강력한 찌르기로 몬스터를 압박합니다.",
-      "text": "폴리오, de tipo asalto, aumenta 예기 레벨 mediante embestidas y contraataques, y presiona a los monstruos con estocadas poderosas.",
-      "unresolvedTerms": [
-        "폴리오",
-        "예기 레벨"
-      ]
-    },
-    {
-      "source": "돌격형 루카는 저스트 회피 성공 시 모아쏘기가 즉시 최고 단계에 도달하는 특징을 활용합니다.",
-      "text": "루카, de tipo asalto, aprovecha la característica de que su carga de ataque alcanza instantáneamente el nivel máximo al lograr una evasión perfecta.",
-      "unresolvedTerms": [
-        "루카"
-      ]
-    },
-    {
-      "source": "지원형 메들린은 독병과 포자를 활용해 몬스터에게 피해를 주며 주변 아군을 강화합니다.",
-      "text": "메들린, de tipo apoyo, inflige daño a los monstruos utilizando frascos de veneno y esporas, mientras fortalece a los aliados cercanos.",
-      "unresolvedTerms": [
-        "메들린"
-      ]
-    },
-    {
-      "source": "라야는 스태미나를 소비해 귀인 게이지를 빠르게 확보하고 귀인화 상태에서 공격을 몰아칩니다.",
-      "text": "라야 consume estamina para asegurar rápidamente la 귀인 게이지 y lanza ataques intensos en estado 귀인화.",
-      "unresolvedTerms": [
-        "귀인 게이지",
-        "라야",
-        "귀인화"
-      ]
-    },
-    {
-      "source": "기존 몬스터 헌터가 무기 선택을 고민했다면, 아웃랜더스는 무기를 사용할 캐릭터까지 선택지에 더했습니다.",
-      "text": "Si en el 몬스터 헌터 original la duda residía en la elección del arma, en 아웃랜더스 se ha añadido también la elección del personaje que utilizará el arma.",
-      "unresolvedTerms": [
-        "몬스터 헌터",
-        "아웃랜더스"
-      ]
-    },
-    {
-      "source": "새로운 모험가가 추가될 때마다 기존 무기를 색다르게 활용하는 사냥법이 등장할 수 있습니다.",
-      "text": "Cada vez que se añada un nuevo 모험가, pueden surgir métodos de caza que utilicen las armas existentes de manera diferente.",
-      "unresolvedTerms": [
-        "모험가"
-      ]
-    },
-    {
-      "source": "몬스터 헌터 아웃랜더스는 10월 29일에 출시됩니다.",
-      "text": "몬스터 헌터 아웃랜더스 se lanzará el 10 de 29.",
-      "unresolvedTerms": [
-        "몬스터 헌터 아웃랜더스"
-      ]
-    },
-    {
-      "source": "몬스터 헌터 아웃랜더스 캐릭터 시스템",
-      "text": "Sistema de personajes de 몬스터 헌터 아웃랜더스",
-      "unresolvedTerms": [
-        "몬스터 헌터 아웃랜더스"
-      ]
-    },
-    {
-      "source": "랜스 사용 모험가 비교",
-      "text": "Comparación de 모험가 que usan Lanza",
-      "unresolvedTerms": [
-        "모험가"
-      ]
-    },
-    {
-      "source": "활 사용 모험가 비교",
-      "text": "Comparación de 모험가 que usan Arco",
-      "unresolvedTerms": [
-        "모험가"
-      ]
-    },
-    {
-      "source": "쌍검 사용 모험가 비교",
-      "text": "Comparación de aventureros usados en Espadas dobles",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "게임의 특징 및 출시 정보",
-      "text": "Características del juego e información de lanzamiento",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "몬스터 헌터 아웃랜더스｜휴대폰으로 몬헌?! 4인 사냥·모험가 역할 살펴보기",
-      "text": "Monster Hunter Outlanders｜¡¿Monster Hunter en el móvil?! Explorando los roles de caza y aventurero con 4",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "모바일 환경에서 최대 4인 협동 플레이가 가능한 거대 몬스터 사냥 게임입니다.",
-      "text": "Es un juego de caza de monstruos gigantes que permite un juego cooperativo de hasta 4 en entornos móviles.",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "모험가는 공격, 방해, 지원 역할로 나뉘며 각 캐릭터마다 고유한 전투 방식을 가집니다.",
-      "text": "Los aventureros se dividen en roles de ataque, obstrucción y apoyo, y cada personaje tiene su propio estilo de combate.",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "10월 29일 아이폰과 안드로이드로 출시되며 기본 플레이는 무료로 제공됩니다.",
-      "text": "Se lanzará para iPhone y Android el 29 de 10, y el juego básico se ofrecerá de forma gratuita.",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "휴대폰에서 거대 몬스터를 사냥하는 게임입니다.",
-      "text": "Es un juego de cazar monstruos gigantes en el teléfono móvil.",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "혼자 탐험하고 사냥하거나 친구들과 최대 네 명이 함께할 수 있습니다.",
-      "text": "Puedes explorar y cazar solo, o jugar con hasta cuatro amigos.",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "필드에서 자원을 모아 임시 시설과 이동 도구를 만듭니다.",
-      "text": "Reúne recursos en el campo para crear instalaciones temporales y herramientas de movimiento.",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "공식 시연에서는 장치를 설치한 뒤 줄을 타고 다른 지점으로 이동하는 모습을 보여줍니다.",
-      "text": "En la demostración oficial, se muestra cómo se instala un dispositivo y luego se viaja por una cuerda hacia otro punto.",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "모험가는 공격, 몬스터 방해, 동료 지원 역할로 나뉩니다.",
-      "text": "Los aventureros se dividen en roles de ataque, interferencia de 몬스터 y apoyo a compañeros.",
-      "unresolvedTerms": [
-        "몬스터"
-      ]
-    },
-    {
-      "source": "태도 캐릭터는 회피에서 반격으로 이어지는 전투를 합니다.",
-      "text": "Los personajes Espada larga realizan combates que pasan de la evasión al contraataque.",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "대검 캐릭터는 힘을 모아 강한 마무리 공격을 넣습니다.",
-      "text": "Los personajes Gran espada cargan fuerza para realizar un fuerte ataque de remate.",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "공식 출시일은 10월 29일이며 아이폰과 안드로이드에서 이용 가능합니다.",
-      "text": "La fecha de lanzamiento oficial es el 10 de 29 y estará disponible en iPhone y Android.",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "기본 플레이는 무료이지만 게임 안 구매가 존재합니다.",
-      "text": "El juego es gratuito, pero existen compras dentro del juego.",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "성장에 필요한 시간과 비용은 출시 후 확인하는 것이 좋겠다는 개인적인 의견입니다.",
-      "text": "En mi opinión personal, sería mejor verificar el tiempo y el costo necesarios para el crecimiento después del lanzamiento.",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "빠른 공격을 피해야 하므로 기기에서 화면과 조작이 얼마나 안정적인지 확인하는 것이 중요해 보입니다.",
-      "text": "Dado que se deben evitar ataques rápidos, parece importante verificar qué tan estables son la pantalla y los controles en el dispositivo.",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "본편과 똑같은 구조를 기대한다면 모험과 역할의 차이를 살펴보는 것이 좋겠다는 개인적인 의견입니다.",
-      "text": "En mi opinión personal, si se espera una estructura idéntica a la versión principal, sería conveniente observar la diferencia entre la aventura y el rol.",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "몬스터 헌터 아운더스 게임 특징",
-      "text": "Características del juego 몬스터 헌터 아운더스",
-      "unresolvedTerms": [
-        "몬스터 헌터 아운더스"
-      ]
-    },
-    {
-      "source": "모험가 역할 및 전투 방식",
-      "text": "Rol de aventurero y modo de combate",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "출시 정보 및 과금 체계",
-      "text": "Información de lanzamiento y sistema de monetización",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "플레이 시 고려 사항",
-      "text": "Consideraciones al jugar",
-      "unresolvedTerms": []
     },
     {
       "source": "【MHO】 모험단 모집 응원 이벤트",
@@ -2583,6 +3241,62 @@
       "source": "【MHO】 상점 상시 상품 안내",
       "text": "【MHO】 Guía de productos permanentes de la tienda",
       "unresolvedTerms": []
+    },
+    {
+      "source": "2026년 10월 29일 정식 오픈 시 추가되는 게임 내 상시 판매 상품 구성을 안내합니다.",
+      "text": "Se informa la configuración de los productos de venta permanente en el juego que se añadirán al lanzamiento oficial el 29 de 10 de 2026.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "모험가 원정 팩은 정식 오픈 후 전체 상품 구매 완료 시까지 판매되며, 특정 상품은 조건에 따라 오픈되고 누적 구매 수량에 따라 상시/특별 모집권 및 SSR 관련 보상을 획득할 수 있습니다.",
+      "text": "El 모험가 원정 팩 se venderá desde el lanzamiento oficial hasta que se complete la compra de todos los productos; ciertos productos se abrirán según las condiciones, y se pueden obtener tickets de reclutamiento permanentes/especiales y recompensas relacionadas con SSR según la cantidad de compras acumuladas.",
+      "unresolvedTerms": [
+        "모험가 원정 팩"
+      ]
+    },
+    {
+      "source": "초보자 팩은 정식 오픈 후 별도 안내 시까지 판매되며, 계정당 1회 구매 가능한 상품이 포함되어 있습니다.",
+      "text": "El 초보자 팩 se venderá desde el lanzamiento oficial hasta que se anuncie por separado, e incluye productos que pueden comprarse 1 veces por cuenta.",
+      "unresolvedTerms": [
+        "초보자 팩"
+      ]
+    },
+    {
+      "source": "주간 셀렉트 상품은 정식 오픈 후 별도 안내 시까지 판매되며, 매주 무료 상품을 포함하여 주간 단위로 구매 제한이 있는 다양한 상품이 구성되어 있습니다.",
+      "text": "Los productos semanales de selección se venderán desde el lanzamiento oficial hasta nuevo aviso, y cada semana se compondrán de diversos productos con límites de compra semanales, incluyendo productos gratuitos.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "월간 셀렉트 상품은 정식 오픈 후 별도 안내 시까지 판매되며, 매월 무료 상품을 포함하여 월 단위로 구매 제한이 있는 상품들이 제공됩니다.",
+      "text": "Los productos mensuales de selección se venderán desde el lanzamiento oficial hasta nuevo aviso, y cada mes se ofrecerán productos con límites de compra mensuales, incluyendo productos gratuitos.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "기원 - 견고한 방패의 맹세는 정식 오픈 후 별도 안내 시까지 판매되며, 다양한 아이템과 특별 모집권 등을 획득할 수 있습니다.",
+      "text": "기원 - 견고한 방패의 맹세 se venderá desde el lanzamiento oficial hasta nuevo aviso, y se podrán obtener diversos objetos y tickets de reclutamiento especiales, etc.",
+      "unresolvedTerms": [
+        "기원 - 견고한 방패의 맹세"
+      ]
+    },
+    {
+      "source": "덧입기 상품은 정식 오픈 후 별도 안내 시까지 판매되며, 캐릭터, 무기, 동반자 전용 아이템을 다양한 획득 방식(할인 판매, 첫 결제 특전, 기원 콘텐츠, 누적 결제 특전 등)으로 제공합니다.",
+      "text": "Los productos de 덧입기 se venderán desde el lanzamiento oficial hasta nuevo aviso, y se ofrecerán objetos exclusivos para 캐릭터, 무기 y 동반자 mediante diversos métodos de obtención (ventas con descuento, beneficios por primera compra, contenido de 기원, beneficios por compra acumulada, etc.).",
+      "unresolvedTerms": [
+        "덧입기",
+        "캐릭터",
+        "무기",
+        "동반자",
+        "기원"
+      ]
+    },
+    {
+      "source": "재화 상품 및 누적 결제 보너스는 정식 오픈 후 별도 안내 시까지 제공되며, 유료 결제로 획득한 아카하네 코인의 누적 개수에 따라 모집권, 치장품, 덧입기 등 단계별 보상이 지급됩니다.",
+      "text": "Los productos de moneda y los bonos por compra acumulada se ofrecerán desde el lanzamiento oficial hasta nuevo aviso, y se entregarán recompensas por etapas, como 모집권, cosméticos y 덧입기, según la cantidad acumulada de 아카하네 코인 obtenida mediante pagos de pago.",
+      "unresolvedTerms": [
+        "모집권",
+        "덧입기",
+        "아카하네 코인"
+      ]
     },
     {
       "source": "【MHO】 '흘러가는 단풍 소리' 이벤트 시작！🍁",
@@ -3977,8 +4691,8 @@
       "unresolvedTerms": []
     },
     {
-      "source": "헤비보우건의 성능이나 랜스의 티어 등 무기 성능에 관한 의견이 있습니다.",
-      "text": "Existen opiniones sobre el rendimiento de las armas, como el rendimiento de Ballesta pesada o el tier de Lanza.",
+      "source": "무기 성능과 관련하여 헤비보우건이 강력하다는 의견과 특정 무기 티어에 대한 이견이 존재합니다.",
+      "text": "Con respecto al rendimiento de las armas, existen opiniones de que Ballesta pesada es poderoso y desacuerdos sobre el tier de ciertas armas.",
       "unresolvedTerms": []
     },
     {
@@ -3997,27 +4711,22 @@
       "unresolvedTerms": []
     },
     {
-      "source": "리세마라 계정 구매 문의",
-      "text": "Consulta sobre la compra de cuentas de 리세마라",
+      "source": "미도리 팬아트",
+      "text": "Fanart de 미도리",
       "unresolvedTerms": [
-        "리세마라"
+        "미도리"
       ]
     },
     {
-      "source": "특정 리세마라 계정의 구매 가치에 대해 질문하며 구매 여부를 묻고 있습니다.",
-      "text": "Se pregunta sobre el valor de compra de una cuenta de 리세마라 específica y si vale la pena adquirirla.",
+      "source": "사용자가 게임 캐릭터 미도리를 직접 그린 그림을 게시했습니다.",
+      "text": "Un usuario ha publicado un dibujo realizado por él mismo del personaje del juego 미도리.",
       "unresolvedTerms": [
-        "리세마라"
+        "미도리"
       ]
     },
     {
-      "source": "계정 가격이 지나치게 비싸므로 차라리 직접 게임 내 결제를 하는 것이 효율적이라는 의견이 주를 이룹니다.",
-      "text": "Predomina la opinión de que, dado que el precio de las cuentas es excesivamente alto, es más eficiente realizar las compras directamente dentro del juego.",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "해당 게시글이 계정 판매를 위한 홍보글이라는 부정적인 반응이 있습니다.",
-      "text": "Hay reacciones negativas indicando que la publicación es un anuncio para la venta de cuentas.",
+      "source": "그림이 귀엽다는 반응과 함께 추가적인 작업물을 기대하는 의견이 있습니다.",
+      "text": "Hay reacciones diciendo que el dibujo es lindo y opiniones que esperan trabajos adicionales.",
       "unresolvedTerms": []
     },
     {
@@ -4033,25 +4742,6 @@
     {
       "source": "한국 서버가 제외된 것에 대한 불만과 코드를 공유해 준 것에 대한 감사 인사가 있습니다.",
       "text": "Hay quejas sobre la exclusión del servidor coreano y agradecimientos por haber compartido los códigos.",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "미도리 팬아트",
-      "text": "Fanart de 미도리",
-      "unresolvedTerms": [
-        "미도리"
-      ]
-    },
-    {
-      "source": "사용자가 게임 캐릭터 미도리를 직접 그린 그림을 게시했습니다.",
-      "text": "Un usuario ha publicado un dibujo realizado por él mismo del personaje del juego 미도리.",
-      "unresolvedTerms": [
-        "미도리"
-      ]
-    },
-    {
-      "source": "그림이 귀엽고 사랑스럽다는 긍정적인 반응과 추가적인 작업물을 기대하는 의견이 있습니다.",
-      "text": "Hay reacciones positivas que dicen que el dibujo es lindo y adorable, así como opiniones que esperan trabajos adicionales.",
       "unresolvedTerms": []
     },
     {
@@ -4079,22 +4769,88 @@
       "unresolvedTerms": []
     },
     {
-      "source": "리세마라 성공 후 결제 의사",
-      "text": "Intención de pago tras el éxito de 리세마라",
+      "source": "몬스터헌터 아웃랜더스 초반 파티 구성 제안",
+      "text": "Sugerencia de composición de equipo inicial para Monster Hunter Outlanders",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "초반 단계에서 활용하기 좋은 캐릭터 조합과 파티 편성 방식을 공유하고 있습니다.",
+      "text": "Se comparten combinaciones de personajes y métodos de formación de equipos que son buenos para utilizar en las etapas iniciales.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "특정 캐릭터를 서포터로 활용하여 대미지를 높이는 전략이 언급되었습니다.",
+      "text": "Se ha mencionado una estrategia para aumentar el daño utilizando a un 캐릭터 específico como 서포터.",
+      "unresolvedTerms": [
+        "캐릭터",
+        "서포터"
+      ]
+    },
+    {
+      "source": "재화 부족 문제로 인해 모든 캐릭터를 육성하기 어려우므로 주인공을 주력으로 사용하는 의견이 있습니다.",
+      "text": "Debido al problema de la escasez de moneda, es difícil desarrollar a todos los 캐릭터, por lo que existe la opinión de utilizar al 주인공 como principal.",
+      "unresolvedTerms": [
+        "캐릭터",
+        "주인공"
+      ]
+    },
+    {
+      "source": "매들린, 아케니아, 라야, 케레스 등의 캐릭터를 조합하여 안정성을 높이는 구성 방식에 대해 논의하고 있습니다.",
+      "text": "Se está debatiendo sobre un método de composición para aumentar la estabilidad combinando personajes como 매들린, 아케니아, 라야 y 케레스.",
+      "unresolvedTerms": [
+        "케레스",
+        "아케니아",
+        "매들린",
+        "라야"
+      ]
+    },
+    {
+      "source": "리세마라 계정 구매 문의",
+      "text": "Consulta sobre la compra de cuentas de 리세마라",
       "unresolvedTerms": [
         "리세마라"
       ]
     },
     {
-      "source": "리세마라를 통해 원하는 결과를 얻었으며, 이에 따라 패키지 상품을 구매할 계획이라고 밝혔습니다.",
-      "text": "Se ha obtenido el resultado deseado mediante 리세마라 y, en consecuencia, se ha manifestado el plan de comprar paquetes de productos.",
+      "source": "특정 리세마라 계정의 구매 가치에 대해 질문하며 구매 여부를 묻고 있습니다.",
+      "text": "Se pregunta sobre el valor de compra de una cuenta de 리세마라 específica y si vale la pena adquirirla.",
       "unresolvedTerms": [
         "리세마라"
       ]
     },
     {
-      "source": "성공한 작성자에 대해 부러움을 표하거나 게시글을 차단하겠다는 반응이 있습니다.",
-      "text": "Hay reacciones que expresan envidia hacia el autor que tuvo éxito o que indican que bloquearán la publicación.",
+      "source": "계정 판매 가격이 높으니 차라리 직접 게임 내 결제를 하는 것이 효율적이라는 의견이 주를 이룹니다.",
+      "text": "Predomina la opinión de que, dado que el precio de venta de las cuentas es alto, es más eficiente realizar compras directamente dentro del juego.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "해당 게시글이 계정 판매를 위한 홍보글이라는 부정적인 반응이 있습니다.",
+      "text": "Hay reacciones negativas indicando que la publicación es un anuncio para la venta de cuentas.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "게임 캐릭터 티어 정보",
+      "text": "Información de los niveles de personajes del juego",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "작성자는 특정 캐릭터들을 S등급과 F등급으로 분류하여 정보를 공유했습니다.",
+      "text": "El autor compartió información clasificando ciertos personajes en grado S y grado F.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "S등급에는 여성 주인공, 케레스, 메들린 등이 포함되었으며, F등급에는 남성 주인공, 엔쇼우, 아케니아 등이 포함되었습니다.",
+      "text": "El grado S incluye a la protagonista femenina, 케레스, 메들린, etc., mientras que el grado F incluye al protagonista masculino, 엔쇼우, 아케니아, etc.",
+      "unresolvedTerms": [
+        "케레스",
+        "메들린",
+        "아케니아",
+        "엔쇼우"
+      ]
+    },
+    {
+      "source": "성별에 따라 등급이 차이 나는 이유에 대한 의문이 제기되었습니다.",
+      "text": "Se han planteado dudas sobre la razón por la cual los grados varían según el género.",
       "unresolvedTerms": []
     },
     {
@@ -4122,53 +4878,54 @@
       ]
     },
     {
-      "source": "게스트 계정 생성 후 우편 보상을 활용하고, 원하는 결과가 나오지 않으면 계정 삭제를 통해 리세마라를 진행하는 방법을 설명하고 있습니다. 튜토리얼 진행 팁과 닉네임 변경 대기 시간 등에 대한 정보가 포함되어 있습니다.",
-      "text": "Se explica el método de crear una cuenta de invitado, aprovechar las recompensas del correo y, si no se obtiene el resultado deseado, realizar el reroll mediante la eliminación de la cuenta. Se incluye información sobre consejos para avanzar en el tutorial y el tiempo de espera para el cambio de apodo.",
+      "source": "게스트 계정 생성 후 우편 보상을 활용해 뽑기를 진행하고, 원하는 결과가 나오지 않으면 계정을 삭제하는 방식입니다. 튜토리얼 진행 시 특정 조작을 최소화하거나 몬스터의 패턴을 무시하는 등의 팁과 닉네임 변경 대기 시간 관련 정보가 포함되어 있습니다.",
+      "text": "El método consiste en crear una cuenta de invitado, utilizar las recompensas del correo para realizar tiradas y, si no se obtiene el resultado deseado, eliminar la cuenta. Incluye consejos como minimizar ciertas operaciones durante el tutorial o ignorar los patrones de los 몬스터, así como información sobre el tiempo de espera para el cambio de apodo.",
+      "unresolvedTerms": [
+        "몬스터"
+      ]
+    },
+    {
+      "source": "작성자가 설명한 계정 삭제 및 닉네임 변경 절차에 대해 확인하는 의견이 있습니다.",
+      "text": "Existen opiniones que verifican el procedimiento de eliminación de cuenta y cambio de apodo explicado por el autor.",
       "unresolvedTerms": []
     },
     {
-      "source": "작성자가 설명한 리세마라 절차를 확인하거나 게임 서버 선택에 대해 의견을 나누는 반응이 있습니다.",
-      "text": "Hay reacciones que consisten en verificar el procedimiento de reroll explicado por el autor o en intercambiar opiniones sobre la selección del servidor del juego.",
+      "source": "한국 서버 이용에 대한 긍정적인 의견이 제시되었습니다.",
+      "text": "Se han presentado opiniones positivas sobre el uso del servidor coreano.",
       "unresolvedTerms": []
     },
     {
-      "source": "몬스터헌터 아웃랜더스 초반 파티 구성 제안",
-      "text": "Sugerencia de composición de equipo inicial para Monster Hunter Outlanders",
+      "source": "캐릭터와 무기 매칭 관련 질문",
+      "text": "Preguntas relacionadas con la combinación de personajes y armas",
       "unresolvedTerms": []
     },
     {
-      "source": "초반 단계에서 활용하기 좋은 캐릭터 조합과 파티 편성 방식을 공유하고 있습니다.",
-      "text": "Se comparten combinaciones de personajes y métodos de formación de equipos que son buenos para utilizar en las etapas iniciales.",
+      "source": "캐릭터의 티어표에 맞춰 특정 무기만을 사용해야 하는지, 캐릭터와 무기 종류를 다르게 설정해도 되는지에 대한 질문입니다.",
+      "text": "Es una pregunta sobre si se debe usar únicamente un arma específica siguiendo la tier list de los personajes, o si es posible configurar diferentes tipos de personajes y armas.",
       "unresolvedTerms": []
     },
     {
-      "source": "특정 캐릭터를 서포터로 활용하여 대미지를 높이는 방식이나 생존력을 높이는 조합에 대한 의견이 있습니다.",
-      "text": "Existen opiniones sobre métodos para aumentar el daño utilizando personajes específicos como soportes, o combinaciones para aumentar la supervivencia.",
+      "source": "캐릭터별로 사용 가능한 무기군이 정해져 있다는 의견과, 효율보다는 개인의 취향에 맞춰 자유롭게 플레이해도 된다는 의견이 있습니다.",
+      "text": "Existen opiniones de que hay grupos de armas predeterminados para cada personaje, y otras que sugieren que se puede jugar libremente según la preferencia personal en lugar de la eficiencia.",
       "unresolvedTerms": []
     },
     {
-      "source": "캐릭터 육성에 필요한 재화 부담 때문에 주인공을 메인 딜러로 활용하는 방안이 언급되었습니다.",
-      "text": "Debido a la carga de recursos necesarios para el desarrollo de personajes, se ha mencionado la opción de utilizar al protagonista como el atacante principal.",
-      "unresolvedTerms": []
+      "source": "리세마라 성공 후 결제 의사",
+      "text": "Intención de pago tras el éxito de 리세마라",
+      "unresolvedTerms": [
+        "리세마라"
+      ]
     },
     {
-      "source": "캐릭터의 성능과 육성 가치에 대해 각자의 플레이 스타일을 고려해야 한다는 반응이 있습니다.",
-      "text": "Hay reacciones que indican que se debe considerar el estilo de juego de cada uno respecto al rendimiento y el valor de crianza del personaje.",
-      "unresolvedTerms": []
+      "source": "리세마라를 통해 원하는 결과를 얻었으며, 이에 따라 패키지 상품을 구매할 계획이라고 밝혔습니다.",
+      "text": "Se ha obtenido el resultado deseado mediante 리세마라 y, en consecuencia, se ha manifestado el plan de comprar paquetes de productos.",
+      "unresolvedTerms": [
+        "리세마라"
+      ]
     },
     {
-      "source": "게임 티어표에 대한 의견",
-      "text": "Opiniones sobre la tier list del juego",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "게임의 밸런스 상태와 티어표의 신뢰성에 대해 회의적인 반응을 보이고 있습니다.",
-      "text": "Se muestran reacciones escépticas sobre el estado del equilibrio del juego y la fiabilidad de la tier list.",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "개인의 취향에 따라 성능 체감이 다르므로 티어표가 큰 의미가 없다는 의견과 유행하는 캐릭터를 사용하는 것이 좋다는 의견이 있습니다.",
-      "text": "Existen opiniones de que la tier list no tiene mucho sentido debido a que la percepción del rendimiento varía según el gusto personal, y otras que sugieren que es mejor usar los personajes que están de moda.",
+      "source": "성공한 작성자에 대해 부러움을 표하거나 게시글을 차단하겠다는 반응이 있습니다.",
+      "text": "Hay reacciones que expresan envidia hacia el autor que tuvo éxito o que indican que bloquearán la publicación.",
       "unresolvedTerms": []
     },
     {
@@ -4187,25 +4944,63 @@
       "unresolvedTerms": []
     },
     {
+      "source": "커스터마이징 공유 관련",
+      "text": "Relacionado con el uso compartido de la personalización",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "본문 정보 부족으로 내용을 요약할 수 없습니다.",
+      "text": "No es posible resumir el contenido debido a la falta de información en el texto principal.",
+      "unresolvedTerms": []
+    },
+    {
       "source": "특정 캐릭터 티어표 평가 논란",
       "text": "Controversia sobre la evaluación de la tier list de ciertos personajes",
       "unresolvedTerms": []
     },
     {
-      "source": "작성자는 매들린이 힐링 능력을 이유로 S급에 포함된 티어표의 기준에 의문을 제기했습니다.",
-      "text": "El autor cuestionó los criterios de la tabla de niveles que incluye a 매들린 en el rango S debido a su capacidad de curación.",
-      "unresolvedTerms": [
-        "매들린"
-      ]
-    },
-    {
-      "source": "티어표가 신뢰하기 어렵거나 AI로 자동 생성된 공략글이라는 의견이 있습니다.",
-      "text": "Hay opiniones de que la tabla de niveles es difícil de confiar o que es una guía generada automáticamente por IA.",
+      "source": "작성자는 특정 캐릭터가 성능 근거 없이 높은 등급으로 분류된 티어표의 신뢰성에 의문을 제기했습니다.",
+      "text": "El autor cuestionó la fiabilidad de la tier list, donde ciertos personajes fueron clasificados con un rango alto sin una base de rendimiento.",
       "unresolvedTerms": []
     },
     {
-      "source": "특정 캐릭터 조합이 유용하다는 의견과 캐릭터에 대한 질문이 있습니다.",
-      "text": "Existen opiniones de que ciertas combinaciones de personajes son útiles y preguntas sobre los personajes.",
+      "source": "해당 티어표가 조회수를 목적으로 생성된 AI 자동 생성물이라는 의견이 있습니다.",
+      "text": "Hay opiniones de que dicha tier list es un producto generado automáticamente por IA con el objetivo de obtener visualizaciones.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "일부 사용자는 특정 캐릭터 조합의 성능을 언급하며 티어표 내용에 반박하거나 질문을 던졌습니다.",
+      "text": "Algunos usuarios refutaron o plantearon preguntas sobre el contenido de la tier list mencionando el rendimiento de combinaciones de personajes específicos.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "게임 티어표에 대한 의견",
+      "text": "Opiniones sobre la tier list del juego",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "게임의 밸런스 상태와 티어표의 신뢰성에 대해 회의적인 반응을 보이고 있습니다.",
+      "text": "Se muestran reacciones escépticas sobre el estado del equilibrio del juego y la fiabilidad de la tier list.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "개인의 취향에 따라 성능 체감이 다르므로 티어표가 큰 의미가 없다는 의견과 유행하는 캐릭터를 사용하는 것이 좋다는 의견이 있습니다.",
+      "text": "Existen opiniones de que la tier list no tiene mucho sentido debido a que la percepción del rendimiento varía según el gusto personal, y otras que sugieren que es mejor usar los personajes que están de moda.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "게임 쿠폰 정보",
+      "text": "Información de cupones del juego",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "게임에서 사용할 수 있는 쿠폰 코드 2종이 공유되었습니다.",
+      "text": "Se han compartido 2 códigos de cupón que se pueden usar en el juego.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "쿠폰 등록 방법과 이벤트 관련 문의 및 감사 인사가 있었습니다.",
+      "text": "Hubo consultas sobre el método de registro de cupones y eventos, así como mensajes de agradecimiento.",
       "unresolvedTerms": []
     },
     {
@@ -4231,6 +5026,16 @@
       ]
     },
     {
+      "source": "게임 캐릭터 커스터마이징의 효용성",
+      "text": "La utilidad de la personalización de personajes en el juego",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "게임 내에서 캐릭터가 작게 보여 커스터마이징에 많은 노력을 들일 필요가 없다는 의견입니다.",
+      "text": "Es la opinión de que no es necesario dedicar mucho esfuerzo a la personalización debido a que los personajes se ven pequeños dentro del juego.",
+      "unresolvedTerms": []
+    },
+    {
       "source": "SSR 용속성 대검 획득 후 리세마라 고민",
       "text": "Dudas sobre el reroll tras obtener Gran espada de atributo dragón SSR",
       "unresolvedTerms": []
@@ -4243,6 +5048,28 @@
     {
       "source": "상시 캐릭터를 제공하므로 어떤 캐릭터로 시작해도 무방하다는 의견과 뽑기 결과에 대한 아쉬움을 나타내는 반응이 있습니다.",
       "text": "Hay opiniones que sugieren que no importa con qué personaje empezar ya que se proporcionan personajes permanentes, y reacciones que expresan decepción por los resultados del gacha.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "특정 캐릭터 성능 평가",
+      "text": "Evaluación del rendimiento de personajes específicos",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "해당 캐릭터의 조작감이 우수하다는 의견이 있습니다.",
+      "text": "Hay opiniones que indican que la sensación de control de dicho personaje es excelente.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "마비 효과를 가진 동료로서의 성능이 뛰어나다는 의견이 있습니다.",
+      "text": "Hay opiniones que indican que su rendimiento como compañero con efecto de 마비 es sobresaliente.",
+      "unresolvedTerms": [
+        "마비"
+      ]
+    },
+    {
+      "source": "함정 스킬을 활용해 적에게 경직을 유도하고 공격 기회를 확보할 수 있다는 평가가 있습니다.",
+      "text": "Se evalúa que se puede inducir el aturdimiento en los enemigos y asegurar oportunidades de ataque utilizando habilidades de trampa.",
       "unresolvedTerms": []
     },
     {
@@ -4282,33 +5109,20 @@
       "unresolvedTerms": []
     },
     {
-      "source": "교환 코드 저장",
-      "text": "Guardar código de intercambio",
+      "source": "SSR 캐릭터 사용 후기",
+      "text": "Reseña tras el uso de un personaje SSR",
       "unresolvedTerms": []
     },
     {
-      "source": "게임 오픈 시 사용할 교환 코드를 잊지 않기 위해 기록해 두려는 목적의 글입니다.",
-      "text": "Este es un texto con el propósito de registrar los códigos de intercambio para no olvidarlos al abrir el juego.",
-      "unresolvedTerms": []
+      "source": "특정 캐릭터인 페페를 주력으로 사용 중이며, 높은 기동성과 재장전이 필요 없는 무한 탄환 기능이 장점이라고 언급함.",
+      "text": "Se menciona que se está utilizando como principal al personaje específico 페페, destacando su alta movilidad y la función de munición infinita que no requiere recarga como ventajas.",
+      "unresolvedTerms": [
+        "페페"
+      ]
     },
     {
-      "source": "추가적인 코드가 있는지 궁금해하거나 더 발견하면 공유해달라는 의견이 있습니다.",
-      "text": "Hay opiniones que preguntan si existen códigos adicionales o piden que se compartan si se encuentran más.",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "뽑기 결과 공유",
-      "text": "Compartir resultados de invocación",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "특별 아이템 5개를 단일 뽑기로 시도하여 2개를 획득했다는 내용입니다.",
-      "text": "Se trata del contenido de que se intentó una invocación individual para obtener 5 objetos especiales y se consiguieron 2.",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "획득 결과에 대한 부러움과 배포 캐릭터일 가능성을 언급하는 의견이 있습니다.",
-      "text": "Hay opiniones que expresan envidia por los resultados obtenidos y mencionan la posibilidad de que sea un personaje de distribución.",
+      "source": "캐릭터의 재미와 특정 스택 활용 시의 강력한 성능에 대해 긍정적인 반응을 보임.",
+      "text": "Muestra una reacción positiva sobre la diversión del personaje y su potente rendimiento al utilizar ciertos stacks.",
       "unresolvedTerms": []
     },
     {
@@ -4347,13 +5161,18 @@
       ]
     },
     {
-      "source": "게임 내 캐릭터 커스터마이징 효용성",
-      "text": "Utilidad de la personalización de personajes dentro del juego",
+      "source": "커뮤니티 운영 방식에 대한 불만",
+      "text": "Insatisfacción con la forma de gestión de la comunidad",
       "unresolvedTerms": []
     },
     {
-      "source": "캐릭터를 정성 들여 꾸며도 실제 게임 플레이 중에는 눈에 잘 띄지 않아 커스터마이징의 필요성을 느끼지 못한다는 의견입니다.",
-      "text": "Hay opiniones de que, aunque se dedique esfuerzo a decorar al personaje, este no destaca mucho durante el juego real, por lo que no se siente la necesidad de la personalización.",
+      "source": "작성자는 커뮤니티 관리 방식에 불만을 표하며 다른 커뮤니티로 이동하겠다는 의사를 밝혔습니다.",
+      "text": "El autor expresó su insatisfacción con el método de gestión de la comunidad y manifestó su intención de mudarse a otra comunidad.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "관리 부재를 이유로 다른 커뮤니티로 이동하자는 의견과 대안을 묻는 반응이 있습니다.",
+      "text": "Existen opiniones que sugieren mudarse a otra comunidad debido a la falta de gestión, así como reacciones preguntando por alternativas.",
       "unresolvedTerms": []
     },
     {
@@ -4364,82 +5183,29 @@
       ]
     },
     {
-      "source": "특정 캐릭터에 대한 흥미가 낮아 리세마라 없이 게임을 시작하겠다는 의견입니다.",
-      "text": "Hay opiniones de que se comenzará el juego sin realizar 리세마라 debido al bajo interés en ciertos personajes.",
-      "unresolvedTerms": [
-        "리세마라"
-      ]
-    },
-    {
-      "source": "리세마라를 하지 않고 바로 시작하겠다는 의견이 다수입니다.",
-      "text": "La mayoría de las opiniones indican que comenzarán directamente sin realizar 리세마라.",
-      "unresolvedTerms": [
-        "리세마라"
-      ]
-    },
-    {
-      "source": "게임 내 캐릭터 성능과 속성별 육성 필요성에 대한 의견이 있습니다.",
-      "text": "Existen opiniones sobre el rendimiento de los personajes en el juego y la necesidad de entrenar según cada atributo.",
+      "source": "특정 캐릭터에 대한 선호도가 낮아 리세마라를 하지 않고 기존 캐릭터로 플레이할 의사를 밝힘.",
+      "text": "Debido a la baja preferencia por ciertos personajes, manifestó su intención de jugar con sus personajes actuales sin realizar reroll.",
       "unresolvedTerms": []
     },
     {
-      "source": "게임 쿠폰 정보",
-      "text": "Información de cupones del juego",
+      "source": "리세마라를 하지 않겠다는 의견이 다수이며, 게임 내 캐릭터 성능이나 속성별 육성 필요성을 언급하는 의견도 있음.",
+      "text": "La mayoría de las opiniones indican que no realizarán reroll, y también hay comentarios que mencionan el rendimiento de los personajes en el juego o la necesidad de crianza por atributos.",
       "unresolvedTerms": []
     },
     {
-      "source": "게임에서 사용할 수 있는 쿠폰 코드 2종이 공유되었습니다.",
-      "text": "Se han compartido 2 códigos de cupón que se pueden usar en el juego.",
+      "source": "게임 캐릭터 커스터마이징 공유 요청",
+      "text": "Solicitud de compartir personalización de personajes del juego",
       "unresolvedTerms": []
     },
     {
-      "source": "쿠폰 등록 방법과 이벤트 관련 문의 및 감사 인사가 있었습니다.",
-      "text": "Hubo consultas sobre el método de registro de cupones y eventos, así como mensajes de agradecimiento.",
+      "source": "인게임 캐릭터의 볼살 표현이 다소 아쉽지만 전반적으로 만족스러운 커스터마이징 결과물이라는 의견입니다.",
+      "text": "La opinión es que, aunque la expresión de las mejillas de los personajes en el juego es algo decepcionante, el resultado de la personalización es satisfactorio en general.",
       "unresolvedTerms": []
     },
     {
-      "source": "서버 선택 화면에 대한 우려",
-      "text": "Preocupación sobre la pantalla de selección de servidor",
+      "source": "캐릭터가 예쁘다는 반응과 함께 커스터마이징 정보를 공유해달라는 요청이 이어지고 있습니다.",
+      "text": "Junto con reacciones de que los personajes son bonitos, continúan las solicitudes para compartir información de personalización.",
       "unresolvedTerms": []
-    },
-    {
-      "source": "서버를 선택해야 하는 게임 방식에 대해 부정적인 인상을 받았다는 의견입니다.",
-      "text": "Es una opinión que expresa una impresión negativa sobre el estilo de juego que requiere seleccionar un servidor.",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "MMORPG 장르에서 서버 혼잡도 표시가 필요한지에 대한 의문이 있습니다.",
-      "text": "Existe la duda de si es necesario mostrar la congestión del servidor en el género MMORPG.",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "서버 통합 가능성에 대해 언급하며, 멀티 서버 환경이 게임 흥망성쇠에 따라 장단점이 될 수 있다는 의견이 있습니다.",
-      "text": "Se menciona la posibilidad de una integración de servidores, con la opinión de que el entorno de múltiples servidores puede ser una ventaja o desventaja según el auge o caída del juego.",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "특정 캐릭터 성능 평가",
-      "text": "Evaluación del rendimiento de personajes específicos",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "해당 캐릭터의 조작감이 우수하다는 의견이 있습니다.",
-      "text": "Hay opiniones que indican que la sensación de control de dicho personaje es excelente.",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "마비 효과를 가진 동료로서의 성능이 뛰어나다는 의견이 있습니다.",
-      "text": "Hay opiniones que indican que su rendimiento como compañero con efecto de 마비 es sobresaliente.",
-      "unresolvedTerms": [
-        "마비"
-      ]
-    },
-    {
-      "source": "함정 스킬을 활용해 적에게 경직을 유도하고 공격 기회를 확보할 수 있다는 분석이 있습니다.",
-      "text": "Hay un análisis que indica que se pueden utilizar las 함정 스킬 para inducir rigidez en los enemigos y asegurar oportunidades de ataque.",
-      "unresolvedTerms": [
-        "함정 스킬"
-      ]
     },
     {
       "source": "SSR 대검 획득 후 리세마라 여부 고민",
@@ -4447,62 +5213,38 @@
       "unresolvedTerms": []
     },
     {
-      "source": "주로 사용하는 무기인 태도와 다른 대검 SSR 캐릭터를 획득하여 리세마라를 다시 할지 고민 중이라는 내용입니다.",
-      "text": "El contenido trata sobre la duda de si volver a hacer reroll tras obtener otro personaje SSR Gran espada diferente al Espada larga, que es el arma que se utiliza principalmente.",
+      "source": "사용자가 50회 뽑기에서 SSR 대검 캐릭터를 획득했으나, 주력 무기인 태도와 달라 리세마라를 다시 해야 할지 고민하고 있습니다.",
+      "text": "El usuario obtuvo el personaje SSR Gran espada en 50 tiradas, pero está considerando si debe realizar un reroll debido a que es diferente de su arma principal, Espada larga.",
       "unresolvedTerms": []
     },
     {
-      "source": "뽑기 캐릭터는 스킬 보조나 솔로 플레이용으로 활용 가능하며, 출전 변경을 통해 직접 조작할 수 있다는 의견이 있습니다.",
-      "text": "Hay opiniones de que los personajes obtenidos mediante tiradas pueden utilizarse para apoyo de habilidades o para juego en solitario, y que se pueden controlar directamente cambiando la formación de combate.",
+      "source": "뽑기 캐릭터는 서브용이나 스킬 보조용으로 활용하기 좋다는 의견이 있습니다.",
+      "text": "Hay opiniones de que el personaje obtenido es bueno para usar como apoyo secundario o para asistencia de habilidades.",
       "unresolvedTerms": []
     },
     {
-      "source": "캐릭터의 성능이나 속성에 따라 본캐릭터를 육성하는 것이 효율적이라는 의견과 리세마라가 불필요하다는 반응이 있습니다.",
-      "text": "Existen opiniones de que es eficiente entrenar al personaje principal según su rendimiento o atributo, y reacciones de que el 리세마라 es innecesario.",
-      "unresolvedTerms": [
-        "리세마라"
-      ]
-    },
-    {
-      "source": "아웃랜 엔드 콘텐츠 보상 및 캐릭터 성능 관련",
-      "text": "Relacionado con las recompensas de contenido de fin de juego de 아웃랜 y el rendimiento de los personajes",
-      "unresolvedTerms": [
-        "아웃랜"
-      ]
-    },
-    {
-      "source": "엔드 콘텐츠 보상은 재화와 칭호 위주이며, 칭호 꾸미기 요소가 상위 유저를 위한 보상이라는 주장이 제기되었습니다. 또한 기본 주인공 캐릭터의 공격력이 가챠 캐릭터보다 높을 수 있다는 의견이 포함되었습니다.",
-      "text": "Se ha planteado la afirmación de que las recompensas de contenido de fin de juego se centran en divisas y títulos, y que los elementos de personalización de títulos son recompensas para los usuarios de alto nivel. Además, se incluyó la opinión de que el ataque del personaje protagonista básico podría ser mayor que el de los personajes de gacha.",
+      "source": "캐릭터를 교체하여 직접 조작하며 플레이할 수 있으므로 리세마라가 불필요하다는 의견이 있습니다.",
+      "text": "Hay opiniones de que el reroll es innecesario ya que se puede cambiar de personaje y jugar controlándolo directamente.",
       "unresolvedTerms": []
     },
     {
-      "source": "가챠 캐릭터의 성능에 의문을 표하거나, 주인공 캐릭터를 포함한 파티 구성의 효율성을 고민해야 한다는 의견이 있습니다.",
-      "text": "Existen opiniones que cuestionan el rendimiento de los personajes de gacha o que sugieren que se debe considerar la eficiencia de la composición del grupo, incluyendo al personaje protagonista.",
+      "source": "결국 본캐릭터를 육성하는 것이 중요하며, 캐릭터의 속성 등에 따라 메인 활용도가 달라질 수 있다는 의견이 있습니다.",
+      "text": "En última instancia, hay opiniones de que lo importante es desarrollar al personaje principal, y que su utilidad principal puede variar según el atributo del personaje, entre otros factores.",
       "unresolvedTerms": []
     },
     {
-      "source": "게임성 및 과금 체계에 대한 긍정적 평가",
-      "text": "Evaluaciones positivas sobre la jugabilidad y el sistema de monetización",
+      "source": "게임 내 캐릭터 외형 관련 의견",
+      "text": "Opiniones relacionadas con la apariencia de los personajes en el juego",
       "unresolvedTerms": []
     },
     {
-      "source": "현재 게임은 특정 캐릭터를 제외하면 무난한 성능을 보이며, 과금 모델이 무소과금 이용자에게 유리하게 구성되어 있다는 의견입니다.",
-      "text": "Hay opiniones de que, actualmente, el juego muestra un rendimiento aceptable excepto por ciertos personajes, y que el modelo de monetización está configurado de manera favorable para los usuarios sin gastos o de bajo gasto.",
+      "source": "게임 내 캐릭터의 정면 모습이 어색하다는 의견이 제기되었습니다.",
+      "text": "Se han presentado opiniones de que la vista frontal de los personajes en el juego resulta extraña.",
       "unresolvedTerms": []
     },
     {
-      "source": "주인공과 특정 등급 캐릭터의 성능이 준수하며, 일일 퀘스트를 통한 성장 지원이 원활하다는 반응이 있습니다.",
-      "text": "Hay reacciones que indican que el rendimiento del protagonista y de los personajes de ciertos grados es decente, y que el apoyo al crecimiento a través de las misiones diarias es fluido.",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "속성 시스템을 통한 밸런스 조절은 긍정적이나, 향후 발생할 수 있는 성능 인플레이션에 대한 우려도 존재합니다.",
-      "text": "El ajuste de equilibrio mediante el sistema de atributos es positivo, pero también existe la preocupación sobre la posible inflación de rendimiento en el futuro.",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "과금 난이도에 대해서는 이용자마다 체감하는 정도에 차이가 있다는 의견이 있습니다.",
-      "text": "Hay opiniones de que el grado de dificultad de los micropagos varía según la percepción de cada usuario.",
+      "source": "눈매를 수정해야 한다는 의견과 캐릭터의 이미지가 변했다는 반응이 있습니다.",
+      "text": "Hay opiniones de que se debe corregir la mirada y reacciones de que la imagen del personaje ha cambiado.",
       "unresolvedTerms": []
     },
     {
@@ -4533,72 +5275,105 @@
       "unresolvedTerms": []
     },
     {
-      "source": "캐릭터와 무기 매칭 관련 질문",
-      "text": "Preguntas relacionadas con la combinación de personajes y armas",
+      "source": "여성 캐릭터 커스터마이징 코드 공유",
+      "text": "Compartir código de personalización de personajes femeninos",
       "unresolvedTerms": []
     },
     {
-      "source": "캐릭터가 특정 무기군을 자유롭게 사용할 수 있는지에 대해 질문함",
-      "text": "Se pregunta si los personajes pueden usar libremente un tipo de arma específico",
+      "source": "작성자가 직접 제작한 여성 캐릭터의 외형 설정 코드를 공유하며 사용을 권장함.",
+      "text": "El autor comparte el código de configuración de apariencia de un personaje femenino creado por él mismo y recomienda su uso.",
       "unresolvedTerms": []
     },
     {
-      "source": "대부분의 캐릭터는 무기 종류가 고정되어 있다는 의견이 있음",
-      "text": "Existe la opinión de que la mayoría de los personajes tienen tipos de armas fijos",
+      "source": "캐릭터의 외형에 대한 다양한 반응과 함께 인게임 스크린샷이 필요하다는 의견이 있음.",
+      "text": "Hay opiniones con diversas reacciones sobre la apariencia del personaje, junto con la necesidad de capturas de pantalla dentro del juego.",
       "unresolvedTerms": []
     },
     {
-      "source": "티어표에 얽매이지 말고 자유롭게 플레이하라는 조언이 있음",
-      "text": "Hay consejos de jugar libremente sin limitarse a las tablas de clasificación (tier lists)",
+      "source": "코드가 적용되지 않는다는 기술적인 문제 제기도 존재함.",
+      "text": "También existen alegaciones sobre problemas técnicos en los que los códigos no se aplican.",
       "unresolvedTerms": []
     },
     {
-      "source": "SSR 캐릭터 사용 후기",
-      "text": "Reseña tras el uso de un personaje SSR",
+      "source": "게임성 및 과금 체계에 대한 긍정적 평가",
+      "text": "Evaluaciones positivas sobre la jugabilidad y el sistema de monetización",
       "unresolvedTerms": []
     },
     {
-      "source": "특정 캐릭터인 페페가 높은 기동성과 재장전이 필요 없는 무한 탄환 특성 덕분에 성능이 좋다는 의견입니다.",
-      "text": "Es la opinión de que el personaje específico 페페 tiene un buen rendimiento gracias a su alta movilidad y a la característica de munición infinita que no requiere recarga.",
+      "source": "현재 게임은 특정 캐릭터 외에는 성능이 무난하며, 과금 모델이 유저 친화적으로 구성되어 무소과금 이용자가 즐기기에 적합하다는 의견입니다.",
+      "text": "La opinión actual es que, a excepción de ciertos personajes, el rendimiento del juego es aceptable y el modelo de monetización está configurado de forma amigable para el usuario, lo que lo hace adecuado para jugadores que no realizan grandes gastos.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "주인공과 낮은 등급 캐릭터의 성능이 준수하며, 재화 수급을 통한 성장 구조가 긍정적이라는 반응이 있습니다.",
+      "text": "Hay reacciones que indican que el rendimiento del protagonista y de los personajes de bajo grado es decente, y que la estructura de crecimiento mediante la obtención de recursos es positiva.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "속성 시스템을 통한 밸런스 조절은 긍정적이나, 향후 발생할 수 있는 성능 인플레이션에 대한 우려도 존재합니다.",
+      "text": "El ajuste de equilibrio mediante el sistema de atributos es positivo, pero también existe la preocupación sobre la posible inflación de rendimiento en el futuro.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "과금 난이도에 대해서는 개인마다 체감하는 정도가 다르다는 의견이 있습니다.",
+      "text": "Respecto a la dificultad de monetización, existen opiniones de que el grado en que se percibe varía según cada individuo.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "특별 아이템 획득 후기",
+      "text": "Reseña tras obtener un objeto especial",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "특별 아이템 5개를 단일 뽑기로 시도하여 2개를 획득했다는 내용입니다.",
+      "text": "Se trata del contenido de que se intentó una invocación individual para obtener 5 objetos especiales y se consiguieron 2.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "획득 결과에 대한 부러움과 배포 캐릭터 여부에 대한 의견이 있습니다.",
+      "text": "Hay envidia por los resultados obtenidos y opiniones sobre si el personaje será distribuido gratuitamente.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "캐릭터 커스터마이징 공유 방법 문의",
+      "text": "Consulta sobre el método para compartir la personalización de personajes",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "작성자는 동양인 스타일로 캐릭터를 제작했으나 게임 특유의 표정 표현에 아쉬움을 느끼며, 제작한 커스터마이징 정보를 공유할 수 있는지 질문함.",
+      "text": "El autor creó un personaje con estilo asiático, pero siente decepción por la expresión facial característica del juego, y pregunta si es posible compartir la información de la personalización creada.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "커스터마이징 정보를 공유하는 구체적인 방법(공유 버튼 위치 등)에 대한 정보가 공유됨.",
+      "text": "Se ha compartido información sobre el método específico para compartir la información de personalización (como la ubicación del botón de compartir, etc.).",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "특정 캐릭터의 성능 추천",
+      "text": "Recomendación de rendimiento de personajes específicos",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "작성자는 '번개맨'이라는 캐릭터를 반드시 획득해야 하는 최고의 동료로 추천하고 있습니다.",
+      "text": "El autor recomienda al personaje '번개맨' como el mejor compañero que se debe obtener sin falta.",
       "unresolvedTerms": [
-        "페페"
+        "번개맨"
       ]
     },
     {
-      "source": "미도리 캐릭터를 사용하지 않고 페페를 주력으로 사용 중이라는 내용입니다.",
-      "text": "Contenido que indica que se está usando a 페페 como principal sin utilizar al personaje 미도리.",
-      "unresolvedTerms": [
-        "미도리",
-        "페페"
-      ]
-    },
-    {
-      "source": "페페 캐릭터의 재미와 집중 스택 활용 시의 강력한 성능에 대해 긍정적인 반응이 있습니다.",
-      "text": "Hay reacciones positivas sobre la diversión de 페페 y su potente rendimiento al utilizar el stack de concentración.",
-      "unresolvedTerms": [
-        "페페"
-      ]
-    },
-    {
-      "source": "캐릭터 획득 방법이나 과금 정도를 묻는 질문이 있습니다.",
-      "text": "Hay preguntas sobre los métodos para obtener personajes o sobre el nivel de gasto necesario.",
+      "source": "해당 캐릭터의 구체적인 성능과 정체에 대해 묻는 의견이 있습니다.",
+      "text": "Hay opiniones que preguntan sobre el rendimiento específico y la identidad de dicho personaje.",
       "unresolvedTerms": []
     },
     {
-      "source": "게임 플레이 피로도에 관한 후기",
-      "text": "Reseña sobre la fatiga del juego",
+      "source": "특정 캐릭터의 시각 효과와 마비 기능, 그리고 다른 캐릭터와의 조합을 언급하며 성능을 평가하는 의견이 있습니다.",
+      "text": "Hay opiniones que evalúan el rendimiento mencionando los efectos visuales de un personaje específico, su función de parálisis y su combinación con otros personajes.",
       "unresolvedTerms": []
     },
     {
-      "source": "오픈월드 방식의 구성이 모바일로 즐기기에는 다소 피로감이 느껴지며, 마을 이동보다는 인터페이스를 통한 던전 진입 방식이 더 효율적이었을 것이라는 의견입니다.",
-      "text": "Es la opinión de que la configuración de estilo mundo abierto resulta algo fatigante para jugar en móviles, y que habría sido más eficiente un método de entrada a 던전 a través de la interfaz en lugar de desplazarse por la ciudad.",
-      "unresolvedTerms": [
-        "던전"
-      ]
-    },
-    {
-      "source": "모바일 환경을 고려했을 때 게임 방식이 복잡하다는 점에 공감하거나, 게임의 장르적 특성상 피로도가 발생할 수 있다는 의견이 있습니다.",
-      "text": "Hay opiniones que coinciden en que el método de juego es complejo considerando el entorno móvil, o que la fatiga puede surgir debido a las características del género del juego.",
+      "source": "캐릭터 커스터마이징 의견 요청",
+      "text": "Solicitud de opiniones sobre la personalización de personajes",
       "unresolvedTerms": []
     },
     {
@@ -4621,21 +5396,6 @@
       "unresolvedTerms": []
     },
     {
-      "source": "게임 내 캐릭터 외형 관련 의견",
-      "text": "Opiniones relacionadas con la apariencia de los personajes en el juego",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "게임 내 캐릭터의 정면 모습이 부자연스럽다는 의견이 제기되었습니다.",
-      "text": "Se ha planteado la opinión de que la apariencia frontal de los personajes en el juego resulta poco natural.",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "눈매를 수정해야 한다는 의견과 캐릭터의 이미지가 변했다는 반응이 있습니다.",
-      "text": "Hay opiniones de que se debe corregir la mirada y reacciones de que la imagen del personaje ha cambiado.",
-      "unresolvedTerms": []
-    },
-    {
       "source": "리세마라 성공 여부 문의",
       "text": "Consulta sobre el éxito del 리세마라",
       "unresolvedTerms": [
@@ -4653,80 +5413,6 @@
       "unresolvedTerms": [
         "리세마라"
       ]
-    },
-    {
-      "source": "리세마라 필요성 여부",
-      "text": "Necesidad de 리세마라",
-      "unresolvedTerms": [
-        "리세마라"
-      ]
-    },
-    {
-      "source": "최근 출시되는 중국 게임들은 캐릭터 성능 변화가 빨라 리세마라의 효율이 낮다는 의견이 있습니다.",
-      "text": "Hay opiniones de que la eficiencia del reroll es baja en los juegos chinos lanzados recientemente debido a que los cambios en el rendimiento de los personajes son rápidos.",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "한국 서버 단독 운영에 대한 불만",
-      "text": "Insatisfacción con la gestión exclusiva del servidor de Corea",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "한국 서버가 별도로 분리되어 운영되는 방식에 대해 부정적인 의견이 제기되었습니다.",
-      "text": "Se han planteado opiniones negativas sobre el método de gestión en el que el servidor de Corea opera de forma separada.",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "매칭 문제 등을 이유로 일본 서버로의 이전을 고려해야 한다는 주장이 있습니다.",
-      "text": "Existen argumentos que sostienen que se debería considerar la migración al servidor de Japón debido a problemas de emparejamiento, entre otros.",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "일본 서버 또한 한국 서버와 마찬가지로 클라이언트가 분리되어 운영된다는 의견이 있습니다.",
-      "text": "Existen opiniones de que el servidor de Japón también se opera con un cliente separado, al igual que el servidor de Corea.",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "아시아 서버 이용을 대안으로 제시하는 의견이 있습니다.",
-      "text": "Hay opiniones que sugieren el uso del servidor de Asia como alternativa.",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "첫 구매 캐릭터 추천 문의",
-      "text": "Consulta sobre recomendación de personaje para la primera compra",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "무료로 제공되는 캐릭터를 고려했을 때 아케니아를 선택하는 것이 좋을지 질문함",
-      "text": "Pregunta si sería bueno elegir 아케니아 considerando los personajes proporcionados gratuitamente",
-      "unresolvedTerms": [
-        "아케니아"
-      ]
-    },
-    {
-      "source": "특정 캐릭터는 이벤트 재화로 획득 가능하므로 아케니아가 적절하다는 의견과 케레스와의 비교를 묻는 의견이 있음",
-      "text": "Hay opiniones de que 아케니아 es adecuado ya que ciertos personajes se pueden obtener con moneda de evento, y opiniones que preguntan una comparación con 케레스",
-      "unresolvedTerms": [
-        "케레스",
-        "아케니아"
-      ]
-    },
-    {
-      "source": "헤보 세팅 관련 의견",
-      "text": "Opiniones sobre la configuración de 헤보",
-      "unresolvedTerms": [
-        "헤보"
-      ]
-    },
-    {
-      "source": "기본 회심률을 고려했을 때 무기는 속성 위주로 선택하면 된다는 의견입니다.",
-      "text": "Considerando la tasa de crítico base, la opinión es que se pueden elegir armas centradas en el atributo.",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "해당 캐릭터의 획득 방식에 대한 질문과 답변이 있었습니다.",
-      "text": "Hubo preguntas y respuestas sobre el método de obtención de dicho personaje.",
-      "unresolvedTerms": []
     },
     {
       "source": "게임 초반 플레이 후기",
@@ -4751,14 +5437,160 @@
       "unresolvedTerms": []
     },
     {
-      "source": "커스터마이징 공유 관련",
-      "text": "Relacionado con el uso compartido de la personalización",
+      "source": "헤보 세팅 관련 의견",
+      "text": "Opiniones sobre la configuración de 헤보",
+      "unresolvedTerms": [
+        "헤보"
+      ]
+    },
+    {
+      "source": "기본 회심률을 고려했을 때 무기는 속성 위주로 선택하면 된다는 의견입니다.",
+      "text": "Considerando la tasa de crítico base, la opinión es que se pueden elegir armas centradas en el atributo.",
       "unresolvedTerms": []
     },
     {
-      "source": "본문 정보 부족으로 내용을 요약할 수 없습니다.",
-      "text": "No es posible resumir el contenido debido a la falta de información en el texto principal.",
+      "source": "해당 캐릭터의 획득 방식에 대한 질문과 답변이 있었습니다.",
+      "text": "Hubo preguntas y respuestas sobre el método de obtención de dicho personaje.",
       "unresolvedTerms": []
+    },
+    {
+      "source": "게임 캐릭터 스크린샷 공유",
+      "text": "Compartir capturas de pantalla de personajes del juego",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "작성자가 직접 만든 여성 캐릭터의 외형을 공유하며 트윈테일 헤어스타일이 없는 점에 아쉬움을 표했습니다.",
+      "text": "El autor compartió la apariencia de un personaje femenino creado por él mismo y expresó su decepción por la falta de un peinado de coletas (twintails).",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "캐릭터의 분위기가 좋다는 반응과 특정 게임의 스타일을 언급하는 의견이 있었습니다.",
+      "text": "Hubo reacciones diciendo que la atmósfera del personaje es buena y opiniones que mencionaron el estilo de un juego específico.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "첫 구매 캐릭터 추천 문의",
+      "text": "Consulta sobre recomendación de personaje para la primera compra",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "무료로 제공되는 캐릭터를 고려했을 때 아케니아를 선택하는 것이 좋을지 질문함",
+      "text": "Pregunta si sería bueno elegir 아케니아 considerando los personajes proporcionados gratuitamente",
+      "unresolvedTerms": [
+        "아케니아"
+      ]
+    },
+    {
+      "source": "특정 캐릭터는 이벤트 재화로 획득 가능하므로 아케니아가 적절하다는 의견과 케레스와의 비교를 묻는 의견이 있음",
+      "text": "Hay opiniones de que 아케니아 es adecuado ya que ciertos personajes se pueden obtener con moneda de evento, y opiniones que preguntan una comparación con 케레스",
+      "unresolvedTerms": [
+        "케레스",
+        "아케니아"
+      ]
+    },
+    {
+      "source": "랜스 캐릭터 3종 주관적 평가",
+      "text": "Evaluación subjetiva de Lanza personaje 3 especies",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "작성자는 주인공은 범용성은 높으나 자가 딜링 능력이 부족하고, 아케니아는 유지력은 좋으나 모션이 느려 제약이 크며, 폴리오는 높은 기초 공격력과 유연한 스킬셋으로 DPS가 우수하다고 평가했습니다.",
+      "text": "El autor evaluó que el protagonista tiene una alta versatilidad pero carece de capacidad de daño propio, que 아케니아 tiene buena capacidad de supervivencia pero sus movimientos son lentos lo que supone una gran limitación, y que 폴리오 tiene un DPS excelente gracias a su alto ataque base y conjunto de habilidades flexible.",
+      "unresolvedTerms": [
+        "아케니아",
+        "폴리오"
+      ]
+    },
+    {
+      "source": "작성자의 개인적인 선호도는 폴리오, 주인공, 아케니아 순입니다.",
+      "text": "Las preferencias personales del autor son 폴리오, el protagonista y 아케니아, en ese orden.",
+      "unresolvedTerms": [
+        "폴리오",
+        "아케니아"
+      ]
+    },
+    {
+      "source": "아케니아의 운영 방식에 따라 지속적인 공격과 강력한 한 방이 가능하다는 의견이 있습니다.",
+      "text": "Existen opiniones de que, según la forma de operar a 아케니아, es posible realizar ataques continuos y un golpe poderoso.",
+      "unresolvedTerms": [
+        "아케니아"
+      ]
+    },
+    {
+      "source": "아케니아의 가드 반격 모션이 길어 실패 시 손해가 크다는 의견이 있습니다.",
+      "text": "Hay opiniones de que la animación de contraataque de guardia de 아케니아 es larga, por lo que las pérdidas son grandes en caso de fallo.",
+      "unresolvedTerms": [
+        "아케니아"
+      ]
+    },
+    {
+      "source": "게임 플레이 후기",
+      "text": "Reseña de la experiencia de juego",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "오픈월드 방식의 구성이 모바일로 즐기기에는 다소 피로감이 느껴진다는 의견입니다. 액션성은 훌륭하지만, 마을 이동보다는 인터페이스를 통한 던전 진입 방식이 모바일 환경에 더 적합했을 것이라는 아쉬움을 표했습니다.",
+      "text": "Existe la opinión de que la estructura de mundo abierto resulta algo fatigante para jugar en dispositivos móviles. Aunque la acción es excelente, se expresó el pesar de que un método de entrada a las 던전 a través de la interfaz, en lugar de desplazarse por las aldeas, habría sido más adecuado para el entorno móvil.",
+      "unresolvedTerms": [
+        "던전"
+      ]
+    },
+    {
+      "source": "모바일 환경에서의 조작 피로도에 공감하며, 게임 구조를 가챠 게임처럼 간소화하거나 인스턴스 던전 방식으로 변경했다면 더 좋았을 것이라는 의견이 있습니다.",
+      "text": "Se coincide con la fatiga de control en el entorno móvil, y existen opiniones de que habría sido mejor si la estructura del juego se hubiera simplificado como un juego gacha o se hubiera cambiado a un sistema de mazmorras de instancia.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "해당 장르의 특성이라는 의견과 게임 자체의 문제라는 의견이 나뉘고 있습니다.",
+      "text": "Las opiniones se dividen entre que es una característica del género y que es un problema del propio juego.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "미도리 캐릭터의 다양한 속성 활용 제안",
+      "text": "Propuesta de utilizar diversas propiedades del personaje 미도리",
+      "unresolvedTerms": [
+        "미도리"
+      ]
+    },
+    {
+      "source": "미도리 캐릭터를 사용할 때 불속성 외에도 수면, 마비, 독, 폭파 등 상태이상 특화 세팅을 활용하여 범용성을 높일 것을 권장함.",
+      "text": "Al usar al personaje 미도리, se recomienda aumentar la versatilidad utilizando configuraciones especializadas en estados alterados como sueño, parálisis, veneno y explosión, además del atributo de fuego.",
+      "unresolvedTerms": [
+        "미도리"
+      ]
+    },
+    {
+      "source": "특정 장비를 강화하면 마비 효과를 얻을 수 있으며, 캐릭터의 성능을 극대화하기 위해 상태이상 세팅을 고려해볼 만함.",
+      "text": "Al mejorar un equipo específico se puede obtener el efecto de parálisis, y para maximizar el rendimiento del personaje, vale la pena considerar una configuración de estados alterados.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "마비 약점이 있는 적에게는 상태이상 효과가 빠르게 적용된다는 의견이 있음.",
+      "text": "Hay opiniones de que los efectos de estado se aplican más rápido a los enemigos con debilidad a la parálisis.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "상시 캐릭터와 한정 캐릭터의 수치 차이는 특화 및 각인 여부에 따라 달라질 수 있다는 분석이 있음.",
+      "text": "Existe un análisis de que la diferencia de valores entre los personajes permanentes y los limitados puede variar según si tienen especialización o 각인.",
+      "unresolvedTerms": [
+        "각인"
+      ]
+    },
+    {
+      "source": "페페 그림과 몬스터 헌터 장식 관련 의견",
+      "text": "Opiniones sobre el dibujo de 페페 y los adornos de 몬스터 헌터",
+      "unresolvedTerms": [
+        "몬스터 헌터",
+        "페페"
+      ]
+    },
+    {
+      "source": "작성자는 페페 캐릭터를 그렸으며, 몬스터 헌터의 캐릭터 장식이 종류가 매우 많고 디자인이 복잡하다고 언급했습니다.",
+      "text": "El autor dibujó al personaje 페페 y mencionó que los adornos de personaje de 몬스터 헌터 son muy numerosos y de diseño complejo.",
+      "unresolvedTerms": [
+        "몬스터 헌터",
+        "페페"
+      ]
     },
     {
       "source": "리세마라 미도리 획득 실패",
@@ -4794,104 +5626,6 @@
       "unresolvedTerms": []
     },
     {
-      "source": "모바일 게임 플레이 환경에 대한 불만",
-      "text": "Insatisfacción con el entorno de juego móvil",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "모바일 환경에서의 게임 플레이가 원활하지 않다는 의견을 제시하며 게임 방식에 대한 의문을 제기함.",
-      "text": "Se plantean dudas sobre el estilo de juego, señalando que la experiencia de juego en el entorno móvil no es fluida.",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "다양한 몬스터 헌터 시리즈를 번갈아 가며 플레이하는 유저들의 경험이 언급됨.",
-      "text": "Se menciona la experiencia de los usuarios que juegan alternando entre varias series de 몬스터 헌터.",
-      "unresolvedTerms": [
-        "몬스터 헌터"
-      ]
-    },
-    {
-      "source": "몬스터 헌터 게임 평가 차이",
-      "text": "Diferencias en la evaluación del juego 몬스터 헌터",
-      "unresolvedTerms": [
-        "몬스터 헌터"
-      ]
-    },
-    {
-      "source": "숙련도에 따라 무기 선택에 대한 의견이 갈리며, 실력을 키우기 위해 특정 무기를 꾸준히 사용하는 방식이 언급되었습니다.",
-      "text": "Las opiniones sobre la elección de armas varían según la destreza, y se mencionó el método de usar constantemente un arma específica para mejorar la habilidad.",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "해당 게임을 모바일 환경에 맞춘 작품으로 바라봐야 한다는 의견과 호불호가 명확히 나뉠 것이라는 반응이 있습니다.",
-      "text": "Hay opiniones de que se debe ver este juego como una obra adaptada al entorno móvil y reacciones de que las preferencias estarán claramente divididas.",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "게임 캐릭터 커스터마이징 후기",
-      "text": "Reseñas de la personalización de personajes del juego",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "인게임 캐릭터의 볼살 표현이 다소 아쉽지만 전반적으로 만족스러운 커스터마이징 결과물이라는 의견입니다.",
-      "text": "La opinión es que, aunque la expresión de las mejillas de los personajes en el juego es algo decepcionante, el resultado de la personalización es satisfactorio en general.",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "캐릭터가 예쁘다는 반응과 함께 커스터마이징 정보를 공유해달라는 요청이 이어지고 있습니다.",
-      "text": "Junto con reacciones de que los personajes son bonitos, continúan las solicitudes para compartir información de personalización.",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "단검 캐릭터 성능 관련 의견",
-      "text": "Opiniones sobre el rendimiento del personaje de 단검",
-      "unresolvedTerms": [
-        "단검"
-      ]
-    },
-    {
-      "source": "단검을 활용한 회피 공격의 효율성이 높다는 주장이 제기되었습니다.",
-      "text": "Se ha planteado la afirmación de que la eficiencia de los ataques de evasión utilizando 단검 es alta.",
-      "unresolvedTerms": [
-        "단검"
-      ]
-    },
-    {
-      "source": "해당 캐릭터는 교란형이라 활용이 어렵거나 대검 캐릭터에 더 적합하다는 의견이 있습니다.",
-      "text": "Hay opiniones de que dicho personaje es de tipo distracción, por lo que es difícil de utilizar o es más adecuado para un personaje Gran espada.",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "본 캐릭터의 스위치 기능이 가능하다는 의견이 있습니다.",
-      "text": "Hay opiniones de que la función de switch de este personaje es posible.",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "모바일 버전 플레이 후기 문의",
-      "text": "Consulta sobre reseñas de la versión móvil",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "모바일 버전의 게임 플레이 경험이 어떠한지 질문함",
-      "text": "Pregunta sobre cómo es la experiencia de juego en la versión móvil",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "게임의 재미는 높으나 가챠 요소가 존재한다는 의견이 있음",
-      "text": "Hay opiniones de que la diversión del juego es alta, pero existen elementos de gacha",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "일부 이용자는 게임의 완성도에 대해 긍정적인 반응을 보임",
-      "text": "Algunos usuarios muestran una reacción positiva sobre la calidad del juego",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "캐릭터 커스터마이징 의견 요청",
-      "text": "Solicitud de opiniones sobre la personalización de personajes",
-      "unresolvedTerms": []
-    },
-    {
       "source": "리세마라 필요성 논란",
       "text": "Controversia sobre la necesidad de 리세마라",
       "unresolvedTerms": [
@@ -4911,33 +5645,70 @@
       "unresolvedTerms": []
     },
     {
-      "source": "미도리 캐릭터 풀돌 정보",
-      "text": "Información sobre el 풀돌 de 미도리",
+      "source": "작성자는 약 10시간 동안 20회 이상의 리세마라를 진행하여 원하는 결과를 얻었으며, 효율적인 시작을 위해 과금이나 상시 캐릭터 보유를 권장함.",
+      "text": "El autor realizó más de 20 intentos de 리세마라 durante aproximadamente 10 tiempo para obtener el resultado deseado, y recomienda realizar pagos o poseer personajes permanentes para un inicio eficiente.",
       "unresolvedTerms": [
-        "풀돌",
-        "미도리"
+        "리세마라"
       ]
     },
     {
-      "source": "특정 캐릭터를 풀돌파하기 위해서는 천장과 중복 획득을 포함해 총 7장의 카드가 필요하다는 내용입니다.",
-      "text": "Se menciona que para lograr el 풀돌 de un personaje específico, se necesitan un total de 7 cartas, incluyendo el 천장 y la obtención de duplicados.",
+      "source": "리세마라의 난이도에 공감하거나 축하하는 의견이 있음.",
+      "text": "Hay opiniones que empatizan con la dificultad del 리세마라 o que lo celebran.",
       "unresolvedTerms": [
-        "풀돌",
-        "천장"
+        "리세마라"
       ]
     },
     {
-      "source": "캐릭터의 성능과 데미지 수치에 대한 질문이 있었으며, 풀돌까지 걸리는 시간과 비용에 대해 다양한 의견이 오갔습니다.",
-      "text": "Hubo preguntas sobre el rendimiento y las cifras de daño de los personajes, y se intercambiaron diversas opiniones sobre el tiempo y el coste necesarios para alcanzar el 풀돌.",
+      "source": "게임 재미 여부 질문",
+      "text": "Pregunta sobre si el juego es divertido",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "게임이 재미있는지 질문하는 글입니다.",
+      "text": "Es una publicación preguntando si el juego es divertido.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "자유게시판",
+      "text": "Tablón de anuncios libre",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "[공략] 몬헌 아웃랜더스 초반 핵심 가이드! 처음 시작한다면 꼭 확인하세요",
+      "text": "[Guía] ¡Guía esencial para el inicio de 몬헌 아웃랜더스! Asegúrate de revisarla si es tu primera vez",
       "unresolvedTerms": [
-        "풀돌"
+        "몬헌 아웃랜더스"
       ]
     },
     {
-      "source": "일일 보상을 통해 일정 기간이 지나면 풀돌이 가능하다는 의견과 중복 획득 시 포인트가 지급된다는 정보가 공유되었습니다.",
-      "text": "Se compartieron opiniones de que el 풀돌 es posible tras un cierto periodo mediante las recompensas diarias, e información de que se otorgan puntos al obtener duplicados.",
+      "source": "몬스터헌터 아웃랜더스 초반 핵심 가이드 내용입니다.",
+      "text": "Este es el contenido de la guía esencial para el inicio de Monster Hunter Outlanders.",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "본문 텍스트가 없는 게시글",
+      "text": "Publicación sin texto en el cuerpo",
+      "unresolvedTerms": []
+    },
+    {
+      "source": "협동서클 모집",
+      "text": "Reclutamiento de 협동서클",
       "unresolvedTerms": [
-        "풀돌"
+        "협동서클"
+      ]
+    },
+    {
+      "source": "협동서클 가입을 권유하는 글입니다.",
+      "text": "Es un mensaje que recomienda unirse a un 협동서클.",
+      "unresolvedTerms": [
+        "협동서클"
+      ]
+    },
+    {
+      "source": "화랑 모험단원 모집",
+      "text": "Reclutamiento de 화랑 모험단원",
+      "unresolvedTerms": [
+        "화랑 모험단원"
       ]
     },
     {
@@ -4951,14 +5722,56 @@
       "unresolvedTerms": []
     },
     {
-      "source": "자유게시판",
-      "text": "Tablón de anuncios libre",
+      "source": "아이폰 채팅 오류 문의",
+      "text": "Consulta sobre error de chat en iPhone",
       "unresolvedTerms": []
     },
     {
-      "source": "본문 텍스트가 없는 게시글",
-      "text": "Publicación sin texto en el cuerpo",
+      "source": "아이폰 유저가 카카오톡이나 문자에서는 문제가 없으나 게임 채팅창에서만 글쓰기 관련 문제가 발생하는 원인을 묻는 질문입니다.",
+      "text": "Es una pregunta de un usuario de iPhone que consulta la causa de un problema relacionado con la escritura que ocurre únicamente en la ventana de chat del juego, a pesar de no tener problemas en KakaoTalk o mensajes de texto.",
       "unresolvedTerms": []
+    },
+    {
+      "source": "뽑기 결과 후기",
+      "text": "Reseña de resultados de 뽑기",
+      "unresolvedTerms": [
+        "뽑기"
+      ]
+    },
+    {
+      "source": "짤짤이 뽑기에서 행운을 얻었다는 후기입니다.",
+      "text": "Es una reseña sobre haber obtenido suerte en 짤짤이 뽑기.",
+      "unresolvedTerms": [
+        "짤짤이 뽑기"
+      ]
+    },
+    {
+      "source": "일반격투장 튕김 현상 제보",
+      "text": "Reporte de error de cierre inesperado en 일반격투장",
+      "unresolvedTerms": [
+        "일반격투장"
+      ]
+    },
+    {
+      "source": "일반격투장 1%에서 계속 튕김 현상이 발생하여 게임 진행이 되지 않으니 수정을 요청하는 의견입니다.",
+      "text": "Es una opinión que solicita una corrección debido a que ocurre un error de cierre inesperado continuamente en el 1% de 일반격투장, impidiendo el progreso del juego.",
+      "unresolvedTerms": [
+        "일반격투장"
+      ]
+    },
+    {
+      "source": "미도리 사용 후기",
+      "text": "Reseña de uso de 미도리",
+      "unresolvedTerms": [
+        "미도리"
+      ]
+    },
+    {
+      "source": "미도리를 사용했을 때 멋진 연출이 가능하다는 후기입니다.",
+      "text": "Es una reseña que indica que es posible lograr una producción visual increíble al usar 미도리.",
+      "unresolvedTerms": [
+        "미도리"
+      ]
     },
     {
       "source": "게임 튕김 현상 문의",
@@ -4978,11 +5791,6 @@
     {
       "source": "정보가 부족하여 게임 관련 영상을 제작하여 공유한다는 의견입니다.",
       "text": "Es la opinión de que, debido a la falta de información, se producirá un video relacionado con el juego para compartirlo.",
-      "unresolvedTerms": []
-    },
-    {
-      "source": "게임 플레이 후기",
-      "text": "Reseña de la experiencia de juego",
       "unresolvedTerms": []
     },
     {
@@ -5409,52 +6217,54 @@
       "unresolvedTerms": []
     },
     {
-      "source": "내용을 확인한 영상 10편 기준 · 개별 영상 출처 포함",
-      "text": "Basado en 10 videos tras verificar el contenido · Incluye la fuente de cada video individual",
+      "source": "내용을 확인한 영상 12편 기준 · 개별 영상 출처 포함",
+      "text": "Basado en 12 videos revisados · Incluye la fuente de cada video individual",
       "unresolvedTerms": []
     },
     {
-      "source": "게임 시스템 및 조작 방식",
-      "text": "Sistema de juego y método de control",
+      "source": "전투 시스템 및 무기 특징",
+      "text": "Sistema de combate y características de las armas",
       "unresolvedTerms": []
     },
     {
-      "source": "모바일 전용 게임으로 PC 에뮬레이터 사용 시 최적화 문제가 발생할 수 있으며, 초보자를 위한 자동 연계 어시스트 모드와 숙련자를 위한 클래식 모드를 제공합니다. 캐릭터 커스터마이징과 외형 설정이 상세하게 가능하며, 무기별로 고유한 공격 방식과 조작 난이도 차이가 존재합니다. 전투는 몬스터의 패턴에 맞춘 회피와 수동 조작이 중요하며, 타격감이 다소 부족하다는 의견이 있습니다.",
-      "text": "Al ser un juego exclusivo para móviles, pueden ocurrir problemas de optimización al usar un emulador de PC, y ofrece un modo de asistencia de combo automático para principiantes y un modo clásico para expertos. La personalización de personajes y la configuración de apariencia se pueden realizar detalladamente, y existen diferencias en el método de ataque único y la dificultad de control según cada arma. En el combate, la evasión adaptada a los patrones de los 몬스터 y el control manual son importantes, y hay opiniones de que la sensación de impacto es algo insuficiente.",
+      "source": "몬스터의 패턴에 맞춰 기술을 사용하는 전략적 전투가 핵심이며, 저스트 타이밍 기믹과 캐릭터별 고유 액션이 특징이다. 전투 모드는 자동 연계 어시스트(스타팅) 모드와 숙련자용 클래식 모드로 구분되어 선택할 수 있다. 무기별로 조작 난이도와 공격 방식이 다르며, 차액의 조작 난이도가 높고 초보자에게는 가드가 가능한 랜스가 추천된다. 다만, 몬스터 사냥 시 타격감이 다소 부족하다는 의견이 있다.",
+      "text": "El núcleo es el combate estratégico utilizando habilidades según los patrones de los monstruos, caracterizado por mecánicas de tiempo justo y acciones únicas de cada personaje. El modo de combate se divide en el modo de asistencia de combo automático (Starting) y el modo clásico para expertos, permitiendo su elección. La dificultad de control y el método de ataque varían según el arma; la dificultad de control de 차액 es alta, y para principiantes se recomienda la Lanza que permite guardia. Sin embargo, existen opiniones de que la sensación de impacto al cazar monstruos es algo insuficiente.",
       "unresolvedTerms": [
-        "몬스터"
+        "차액"
       ]
     },
     {
-      "source": "캐릭터 및 성장 요소",
-      "text": "Personajes y elementos de crecimiento",
+      "source": "캐릭터 및 장비 성장 구조",
+      "text": "Estructura de crecimiento de personajes y equipo",
       "unresolvedTerms": []
     },
     {
-      "source": "무기 선택 외에도 고유 기술과 역할을 가진 모험가 캐릭터를 선택하는 시스템을 갖추고 있으며, 모험가는 공격, 방해, 지원 역할로 나뉩니다. 채집과 필드 내 시설 제작을 통해 재료를 모으고 장비를 제작하며, 깨달음 포인트 획득, 속성 공명, 모험가 랭크 상승 등을 통해 캐릭터를 성장시킵니다. 무과금 유저는 상점 교환을 통한 풀돌 전략을 활용할 수 있습니다.",
-      "text": "Además de la elección de armas, cuenta con un sistema para seleccionar personajes de aventureros con habilidades y roles únicos, los cuales se dividen en roles de ataque, interrupción y apoyo. Se recolectan materiales mediante la recolección y la fabricación de instalaciones en el campo para crear equipo, y se hace crecer a los personajes a través de la obtención de puntos 깨달음, la resonancia de atributos y el aumento del rango de aventurero. Los jugadores que no realizan microtransacciones pueden utilizar una estrategia de máxima ascensión mediante el intercambio en la tienda.",
+      "source": "캐릭터 커스터마이징을 통해 외형과 신체 세팅을 상세히 설정할 수 있다. 캐릭터는 돌파와 스탯 강화, 깨달음 시스템을 통해 성장하며, 모집 시스템과 동반자 가차를 통해 획득할 수 있다. 필드 내 채집과 사냥으로 얻은 소재를 활용해 장비를 제작하고 강화하며, 사파 시스템을 통해 사파집 레벨을 올리는 등의 성장 요소가 존재한다. 초반에는 주인공을 포함한 소수 정예 캐릭터에게 재화를 집중 투자하는 것이 유리하다.",
+      "text": "A través de la personalización de personajes, se pueden configurar detalladamente la apariencia y los ajustes corporales. Los personajes crecen mediante la ruptura, el fortalecimiento de estadísticas y el sistema 깨달음, y pueden obtenerse a través del sistema de reclutamiento y el gacha de compañeros. Existen elementos de crecimiento como la fabricación y el fortalecimiento de equipo utilizando materiales obtenidos mediante la recolección y la caza en el campo, así como subir el nivel de 사파집 a través del sistema 사파. Al principio, es ventajoso concentrar los recursos en un pequeño grupo de personajes de élite, incluyendo al protagonista.",
       "unresolvedTerms": [
+        "사파",
+        "사파집",
         "깨달음"
       ]
     },
     {
-      "source": "콘텐츠 및 플레이 환경",
-      "text": "Contenido y entorno de juego",
+      "source": "플랫폼 및 최적화 환경",
+      "text": "Plataforma y entorno de optimización",
       "unresolvedTerms": []
     },
     {
-      "source": "최대 4인 협동 플레이가 가능한 거대 몬스터 사냥 게임으로, 실험 원정 파밍과 다양한 경험치 수급처가 존재합니다. 모집 시스템에는 티켓 종류와 천장 제도가 있으며, 과도한 경쟁보다는 외형 아이템 구매 위주의 소과금 운영을 하며 느긋하게 즐기는 것을 추천합니다.",
-      "text": "Es un juego de caza de monstruos gigantes con juego cooperativo disponible para un máximo de 4, y existen el farmeo de expediciones de experimentación y diversas fuentes de obtención de experiencia. El sistema de reclutamiento incluye tipos de tickets y un sistema de pity, y se recomienda disfrutar tranquilamente con una gestión de bajo gasto centrada en la compra de objetos cosméticos en lugar de una competencia excesiva.",
+      "source": "모바일 전용 게임으로 개발되어 모바일 환경의 최적화가 더 뛰어나다. PC 버전이 따로 없으므로 PC에서 플레이하려면 에뮬레이터를 사용해야 하며, 이 경우 최적화 문제나 렉, 멀미 현상이 발생할 수 있다. 기기별로 최적의 조작 환경과 그래픽 설정을 맞추는 것이 권장된다.",
+      "text": "Al haber sido desarrollado como un juego exclusivo para móviles, la optimización para el entorno móvil es superior. Dado que no existe una versión de PC por separado, se debe usar un emulador para jugar en PC, lo que en este caso puede causar problemas de optimización, lag o mareos. Se recomienda ajustar el entorno de control y la configuración gráfica óptimos para cada dispositivo.",
       "unresolvedTerms": []
     },
     {
-      "source": "출시 정보",
-      "text": "Información de lanzamiento",
+      "source": "운영 및 과금 방식",
+      "text": "Operación y método de monetización",
       "unresolvedTerms": []
     },
     {
-      "source": "2025년 10월 29일 아이폰과 안드로이드로 출시되며 기본 플레이는 무료로 제공됩니다. 언어는 중국어, 일본어, 영어를 지원합니다.",
-      "text": "Se lanzará el 29 de 10 de 2025 para iPhone y Android, y el juego básico se ofrecerá de forma gratuita. Los idiomas compatibles son chino, japonés e inglés.",
+      "source": "다양한 모집 티켓과 천장 제도가 존재하며, 배틀 패스를 통해 특정 캐릭터를 획득할 수 있다. 상점 교환을 활용하면 무과금으로도 캐릭터 돌파 전략을 세울 수 있는 등 과금 없이도 즐길 수 있는 운영 방식이 확인된다.",
+      "text": "Existen diversos tickets de reclutamiento y un sistema de techo, y se pueden obtener personajes específicos a través del pase de batalla. Se confirma un método de operación que permite disfrutar sin gastar dinero, como el hecho de que se puede planificar una estrategia de ruptura de personajes incluso sin realizar pagos mediante el uso del intercambio de la tienda.",
       "unresolvedTerms": []
     }
   ]
